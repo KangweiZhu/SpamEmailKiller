@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89ee7025c112738f0c4b738fa9429bcbcf9a4f1760cae60f929b8b3333219644
-size 408
+Subject: conoco supply cuts on oasis 5 / 21 - 5 / 22
+conoco supply from el paso # 9 dwe was cut into oasis :
+5 / 21 nom 10 , 000 cut to 9 , 399 ( cut of 601 )
+5 / 22 nom 10 , 000 cut to 8 , 312 ( cut of 1 , 688 )
+delivery into hpl from oasis katy kept whole .
+i entered these cuts in the estimate column in mops for both oasis / hpl &
+oasis / ena . . . . please verify that is correct .
+thanks ,
+mark

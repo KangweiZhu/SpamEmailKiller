@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b8469952cbc36ec1d3ab8eb9926fb0f7ed3c3ac4de9528265cc5c86ba78b05d2
-size 656
+Subject: start date : 2 / 5 / 02 ; hourahead hour : 20 ;
+start date : 2 / 5 / 02 ; hourahead hour : 20 ; no ancillary schedules awarded . no variances detected .
+log messages :
+parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002020520 . txt
+! ! ! general sql error .
+couldn ' t update ; currently locked .
+table
+- - - - energy import / export schedule - - - -
+* * * final schedule not found for preferred schedule .
+details :
+trans _ type : final
+sc _ id : ectstnw
+mkt _ type : 2
+trans _ date : 2 / 5 / 02
+tie _ point : malin _ 5 _ rndmtn
+interchg _ id : enrj _ ciso _ 3000
+engy _ type : firm

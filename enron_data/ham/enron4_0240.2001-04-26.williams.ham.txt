@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1bdf0c47c285dd4d38ce4d0baedb51f16fff4f209ab160b90d4c78603244d1a
-size 244
+Subject: re : model for 04 - 20
+hi bill ,
+i just got back in the office today and i am going over the days . just one
+little formula problem so far . . . on the 20 th the ancillary services are not
+adding up on the bottom .
+thanks ,
+kathy

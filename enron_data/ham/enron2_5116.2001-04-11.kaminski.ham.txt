@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72a2a8e89edf736a8396d010384df7a726f44e1d17e4af22d61800a45561582e
-size 733
+Subject: livelink access
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner / hou / ect on 04 / 11 / 2001
+01 : 13 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron technology
+from : moyez lallani @ enron 01 / 16 / 2001 10 : 46 am
+to : stinson gibner / hou / ect @ ect , vasant shanbhogue / hou / ect @ ect
+cc :
+subject : livelink access
+gentlemen ,
+i have created a folder called research projects folder in the livelink test
+instance . the url to the test instance is
+to log in , use your nt login id as your userid and password ( all lowercase ) .
+you will find the folder on the enterprise workspace . please call me should
+you require further assistance .
+moyez lallani
+x 5 - 3683

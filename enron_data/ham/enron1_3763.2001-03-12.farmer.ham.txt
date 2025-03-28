@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dddbc2ae635cd4c510f66b8b74276de9011005c4d851c771a3dfd22a987acb39
-size 537
+Subject: re : noms / actual flow for 03 / 09 thru 3 / 11 / 01
+we agree with the nominated totals .
+" eileen ponton " on 03 / 12 / 2001 09 : 22 : 50 am
+to : david avila / lsp / enserch / us @ tu , charlie stone / texas utilities @ tu , melissa
+jones / texas utilities @ tu , hpl . scheduling @ enron . com ,
+liz . bellamy @ enron . com
+cc :
+subject : noms / actual flow for 03 / 09 thru 3 / 11 / 01
+date nom flow - mcf flow - mmbtu
+3 / 09 30 , 000 29 , 998 30 , 798
+3 / 10 30 , 000 29 , 995 30 , 805
+3 / 11 0 0 0
+btu = 1 . 027

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:68b4ac62e608b162bb1f5159c06103a9597d3934ceef37de0dea711dcc8bc4b1
-size 521
+Subject: cal berkeley
+vince and john ,
+i wanted to send you a quick note and once again say thank you for attending
+the cal berkeley presentation last week . i am sorry for the low attendance
+on campus , however i did want to send some refreshing news . i just received
+the resumes of students who would like to interview with enron . there were
+43 resumes submitted for the technologist position and 46 resumes submitted
+for the analyst position .
+please let me know if you have any questions .
+thanks ,
+ashley

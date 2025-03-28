@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:39a282af26ae8f858bc717dc6152f2760d7eaaf61138ed9c48b9058dd89a191c
-size 669
+Subject: reviewer approval
+please note that your employees have suggested the following people to
+complete a feedback form on their behalf . you will need to access the
+performance management system ( pep ) to either approve or decline these
+suggested reviewers . once you have approved the suggested reviewers they
+will be notified and can begin completing the feedback form .
+your list of employees that have suggested reviewers are listed below :
+date suggested : may 19 , 2000
+feedback due date : jun 16 , 2000
+employee name : kollaros , alexios
+date suggested : may 22 , 2000
+feedback due date : jun 16 , 2000
+employee name : krishnarao , pinnamaneni v

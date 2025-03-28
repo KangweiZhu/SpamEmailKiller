@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ad8d7e223ac229d1da366e7884e1781ca838717ab57705b6bba1a7a98932747d
-size 253
+Subject: files , directories , etc . on s : \
+all -
+please inform esther gerratt when you are setting up new files and
+directories on the s : \ relating to mg integration . currently , we have three
+folders ( mg , mg eol , mg pres ) .
+thanks - eric

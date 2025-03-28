@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f77d00b3cbfb34b652b526645bfa9973c829a014a3059c715e99e04b3995a08a
-size 599
+Subject: start date : 12 / 30 / 01 ; hourahead hour : 6 ;
+start date : 12 / 30 / 01 ; hourahead hour : 6 ; no ancillary schedules awarded . no variances detected .
+log messages :
+parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2001123006 . txt
+# # # cannot locate a preferred or revised _ preferred schedule that matches the final individual interchange schedule . unable to assign deal number .
+# # # cannot locate a preferred or revised _ preferred schedule that matches the final individual interchange schedule . unable to assign deal number .

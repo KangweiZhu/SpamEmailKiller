@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4277f17cf5c965b17d83f4128f6a64c3bbba7f1e15b241edeb0ee729c093d1f
-size 211
+Subject: roles & responsibilities
+as discussed :
+this is for global products europe .
+i will have an assistant put into a grid format .
+what do you think about replicating this for other products / offices ?

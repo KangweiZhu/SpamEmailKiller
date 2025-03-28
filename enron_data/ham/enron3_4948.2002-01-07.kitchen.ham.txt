@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d53159888a3cf72af8ef09bc95a89863f535b34f0ddd66c113c38b46db02e74e
-size 229
+Subject: gas fundamentals start - up plans
+attached are the re - start plans for the gas fundamentals group . i have also attached the it transition plan provided by david dronet .
+let me know if you have any questions .
+chris

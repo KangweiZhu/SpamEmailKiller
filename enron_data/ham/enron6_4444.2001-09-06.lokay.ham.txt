@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a01c296258858babe421853c5756508f62eb8129fd1bf617e47977437f878ab
-size 169
+Subject: red rock adm ctrc 27698
+attached is the spreadsheet for the red rock expansion administrative contract # 27698 . please let me know if you have any questions .

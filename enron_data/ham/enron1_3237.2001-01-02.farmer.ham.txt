@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c7cdde3201290d0189af89c517b9ec8463689c97d38b298dcbb0991f8b8ccdc5
-size 366
+Subject: enron / hpl actuals for december 29 , 2000 - january 1 , 2001
+december 29 , 2000
+teco tap 30 . 000 / enron ; 120 . 000 / hpl gas daily
+ls hpl lsk ic 30 . 000 / enron
+december 30 , 2000
+teco tap 120 . 000 / hpl gas daily
+december 31 , 2000
+teco tap 120 . 000 / hpl gas daily
+january 1 , 2001
+teco tap 30 . 000 / enron
+ls hpl lsk ic 30 . 000 / enron

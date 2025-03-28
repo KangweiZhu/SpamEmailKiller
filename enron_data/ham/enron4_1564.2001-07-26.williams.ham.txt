@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13f8a5fe22075b9bdc88c2db64362adc946af14c7347b73782f3cebab8e26e20
-size 174
+Subject: bill -
+here is the info that you requested .
+geir $ 49 , 000 - no change
+ryan $ 52 , 500
+mark $ 50 , 000
+bert $ 46 , 000
+leaf $ 50 , 000
+no other changes !
+a

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e77dd26f61c3a19825c5cf9a8c0421ef632640cfe3517321b3eb28dc9103d619
-size 478
+Subject: re : timelines and restart issues
+yes . the id ' s have already been generated and will be included in the mailouts .
+dave
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : friday , january 25 , 2002 8 : 32 am
+to : forster , david
+subject : re : timelines and restart issues
+we need to send read only ids to all our customers .
+did we plan that ?
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+sent from my blackberry wireless handheld

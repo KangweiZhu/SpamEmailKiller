@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11e42140a40b27102527e0833cfa8024b20fa7dfe81909fca2daa7139686e803
-size 499
+Subject: dpr - 8 / 23 / 00
+the dpr for today is final and posted to the executive reports viewer .
+please note that a revision to the dpr format has been made , effective today ,
+due to a change in organizational structure . the " enron north america ,
+emerging businesses " section , which includes pulp & paper trading and lumber ,
+has been removed and replaced by the " enron industrial markets " section .
+if you have any questions or concerns , please contact mike moscoso at
+x - 35242 .

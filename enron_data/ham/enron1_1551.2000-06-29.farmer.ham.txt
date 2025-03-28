@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2599300bc1bf76d89390fec09037fe06a1ac01004efe2baf3f414d22caf04668
-size 202
+Subject: revised 7 / 00 assignment , termination , expiration report - assets
+group
+we received some more name changes after the previous report was sent out .
+here is the latest & greatest version .

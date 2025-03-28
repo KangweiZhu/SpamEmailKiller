@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a02f8b9f3e9da226fa26044b4c7a299911c350a1b5a50074fb5b1e51f17be29
-size 348
+Subject: aep pmt
+just to confirm
+payment through wed - 11 / 14 ( with interest ) = $ 14 , 153 , 688 . 78
+payment through thur - 11 / 15 ( with interest ) = $ 14 , 155 , 586 . 71
+the settlement agreement is written based on a wed payment - if they want to argue for another $ 1 , 100 in interest , then we can send it to them in pennies .
+brian

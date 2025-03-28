@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f3a388bd0ddf6682e5a4edd23658e2a021bbb2caf38f3cdd85bf982fbe7a28ee
-size 192
+Subject: eastrans nomination change effective 9 / 26 / 00
+deliveries to eastrans continue to be 30 , 000 mmbtu / dy
+the redeliveries will be :
+7600 from fuels cotton valley
+22400 to pg & e

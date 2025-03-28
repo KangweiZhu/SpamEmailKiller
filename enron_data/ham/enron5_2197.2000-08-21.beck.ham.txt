@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0689cdf2691e4726f33b181054373c415c6df42439bcc32812f763d7b880dc8
-size 452
+Subject: new hire orientation for monday , aug . 21 , 2000
+name title doh badge hr rep supervisor co / rc
+alba , mary staff tr sup 8 / 21 / 00 yes h .
+mcloughlin lisa peterson
+dozier , john spec tr sup 8 / 21 / 00 yes h .
+mcloughlin lisa peterson
+edward , williams spec gas ass 8 / 21 / 00 yes h .
+mcloughlin lisa csikos
+melanie harwell spec 8 / 21 / 00 h .
+mcloughlin bryce baxter
+audry o ' toole spec 8 / 21 / 00 h
+mcloughlin john harrison

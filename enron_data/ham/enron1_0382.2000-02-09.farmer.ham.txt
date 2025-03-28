@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5cd5a1bb31864c67cad0b3076eb4e9091681d1b23e469fb5eb820e7ef0d2676c
-size 73
+Subject: re : union gas - doehrman # 1
+the new sitara ticket # is 165331

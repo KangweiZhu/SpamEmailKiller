@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ffba89ac9ec23710b1e315c4b95192aa922a692d0557e7962ba2f04402b8979
-size 506
+Subject: revisions - enron / hpl actuals - nov . 1 - 5 , 2000
+no volumes should be on the hpl gas daily at this time .
+nov . 1 , 2000
+teco tap 30 . 000 / enron ; 70 . 000 / hpl iferc
+nov . 2 , 2000
+teco tap 30 . 000 / enron ; 45 . 000 / hpl iferc
+nov . 3 , 2000
+teco tap 30 . 000 / enron ; 114 . 583 / hpl iferc
+nov . 4 , 2000
+teco tap 19 . 167 / enron ; 120 . 000 / hpl iferc
+ls hpl lsk i . c . 30 . 000 / enron
+nov . 5 , 2000
+teco tap 85 . 000 / hpl iferc
+ls hpl lsk i . c . 30 . 000 / enron

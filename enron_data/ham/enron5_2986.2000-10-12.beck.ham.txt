@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31f0a7338ba66c9af83bab0037e5ee93b07f5f9e3c98473dde360121f0946d72
-size 378
+Subject: sitara / cpr availability
+the sitara system will be brought down saturday evening ( oct 14 - 8 pm
+central time ) to move the system to a new machine .
+the system will be available late saturday , at approximately 11 pm .
+cpr will be available during this time .
+please call the sitara / cpr hotline ( ( 713 ) - 853 - 7049 ) if you have any questions
+or concerns .

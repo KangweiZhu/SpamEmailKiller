@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95f5e833d6f390a864b281ddfc13ef744820ce32ff49a34684dbac3a6aaf093a
-size 243
+Subject: my coordinates
+test message
+vincent kaminski
+managing director - research
+enron corp .
+1400 smith street
+room ebl 962
+houston , tx 77002 - 7361
+phone : ( 713 ) 853 3848
+fax : ( 713 ) 646 2503
+e - mail : vkamins @ enron . com

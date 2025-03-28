@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dff464b8cb1b9c5bcdd19753a2fe09100fa4814fd005d4ac88787020e8f1a8d9
-size 248
+Subject: meters with flow and no nom
+earl - i have a meter with flow and no nom . meter 1225 ( ingleside plant
+brandywine ) has flow from 2 / 14 thru 2 / 25 . are these valid volumes or high
+zeroes ? please let me know what you find out .
+aimee

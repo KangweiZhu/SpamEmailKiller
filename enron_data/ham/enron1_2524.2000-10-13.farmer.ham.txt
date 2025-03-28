@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19a3a1005a5a02bef67b7bfa8285babdc2646a2ef052398d4a228af121625ec2
-size 209
+Subject: neon discussion october 18
+here ' s this weeks material . ? there ' s a handout at the end that if you want
+to use it you ' ll need to make copies of . ?
+?
+see you ,
+bobby
+- neon roaring 1 . doc

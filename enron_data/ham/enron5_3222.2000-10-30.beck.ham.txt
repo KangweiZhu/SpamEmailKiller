@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f871c36a8d2b063f225fb66bed98e1793ac5a949da7b98b37cf9dfb28d84337
-size 123
+Subject: draft daily reporting
+dear sally ,
+please call me if you would like me to walk you through this .
+thanks
+shona

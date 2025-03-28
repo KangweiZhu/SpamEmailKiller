@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db86a12c30e6a727346fe2aa15295c2ee9d94e34271714e2bd8054f41caf7b76
-size 318
+Subject: pac june 2001
+fyi -
+i have entered the following annuities to your books for true - up and line losses for june 2001 pac transmission :
+st _ sw deal # 703009 . 1 for $ 33 , 176 . 09
+st _ w _ hrly deal # 703015 . 1 for $ 3 , 518 . 60
+please see attached spreadsheet and deal ticket for details .
+virginia

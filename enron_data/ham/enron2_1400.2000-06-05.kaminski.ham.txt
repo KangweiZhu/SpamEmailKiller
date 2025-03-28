@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1212f1c29aab9fe17f292c4e825b0475be255e09f6abf21d602994abc7d38908
-size 250
+Subject: pjm / ftrs ' meeting this thursday 6 / 8
+ftr team ,
+the pre - bid meeting arrangements are as follows :
+location : eb 3125 a
+date : 6 / 8 ( thursday )
+time : 8 : 30 am to 2 : 00 pm cdt
+breakfast : provided
+lunch : sandwiches
+thanks .

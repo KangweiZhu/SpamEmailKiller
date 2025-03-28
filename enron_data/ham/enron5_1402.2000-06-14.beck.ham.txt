@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5b5618c7c877412eaed593892fc310626cb29e611490259443cb5fd0439ab83
-size 111
+Subject: draft strawman
+dear sally ,
+as we discussed yesterday , here is the draft strawman .
+regards
+shona

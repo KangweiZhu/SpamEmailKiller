@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:258149134ee2f9d37cea5773af054fea7806ae1208410bfeb25c24b7d01f7484
-size 488
+Subject: re : noms / actuals for 4 / 27 / 01 thru 4 / 29 / 01
+we agree
+" eileen ponton " on 05 / 01 / 2001 08 : 37 : 13 am
+to : david avila / lsp / enserch / us @ tu , charlie stone / texas utilities @ tu , melissa
+jones / texas utilities @ tu , hpl . scheduling @ enron . com , liz . bellamy @ enron . com
+cc :
+subject : noms / actuals for 4 / 27 / 01 thru 4 / 29 / 01
+date nom mcf mmbtu
+4 / 27 / 01 20 , 000 20 , 041 20 , 583
+4 / 28 / 01 0 1 1
+4 / 29 / 01 0 0 0
+btu = 1 . 027

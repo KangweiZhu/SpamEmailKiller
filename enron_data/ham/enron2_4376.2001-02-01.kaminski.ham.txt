@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a25880ae16c9302ab79ccbc6385955211f4ce919280330a630b5574ac0df633f
-size 343
+Subject: re : programming for rdi model
+michelle ,
+helen , cecil , david ( just joined the effort ) and i had a meeting this
+morning . a lot of things regarding
+the coding has been discussed . we all felt good about the progress that has
+been made
+and have clear idea of how to proceed . the project is speeding up nicely .
+best ,
+alex

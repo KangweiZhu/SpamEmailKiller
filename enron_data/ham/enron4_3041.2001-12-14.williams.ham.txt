@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c2f6766da168a338a75a499a6fd3ca705b9ab30cb8f5314d90138c38f4508694
-size 295
+Subject: schedule crawler : hourahead failure
+start date : 12 / 14 / 01 ; hourahead hour : 3 ; hourahead schedule download failed . manual intervention required .
+log messages :
+error : file o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2001121403 . txt is empty .

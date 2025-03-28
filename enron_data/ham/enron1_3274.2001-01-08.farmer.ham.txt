@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5681fffebf820c8eaa55d605b08561fb8cc0ee66972d314415cd682f8460a105
-size 1038
+Subject: hpl meter # 986563 texaco fee c / p
+daren :
+during the period of 12 / 1 / 99 through 3 / 31 / 00 gas flowed into hpl ' s pipeline
+at the above meter . the gas volumes that flowed are as follows :
+12 / 1 / 99 - 12 / 31 / 99 1 , 457 mmbtus
+01 / 1 / 00 - 01 / 31 / 00 49 mmbtus
+02 / 1 / 00 - 02 / 29 / 00 7 mmbtus
+03 / 1 / 00 - 03 / 31 / 00 4 mmbtus
+1 , 517 mmbtus
+prior to 12 / 1 / 99 , the volumes were being purchased from high sierra operating
+llc under contract # 96003435 deal # 26611 which have terminated . currently ,
+logistics has these volumes recorded to hpl stranger gas contract . in order
+to correct this , hpl logistics needs either a new deal to record these
+volumes which have flowed into hpl ' s pipeline , or logistics needs approval to
+write - off these volumes to unaccounted for gas loss . ( please print , sign ,
+and return the original to clem cernosek ) .
+deal / deal ticket # / customer ( buyer / seller )
+or
+approval to write - off the volumes to unaccounted for gas loss
+thanks , clem

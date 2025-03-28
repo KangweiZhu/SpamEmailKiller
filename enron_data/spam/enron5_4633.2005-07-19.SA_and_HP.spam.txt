@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a42b29de9958c8d7fe6580cdbd893ab7330447992dc8ad1ea45f45babcfe401
-size 216
+Subject: mail system error - returned mail
+this message was undeliverable due to the following reason :
+the user ( s ) account is temporarily over quota .
+please reply to
+if you feel this message to be in error .

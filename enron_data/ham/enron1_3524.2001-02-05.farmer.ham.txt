@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74ae5afa93e319e1cdc9f5235b97cc43553c4c9d2a1eff0114a7d08164a1156d
-size 256
+Subject: eastrans nominations change effective 2 / 6 / 01
+please decrease deliveries to eastrans from 60 , 000 mmbtu / dy to 30 mmbtu / dy
+for 2 / 6 / 01 .
+the redeliveries will be 7300 mmbtu / dy from fuels cotton valley and
+22700 mmbtu / dy to pg & e

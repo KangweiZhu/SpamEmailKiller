@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:073e5c8aff8174d8e5e096dc833d4d63903386d43b0a7a6c55e76531648b9c44
-size 196
+Subject: gbn - sunday meeting agenda
+attached is an agenda for this sunday ' s meeting of the houston steering
+committee of the ut gbn . i will see you there .
+cj
+- gbn agenda 5 - 7 - 00 . doc

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8160cc594b2e6ecafa4efb1506136a5d2e4b9d7386f8a675729cab8f50eb8285
-size 164
+Subject: txu nom . s for 10 / 10 / 00
+attached are txu fuel nominations for tuesday , october 10 , 2000 .
+( see attached file : hpll 010 . xls )
+- hpll 010 . xls

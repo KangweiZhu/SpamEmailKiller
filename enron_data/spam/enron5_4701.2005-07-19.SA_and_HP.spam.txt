@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8607dc4ecb46b330d00571f2bc686b0d02139c0f84c996a8c610a3524a5587f3
-size 220
+Subject: delivery status notification ( failure ) + afs - scanned + afo -
+this is an automatically generated delivery status notification .
+delivery to the following recipients failed .
+lnoble @ johnnicholls . co . uk

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a278ea0f6e65c74375c9839df1bc6ea4ae51016b6bc422534dd3cf773e5ba52e
-size 218
+Subject: reminder of my vacation
+louise ,
+i would like to remind you of my taking vacation from april 23 to may 11 . in my absence , dave nommensen will be the point of contact for the gtv project .
+regards
+zhiyong

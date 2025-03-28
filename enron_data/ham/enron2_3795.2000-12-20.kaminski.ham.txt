@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:526eb606b785e66dc98a8b5f5aa6fe254afbcab0ce496f589e34c1aaebc27e9e
-size 1271
+Subject: december 22 - srrs decommissioning notification
+srrs decommissioning notification
+we are one @ enron
+effective friday december 22 , 2000 , you will have a new security request
+database :
+in the past , enron corporate / north american users have used the security
+resource request system ( srrs ) lotus notes database for their security
+request needs including new hire / contractor / temporary access and
+terminations . in response to the business reorganization , the it security and
+controls group is working to streamline enron  , s security request structure
+and create one single request database for all groups to use , erequest ,
+located at http : / / itcentral . enron . com /
+please click on the following link to retrieve the erequest training guide :
+a great deal of effort has been put into this project to eliminate any
+duplicate security requests in enron ' s global enterprise . when you attempt
+to access the srrs through lotus notes on dec . 22 , you will find a link to
+the new erequest system .
+if you have additional questions regarding your new security request or if
+you have any problems with the erequest system , please contact information
+risk management at 713 . 853 - 5536 .
+thank you
+information risk management

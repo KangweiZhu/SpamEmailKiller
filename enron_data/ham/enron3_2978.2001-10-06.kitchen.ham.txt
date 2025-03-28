@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d7f4421920103e55b6c4434fb1e110df6a7e468c5d73e0994b5f47b3330d9953
-size 467
+Subject: fw : darwin 50 article
+fyi . . . great article !
+- - - - - original message - - - - -
+from : meyer , vance
+sent : fri 10 / 5 / 2001 6 : 39 pm
+to : denne , karen ; gagliardi , larry ; haux , katrin ; ambler , john ; palmer , mark a . ( pr ) ; philipp , meredith ; piper , greg ; richter , brad ; shah , kal ; beck , sally ; noland , john ; pickering , mark
+cc :
+subject : darwin 50 article
+pls see article in darwin .
+eol still has the juice !
+vance

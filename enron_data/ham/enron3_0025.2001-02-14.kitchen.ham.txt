@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d22da6a71c0c254edb1272baa5b0aae9a2875567831c6e8af760662506f80e7
-size 1303
+Subject: fw : elektro short presentation
+- - - - - original message - - - - -
+from : gonzalez , orlando
+sent : tuesday , february 13 , 2001 12 : 06 pm
+to : lavorato , john ; mcdonald , rebecca
+cc : delainey , david ; hughes , james ; kishkill , joe ; wiggs , brett ; joao . carlos . albuquerque @ enron . com ; lotavio @ elektro . com . br
+subject : elektro short presentation
+attached is a summary of the current status of the elektro rfp as well as a review of the free customer data . we currently have two possible offers coming in the next day . we are working on the other options with eletrobolt , rio gen or petrobras as suppliers . i will call to discuss .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by orlando gonzalez / sa / enron on 13 / 02 / 2001 14 : 44 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+joao carlos albuquerque
+13 / 02 / 2001 14 : 05
+to : orlando gonzalez / sa / enron @ enron , joe kishkill / sa / enron @ enron
+cc : joao carlos albuquerque / sa / enron @ enron , luis henriques / sa / enron @ enron , brett r wiggs / sa / enron @ enron
+subject : elektro short presentation
+orlando ,
+find attached a summary of elektro short status , a draft of the rfp and a presentation on elektro ' s free and potentially free customers .
+jo ? o carlos

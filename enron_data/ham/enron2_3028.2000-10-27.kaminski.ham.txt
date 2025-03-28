@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc55eee56684c3683046f9d9ba277078ea52a1444f49cbbe007bbda0ec27183c
-size 366
+Subject: approval for reviewer
+shanbhogue , vasant has suggested reviewers and submitted them for your
+approval . your may review / modify this list of reviewers by logging on to pep
+at http : / / pep . corp . enron . com and going to supervisor services . please
+remember , no feedback can be completed on shanbhogue , vasant until you have
+approved the list .

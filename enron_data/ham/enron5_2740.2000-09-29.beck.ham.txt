@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c670ff45583f9cc61e7e6262a737a7fa70e3690d7198f4da70f25a282bc7d332
-size 231
+Subject: global operations issues task force
+attached is the memo relating to our global operations issues , as discussed
+in the morning meetings , for the week of september 29 th . please let me know
+if you have any questions .

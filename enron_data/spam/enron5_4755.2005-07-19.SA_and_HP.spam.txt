@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:568047c40128723e9121b8b41d5788aa9db85003ae6ab2de7fe223f24e3e8894
-size 340
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 13 : 12 : 51 + 0200 ( cest )
+from ns 2 . mclink . it [ 212 . 48 . 4 . 11 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+- - - - - transcript of session follows - - - - -
+550 5 . 1 . 1 . . . user unknown

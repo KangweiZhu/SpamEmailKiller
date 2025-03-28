@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3424f6d0ac2b20a25d65f63a07e60b8491cd90c5e6f0a1e54d6f3e9c804d106b
-size 312
+Subject: new members
+the following people are joining the research group reporting to me
+effective immediately . please make sure that their transfer from ees to our
+group is reflected in the support systems .
+oren v . ( " dayne " ) zimmerman
+chuanli ( " ken " ) deng
+anguel g grigorov
+thanks ,
+krishna .

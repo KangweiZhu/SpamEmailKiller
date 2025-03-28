@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b1138385961fadaa8790deeb1e47c95ecbee43014b167cb2b74ab8f29e3b8df6
-size 447
+Subject: re : noms / actual vols for 15 th & 16 th
+we agree
+" eileen ponton " on 05 / 17 / 2001 05 : 43 : 09 pm
+to : david avila / lsp / enserch / us @ tu , charlie stone / energy / txu @ tu , melissa
+jones / texas utilities @ tu , hpl . scheduling @ enron . com , liz . bellamy @ enron . com ,
+szajac @ enron . com
+cc :
+subject : noms / actual vols for 15 th & 16 th
+date nom mcf mmbtu
+5 / 15 0 417 428
+5 / 16 38 , 750 38 , 232 39 , 264

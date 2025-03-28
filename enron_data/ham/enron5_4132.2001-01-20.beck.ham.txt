@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1805204ce1d3ac7f7c31987068ec95efad1ebc0e19fcc372b82c09b9dde9807f
-size 376
+Subject: dallas trip
+i have booked my flights for the dallas trip . as we discussed , i will be
+flying in on sunday evening . for tuesday , my flight departs at 7 : 22 pm so i
+should be able to attend the full day ' s session . laura scott will also be
+attending the meetings . we are departing at the same time on tuesday . let
+me know if you have any questions .
+peggy

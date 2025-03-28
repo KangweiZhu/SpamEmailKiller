@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1bd6e3e2a545ab19694564f2f9d2434b919ebe6cf27e89eba01b79f7d2e8982
-size 200
+Subject: communication of rankings
+well , the jury is still out on communicating rankings .
+i quess right now the best things to do is not tell anyone their
+ranks .
+let me know you thoughts .
+bob

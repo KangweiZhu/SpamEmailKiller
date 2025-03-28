@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c9ca5840d965287a700d2cebfc731e6de9a1f8ebdb3986d43055cb16ead5e98a
-size 288
+Subject: extend deal
+i have flow at meter 989602 for july without a deal to allocate to . for
+june production , deal number 276494 was at the meter . please either extend
+the deal or create a ticket . if you have any questions , please call me at
+ext . 35251 .
+thank you ,
+mary jane

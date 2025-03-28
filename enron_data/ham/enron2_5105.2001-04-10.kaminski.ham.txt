@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29b31efb1e74c6a27e3545ee14252830ade409a6823a823caf9048f50e54e5a0
-size 473
+Subject: sevil yaman
+hi norma ,
+sevil ' s primary project has been the generation bidding analysis for the east power desk . she worked closely with the power fundamentals group and the it group in collecting and organizing the data , and then developing the analysis . sha has focused on the pjm area and plans to expand the analysis to other regions in the east .
+sevil has also investigated the issue of risk premia in power prices compared to marginal cost .
+vasant

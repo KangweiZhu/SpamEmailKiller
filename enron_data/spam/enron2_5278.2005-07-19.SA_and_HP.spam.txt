@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c8dbecbf322d4df0fd370c0d849ce4ee50a2c7e98369aca7dcebd56804d255e
-size 430
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 12 : 59 : 14 + 0200
+from chelloo 81018216102 . chello . pl [ 81 . 18 . 216 . 102 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : insufficient permission )
+- - - - - transcript of session follows - - - - -
+maildrop : maildir over quota .
+550 5 . 0 . 0 . . . insufficient permission

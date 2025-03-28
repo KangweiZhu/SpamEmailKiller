@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a5569f0021c73c493ff8b714ae33acb8249ddc430b957102a822bc25fb338ab
-size 205
+Subject: hc collar valuation - update
+andrea ,
+we computed the hc historical volatility for last 3 years , it is 47 . 2 % .
+using this volatility , the costless collar call strike is at 83 . 32 .
+zimin

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46356ebab47df392f34e217576338605da09bf8d790d4085792e732f34b36dc9
-size 406
+Subject: allegheny
+fyi - we negotiated a unilateral management out through next friday so i suspect there will be some internal discussion about the toll early next week . since chip and brian were plugged in every step of the way i hope we wont try to reneg on the deal , but if we made a big mistake late last night we could go back to allegheny . should not be a problem , but thought you should know .

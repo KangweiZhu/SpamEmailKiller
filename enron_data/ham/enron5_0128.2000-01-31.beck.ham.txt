@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29b7c4be3eaa39f350084f41ba2aa02097cabefa752e6f11fc3e91e288a58da8
-size 398
+Subject: role description for promotions memo
+scott pleus serves as business controller for enron ' s emerging products .
+these businesses include bandwidth , pulp and paper , and weather . his primary
+responsibilities include day - to - day functions of risk management ,
+confirmations , pulp and paper scheduling , and settlements as well as long
+term system development .
+hope this helps .

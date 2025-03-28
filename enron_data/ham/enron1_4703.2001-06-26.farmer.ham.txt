@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:437089baa632b2d6ac4c82cb23158d8820cc04732bfbb2c57a99596c6d322cb5
-size 358
+Subject: defs may 2001
+daren :
+please enter a demand fee on deal 157278 for may 2001 in the amount of $ 369 . 69 . we need to bill defs for the remaining excess and over delivery charges .
+also , i was going back over my calc sheets and i found an error in oct 2000 . please enter a demand fee for $ 647 . 35 on deal 157278 for oct 2000 .
+thanks ,
+megan

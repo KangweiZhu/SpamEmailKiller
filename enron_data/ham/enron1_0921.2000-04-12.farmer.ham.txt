@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b6c096872e96bc10de7e448958fdcd44e2f35f7c9b0f67c025bdca1b9d1f310
-size 275
+Subject: brandywine meter # : 981225 ; march , 2000 activity
+attached is support that indicate gas flowed on a zero nomination during the
+month of march , 2000 .
+there is no deal in place to allocate this gas flow .
+please advise me how you want this activity allocated .

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d45f461148cfe7adbd79f39d293908da0cdbc2b47802449684184b08f49ebad
-size 265
+Subject: well head
+this must be change day , shoreline would like to change meter 6886 from 490
+to 220 . daily meter actual show it ' s been running 398 on the lst and 2 nd
+and 6 mmbtu on the 3 rd . looks like it may be falling down . let me know
+daren thanks .

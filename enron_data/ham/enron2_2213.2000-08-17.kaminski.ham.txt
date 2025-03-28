@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34817b93891a606fa7cb50a869a9286eb8e9c29a45b1f76081b86825184c0c9e
-size 229
+Subject: grms access
+grant & vince ,
+i have approved your request for risktrac ( formerly grms ) access . in about a
+week , contact your it help desk representative to verify the deployment onto
+your desktop .
+thanks ,
+rudi

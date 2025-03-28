@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a27f2a3140b0c5188ab5a8fcf9faa7417bf0a6480a1b687cc19b042337f26ed
-size 239
+Subject: canada update
+the following commercial have signed :
+mike cowan
+chris dorland
+john zufferli
+chad clark
+the following non - commercial have signed :
+kathy reeves
+brian gillis
+david hanslip
+angela mcculloch
+carla o ' neil

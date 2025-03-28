@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c2046782b1fbc7de5722356265cb49e865bf844abf698c2b1f4e852dd84b077a
-size 138
+Subject: fw : ees by group
+sally and bob -
+here is the employee listing for netco .
+please let me know if you have any questions .
+amy

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:27bfc6d0ccc8b181363a56719e057f8215e335aab624e15bf1379e41538e2b2d
-size 356
+Subject: first draft of strategy for doorstep
+here is the first draft of the strategy memo for doorstep . veronica was nice
+enough to agree to check it over to ensure we have all offices that are on
+the schedule , as well as ensure othat offices are not listed twice .
+i ' ll send you another draft once it is nearer finalization .
+best regards
+shona

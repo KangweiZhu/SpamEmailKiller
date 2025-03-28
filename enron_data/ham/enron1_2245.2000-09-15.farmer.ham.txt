@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59a4d0ae3fae192cbc6d25e2dde2c3bce68146f7b297be887c0c0700c28b9087
-size 346
+Subject: eastrans nomination change effective 9 / 16 / 00
+please decrease deliveries to eastrans to 0 mmbtu / dy for 9 / 16 / 00 and maintain
+at
+0 until otherwise notified .
+the redeliveries will be 0 as well .
+fuels cotton valley gas will be valued per paragraph 3 of the contract price
+( per mmbtu ) section in the transaction agreement .

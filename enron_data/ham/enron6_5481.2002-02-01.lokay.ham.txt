@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75c5602f43dde6ade577ea284eb597f2e86846e11433e1b0b29bf2aed5333791
-size 315
+Subject: fw : commodity futures intraday market price quotes
+- - - - - original message - - - - -
+from : kaimal , girish
+sent : friday , february 01 , 2002 8 : 34 am
+to : y ' barbo , paul
+subject : re : commodity futures intraday market price quotes
+the nymexprices excel sheet is attached .
+thanks ,
+girish

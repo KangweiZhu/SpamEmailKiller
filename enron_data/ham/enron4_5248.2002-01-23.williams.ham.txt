@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c75b48e74d52c7023502637e71d960dc443a1f2d8f2691f97dea0907fd6e42e
-size 1530
+Subject: schedule crawler : hourahead failure
+start date : 1 / 23 / 02 ; hourahead hour : 5 ; hourahead schedule download failed . manual intervention required .
+log messages :
+parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002012305 . txt
+error : dbcaps 97 data : cannot perform this operation on a closed database
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+error : dbcaps 97 data : cannot perform this operation on a closed database
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+error : dbcaps 97 data : cannot perform this operation on a closed database
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+error : dbcaps 97 data : cannot perform this operation on a closed database
+error : dbcaps 97 data : cannot perform this operation on a closed database
+error : dbcaps 97 data : cannot perform this operation on a closed database
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+! ! ! unknown database .
+alias : dbcaps 97 data
+error : dbcaps 97 data : cannot perform this operation on a closed database

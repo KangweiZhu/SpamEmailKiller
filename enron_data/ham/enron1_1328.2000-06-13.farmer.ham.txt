@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b8c5647048aa1f370165331c511be34a79f964e9af2567c0ac85744cdb68452b
-size 334
+Subject: prior month misnomination
+daren - - - - for 4 / 21 - 4 / 22 , deal # 237415 has 6 , 400 mmbtu from transwestern to
+oasis # 6301 , but it should have been from northern # 8724 ( per oasis , karen
+lindely & our paper noms to oasis ) . . . . . . how do i correct this since the deal
+ticket is protected ? ? ?
+thanks ,
+mark

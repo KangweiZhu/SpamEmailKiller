@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:630fa398ef086a9d9a3daef2b100feab164953b886e1e1a84de8a4b88d0404c1
-size 512
+Subject: request submitted : access request for
+praveen . mellacheruvu @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000012987
+approver : stinson . gibner @ enron . com
+request create date : 1 / 9 / 01 3 : 03 : 48 pm
+requested for : praveen . mellacheruvu @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

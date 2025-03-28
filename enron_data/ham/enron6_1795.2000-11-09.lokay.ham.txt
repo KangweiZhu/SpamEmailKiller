@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e07d13e7e9f63abfdfd214e4b728cfccbf25f2c43e6827f012a63514344b94b4
-size 300
+Subject: tw basis differential
+vernon ,
+thank you for adding these tw basis differential to your regular update
+process for tw deal analysis .
+this is what has been loaded in the rms _ basis table in revenue management
+data base
+for tw permian , ep san juan , ngi socal , and waha .
+mei - ling

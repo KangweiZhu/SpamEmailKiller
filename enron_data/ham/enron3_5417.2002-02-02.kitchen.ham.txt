@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:238b0a335305b98a931932b70bb077846fcb8882f0cd9559ce57ba1bc9374bc9
-size 632
+Subject: day 1 list additions
+as per my email from yesterday ;
+attached are pipeline companies , transmission company ( ercot ) and canadian companies not on the prior " louise approved " list which credit has been working on .
+we have been having difficulty tracking down the full legal name for some of the storage and transmission companies , and for aec storage , there are two names - i assume only one may be required . for any cases where the full legal name cannot be found today , we have included the group name . we will resolve the remaining full legal names on monday morning , when other staff are available .
+dave

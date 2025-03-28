@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66ec3d2896aaa7430f3f9566fef8a110ece6d9bb54de9a2bcfa617821fb7fc55
-size 567
+Subject: fwd : our conversation today
+return - path :
+from : awenda 2000 @ cs . com
+full - name : awenda 2000
+message - id :
+date : mon , 4 dec 2000 12 : 47 : 07 est
+subject : our conversation today
+to : wkamins @ enron . com
+mime - version : 1 . 0
+content - type : multipart / mixed ; boundary = " part 2 _ 12 . 59 ad 86 b . 275 d 329 b _ boundary "
+x - mailer : unknown sub 111
+hi wincenty ,
+it was a pleasure talking to you today . i am enclosing my resume and look
+forward to talking to you again .
+best regards
+bibianna
+- bibianna res . # 2 . doc

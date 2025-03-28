@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0167925a74d9812fd274cb1af93e317e70d2aecbe9db6862e3c2327cae78f3e7
-size 164
+Subject: margin requirements for 10 / 30 / 01 wire date 10 / 29 / 01 statement date
+frank f . cernosek
+exchange accounting
+financial operations
+713 - 853 - 1581

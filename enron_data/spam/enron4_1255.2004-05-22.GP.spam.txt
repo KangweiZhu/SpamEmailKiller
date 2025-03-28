@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4202f543da3302a78bc695c2be79b8a76cd780a4b80550da037b2577579ed2ba
-size 482
+Subject: important information about your house
+hello , my name is gregorio warner . we wanted to let you know that
+we have received and reviewed your m?rtgage applicat?on . we are
+happy to let you know that it has been approved .
+could we ask you to please fill out the final details we need to complete the process :
+http : / / www . alphapuff . com / mn / bp
+we look forward to hearing from you .
+regards ,
+gregorio warner
+mbr association
+if you feel this is an error

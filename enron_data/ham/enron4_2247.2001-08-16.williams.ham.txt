@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46fd1dc6c450764c2205ed63f7ed33245325240f8e8f202964ce1015697dcdde
-size 279
+Subject: all employee meeting today at 8 : 00 pst
+the meeting today will be displayed on the plasma screens starting at 8 : 00 am ( pst ) . as we have a limited number of connections to houston for this meeting please view the meeting from this area if possible .
+regards
+dave

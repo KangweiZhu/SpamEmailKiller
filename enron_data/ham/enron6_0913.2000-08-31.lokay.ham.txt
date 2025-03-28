@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ceee16892ca5f2451df17e851def2eeb93a5be4b954a9aff86455771acb2c2c
-size 654
+Subject: nasa weather news
+la nina dissipates but effects linger
+el nino and la nina , the terrible twins blamed for destructive weather
+patterns worldwide for the last three or four years , have finally
+dissipated . however , their impact on the weather will likely continue for
+some time to come , according to nasa scientists , based on the latest
+satellite data gathered this month over the pacific . while pacific water
+temperatures have gradually warmed over the past three to four months to
+near normal in the tropics , the after effects of la nina are seen in
+persistent below - normal temperatures in the bering sea and gulf of alaska .

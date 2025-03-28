@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce1ed68c4aa403529689e21f75260a892f1350428390c914402b33af964be462
-size 338
+Subject: sap - timekeeping
+you should have received your logon id and password for sap this morning .
+we will hold a learning lunch early next week walking you through the new hr
+online system and timekeeping system . you will not know how to key your time
+until then . i will keep you posted on the details of the learning lunch .
+y

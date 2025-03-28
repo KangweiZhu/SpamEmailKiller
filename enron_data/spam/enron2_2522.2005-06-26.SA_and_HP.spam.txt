@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5b104aa58b25f81508f9063838131e09f52b746951576a31fa8d49a70eb472e6
-size 302
+Subject: delivery status notification
+- these recipients of your message have been processed by the mail server :
+maubev @ aliceposta . it ; failed ; 5 . 7 . 1 ( delivery not authorized , message refused )
+maxdaffy @ aliceposta . it ; failed ; 5 . 7 . 1 ( delivery not authorized , message refused )

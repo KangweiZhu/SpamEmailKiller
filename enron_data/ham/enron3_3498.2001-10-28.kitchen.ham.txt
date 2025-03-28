@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f26bd860a5025bcb6f0d52bb6cf80aa9d57ff199e7a9fd37d8a4d2c960d9039b
-size 385
+Subject: fw : structured deals
+- - - - - original message - - - - -
+from : vonderheide , scott
+sent : friday , october 26 , 2001 1 : 59 pm
+to : port , david
+subject : structured deals
+- - - - - original message - - - - -
+from : mckillop , gordon
+sent : friday , october 26 , 2001 12 : 10 pm
+to : sullo , sharon e ; vonderheide , scott
+subject : re : check list - presentation

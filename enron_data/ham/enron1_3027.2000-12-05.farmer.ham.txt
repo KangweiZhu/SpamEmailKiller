@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1d07bcb89f5a59ad984f36bf1e1967e0b7c1cafadb90c19aec38edbc6913e89d
-size 170
+Subject: re : meter 1428
+i am pretty sure this is a " high zero " and will be adjusted out by
+measurement . so , disregard these spurious volumes coming across .
+james

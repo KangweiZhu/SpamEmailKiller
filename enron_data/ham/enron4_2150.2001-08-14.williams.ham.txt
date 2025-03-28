@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a279d3279379cf1e06ded2b01a22e022df069be31a4359cc271fca8c5fe55735
-size 329
+Subject: executed power contracts
+we have received the following eei master power purchase and sale agreements :
+utah associated municipal power system ( 8 / 10 / 2001 )
+transcanada power marketing ltd . ( 7 / 30 / 2001 )
+electrical district number two , pinal county ( 7 / 23 / 2001 )
+copies will be scanned into livelink .

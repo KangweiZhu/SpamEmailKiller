@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:116d467f221ae273776e265999c72e270eb1a2c48c11cdf1414992b4d3d0db11
-size 233
+Subject: 3 - d seismic data and oil trading
+a brief summary of the research evaluation of siesmic data financial impact
+on oil trading is attached for transmittal to the client ( rich reichart ) .
+our conclusion is negative .
+bob

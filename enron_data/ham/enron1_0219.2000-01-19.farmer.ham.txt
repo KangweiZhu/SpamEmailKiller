@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a7b0d3542a7e7e60442b0a810a4cc57a78fc0a662b691f3000be60ca71df4520
-size 287
+Subject: 2000 plan allocations
+i ' ve given up on the spreadsheet - i couldn ' t insert the column . so this is
+my allocation . would you please update the spreadsheet for these changes and
+send me a clean copy ? i want o distribute to my management team for their
+records . thanks .

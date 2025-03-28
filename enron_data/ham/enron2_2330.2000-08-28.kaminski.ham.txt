@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5cae48107b2902ca97f54b829fcbe0ce160d9aa3bfa4d03a4e1d60c690079579
-size 287
+Subject: british pound analysis
+vince ,
+the attached report on the pound incorporates some minor edits from your
+version . we will be inserting graphics into the report tomorrow to show
+interest rate differentials , exchange rate movements , and growth rate
+differentials .
+maureen

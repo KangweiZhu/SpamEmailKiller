@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc15826c6adc602b16d06f924ecd3a8b76a8293038e3245813a9298d03f602a4
-size 453
+Subject: reorg . meeting
+please find attached my notes on the 3 different options that we discussed on
+last thursday . please review the options carefully and send me your
+revisions / amendments by the end of the day tomorrow and i will send out a
+" final " options list . particular help is needed on option 3 .
+we can take those options with us when we meet with brenda on wednesday .
+once again thanks for all of your ideas and co - operation .

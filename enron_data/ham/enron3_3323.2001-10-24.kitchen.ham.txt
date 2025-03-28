@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be6bf95228494bf212b3b7eed96f72bd7924b754b04281703f8fffc1503fee11
-size 285
+Subject: drift expense support
+- - - - - original message - - - - -
+from : glover , sheila
+sent : wednesday , october 24 , 2001 1 : 02 pm
+to : killen , faith
+cc : myers , thomas
+subject : ena allocation support
+failth ,
+as requested . i also included headcount detail .
+sheila

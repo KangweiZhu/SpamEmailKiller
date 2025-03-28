@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b986600cf090188cbcca61e05b27cc7b89b58553ad35a1ee285c92ec478db591
-size 115
+Subject: omaha - certificate status report
+attached is the certificate status report ( omaha ) for november 2001 .

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84ddb51e762a80c590cf9bf91fc65602ddcee5e908cd8b36f79d31d648dd94c4
-size 397
+Subject: audit update
+this is probably way more information than you want , but just in case you
+want to see where we are on the audit comments , attached is a worksheet i am
+updating every few weeks to ensure we address all their issues asap . they
+will ( at the request of louise ) be conducting a follow up audit in october ,
+and " re - audit " the management report in mid - july .
+sheri

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6aca69f5350419a69f4e4af97a6e23ab18766c1645ebaf6fb34983ee65d1bcd4
-size 409
+Subject: ut alumni
+attached you will find a list of ut alumni from the gis system . please look
+it over and let me know if there are any alumni that you feel should be added
+to our ut team . the information in this spreadsheet is taken directly from
+gis , so it should be fairly accurate and complete .
+please let me know if you have any suggestions .
+thank you for your help .
+have a great day !
+lexi

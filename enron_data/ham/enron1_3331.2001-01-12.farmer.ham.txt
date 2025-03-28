@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:90ad42176ef6233ed052515809818e24271a29caa03769475568a1e28347ee7c
-size 217
+Subject: hpl meter # 98 - 1525 texoma d / p - gsu hpl
+clem ,
+the recorded flow of 1 , 703 mmbtu on 1 / 5 / 99 has been moved from the strangers
+gas contract to 012 - 41500 - 02 - 004 for write - off purposes .
+bob

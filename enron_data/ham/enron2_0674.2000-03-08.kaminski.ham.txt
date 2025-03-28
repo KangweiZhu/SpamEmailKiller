@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc906c7894e353d310c2fcca673b77577822f6ff19e2d73589a2d7d672879f5f
-size 438
+Subject: your job application to enron research group
+dear mr . palmer :
+thank you for your interest in the research group at enron . we recieved your
+resume and discussed your qualifications within the research group .
+unfortunately , there is not a good match between our job requirements and
+your skills .
+once again , thank you for your interest in our company and best wishes for
+your future .
+regards ,
+p . v . krishnarao .

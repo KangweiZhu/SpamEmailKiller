@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ababcdd6d51008c1769ae6839e5af26487b27017220ea0bd4db91d6c53118157
-size 548
+Subject: about your application
+we tried to contact you last week about refinancing your home at a lower rate .
+i would like to inform you know that you have been pre - approved .
+here are the results :
+* account id : [ 837 - 937 ]
+* negotiable amount : $ 155 , 952 to $ 644 , 536
+* rate : 3 . 81 % - 5 . 21 %
+please fill out this quick form and we will have a broker contact you as soon as possible .
+regards ,
+eli starks
+senior account manager
+amston lenders , llc .
+database deletion :
+http : / / www . refin - xnd . net / r . php

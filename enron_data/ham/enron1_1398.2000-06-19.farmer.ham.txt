@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:68a4f2ab05e530dd4960dd3ace592b2b0acf14f885ff8409bf72db4f47fd3041
-size 267
+Subject: enron actuals for june 16 thru 18 , 2000
+june 16 teco tap 97 . 500 / hpl iferc
+hpl katy ( dbnd ) 5 . 000 / enron
+ls hpl katy 25 . 000 / enron
+junel 7 teco tap 40 . 000 / enron
+75 . 000 / hpl iferc
+june 18 teco tap 40 . 000 / enron
+50 . 000 / hpl iferc

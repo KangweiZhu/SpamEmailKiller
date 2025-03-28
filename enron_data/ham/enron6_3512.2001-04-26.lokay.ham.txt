@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f001fbd9c69cf00dc40e1f82291de70d10f06c324c6f0cbbe6e06db2d226cd3
-size 226
+Subject: notes from yesterday ' s meeting
+attached are my recollection of what transpired at yesterday ' s meeting . . .
+please provide any comments or changes . alma is setting up a follow - up meeting for tuesday .
+dennis

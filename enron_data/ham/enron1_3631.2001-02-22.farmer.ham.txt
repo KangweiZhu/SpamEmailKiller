@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e028ca889f0f621513fe260d593fd22d2192de0f7ea9818c955cf300df1c2e1
-size 235
+Subject: eastrans nomination effective march 1 , 2001
+effective 3 / 1 / 01 , the deliveries into eastrans will be 30 , 000 mmbtu / dy
+the redeliveries will be :
+19500 mmbtu / dy from fuels cotton valley
+10500 mmbtu / dy into pg & e

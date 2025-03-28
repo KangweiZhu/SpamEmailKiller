@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98482f67ccb1e1aad2994c953e24f2ea7ca32386bd04e015b82c4012864a6153
-size 305
+Subject: beep normal ( unsplit )
+internal path flows are now below limits . beep has been returned to normal
+mode ( unsplit operation ) as of 1700 hours . beep will dispatch as one zone .
+sent by market operations , inquiries please call the real time desk .
+guy ridgely : >
+grid resource coordinator

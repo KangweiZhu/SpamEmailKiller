@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f8d282b06a1b568c8532d54cf5c4f60a3ad0fc45bb4fb3fae8d98791dd236c20
-size 423
+Subject: request submitted : access request for diana . andel @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000009797
+request create date : 12 / 11 / 00 9 : 39 : 04 am
+requested for : diana . andel @ enron . com
+resource name : eol canada backoffice data manager
+resource type : applications

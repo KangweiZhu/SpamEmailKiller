@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8543eddb5990b2fcb4d61bbec98ae543440d97b49f8e0ddd0e54c55e71523c4
-size 64
+Subject: caiso atc final comp hel 1 01 / 18 / 2002
+full day url

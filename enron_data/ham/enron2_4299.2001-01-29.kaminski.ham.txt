@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85cf56a3ec45e7d0443e30dcb625dd8a0ff8d65d08ce5157ae275d8e1bc18591
-size 238
+Subject: confirmation of your order
+this is an automatic confirmation of the order you have placed using it
+central .
+request number : ecth - 4 tfn 5 w
+order for : jason sokolov
+1 x ( standard eol desktop $ 1210 ) enron it purchasing

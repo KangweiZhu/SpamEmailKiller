@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fbfe12435d3ab6a9faa5b66c7a54edf0effad164de34b090c7eb41149a4c796b
-size 400
+Subject: red rock contracts impact on next rate case
+as a follow - up to our discussion when i was in houston , attached is a memo that addresses how negotiated rate contracts will be treated in transwestern ' s next rate case . i had drafted the memo in response to numerous questions from bp regarding their red rock contract rate . pls . let me know if you have further questions . thanks , maria

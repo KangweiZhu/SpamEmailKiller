@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a83b899f2beb6d7946f1f38201464783f792e970d03d8171ff3acc62003fa563
-size 727
+Subject: estimate power cashflows
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stacey w white / hou / ect on 10 / 06 / 2000
+09 : 26 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+clara carrington
+10 / 05 / 2000 04 : 31 pm
+to : stacey w white / hou / ect @ ect
+cc :
+subject : estimate power cashflows
+- - - - - - - - - - - - - - - - - - - - - - forwarded by clara carrington / hou / ect on 10 / 05 / 2000
+04 : 30 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+kathy reeves
+10 / 03 / 2000 02 : 58 pm
+to : clara carrington / hou / ect @ ect
+cc :
+subject : estimate power cashflows
+note : our power curve is a critical component of the cashflows and this has
+not yes been finalized .

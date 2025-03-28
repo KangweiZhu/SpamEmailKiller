@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21db3399e616e3319f2cefdb3b46120396900f67c182f2bba1d9b2f2c22dd313
-size 193
+Subject: enron / hpl actuals for january 12 - 14 , 2001
+january 12 , 2001
+teco tap 30 . 000 / enron
+january 13 , 2001
+teco tap 30 . 000 / enron
+january 14 , 2001
+teco tap 30 . 000 / enron

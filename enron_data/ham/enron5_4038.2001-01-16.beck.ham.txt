@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85efc2c7ca80ac1ffa92c19622b8fffd833364a2278008f65ebcd7b4b8a09540
-size 321
+Subject: congratulations !
+congratulations on your promotion to md !
+in addition to being a great personal achievement , your promotion helps to
+raise the awareness of the importance of the tasks performed by you and your
+team .
+i look forward to speaking with you upon your return from europe .
+all the best ,
+tom

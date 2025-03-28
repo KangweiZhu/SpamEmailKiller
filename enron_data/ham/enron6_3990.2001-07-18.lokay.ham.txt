@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:450fc1968806afe78ac1d2c1d41957d65a648034c242f0ddc3e5fa62893fb490
-size 375
+Subject: bullets
+sold 35 , 000 mmbtu this week to richardson products at an average price of $ 3 . 10 compared to tw index price through july 18 th of $ 2 . 77 .
+reliant ' s negotiated rate deal from san juan to east of thoreau totals $ 32 , 000 through july 17 th .
+it backhauls deals from pg & e topock to the west of thoreau area totals $ 190 , 000 through july 17 th .

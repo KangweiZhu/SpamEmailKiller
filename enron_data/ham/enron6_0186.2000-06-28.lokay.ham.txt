@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:abad673f10f60e4d819bc383e7e191cdccc104f945493796d839ad18b398457d
-size 90
+Subject: updated contact list
+please find attached our most recent updated contact list .

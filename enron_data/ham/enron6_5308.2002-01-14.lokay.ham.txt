@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8fd1b25c034c360fd64cf988d7505eec0e0b9579c82f0b9f9310352dfe12e02
-size 427
+Subject: fw : weather sites
+this is the list of weather sites preston uses to report weather trends at the nng / tw morning meeting .
+tk
+- - - - - original message - - - - -
+from : roobaert , preston
+sent : monday , january 14 , 2002 8 : 19 am
+to : lohman , tk
+subject : weather sites
+research group
+other sites
+http : / / www . weather . com /
+http : / / www . noaa . gov /
+http : / / www . cnn . com / weather /

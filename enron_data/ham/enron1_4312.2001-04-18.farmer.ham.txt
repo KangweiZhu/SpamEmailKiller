@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:555903e7b3061f42329572c46922ea7a2044db0ccf4a874a511e730cb479169d
-size 201
+Subject: retroactive adjustments
+the following volume adjustment was entered today retroactive to 4 / 1 / 01 :
+deal # meter # tr . zn . from to price
+737854 9885 05 0 1 , 100 gas daily - 0 . 14
+bob

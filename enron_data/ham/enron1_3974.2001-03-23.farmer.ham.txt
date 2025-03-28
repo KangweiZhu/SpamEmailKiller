@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:67cad61533bdc577d9895f05498ed6ac9e3a9d1d08724993f58aae47d5411e44
-size 430
+Subject: re : noms / actual flow for 3 / 22 / 01
+we agree with the nomination .
+" eileen ponton " on 03 / 23 / 2001 09 : 56 : 45 am
+to : david avila / lsp / enserch / us @ tu , charlie stone / texas utilities @ tu , melissa
+jones / texas utilities @ tu , hpl . scheduling @ enron . com ,
+liz . bellamy @ enron . com
+cc :
+subject : noms / actual flow for 3 / 22 / 01
+nom mcf mmbtu
+38 , 334 36 , 871 37 , 867
+btu = 1 . 027

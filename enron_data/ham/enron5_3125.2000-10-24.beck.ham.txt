@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc1f1d1683d68704188b257f657d63c9603f90ee89e9556701c1b728b54ece98
-size 627
+Subject: officialized book listing
+below is a list of books officialized each day by financial trading risk
+management . all other books calculated and not officialized , are used for pl
+comparison only . the positions and var from these books not officialized
+reside in the equity trader system and the infinity trading system for ir / fx .
+agricultural trading book list :
+fin - agri - grain primary ba : israel estrada back up ba : aneela charania
+fin - agri - soft primary ba : israel estrada back up ba : aneela charania
+fin - agri - meat primary ba : israel estrada back up ba : aneela charania
+thanks ,
+theresa

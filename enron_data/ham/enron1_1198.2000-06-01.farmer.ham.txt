@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b9aaf0e10bf7f445f1e2ef80282b218f8ce6998d78e205785fd8c333d450b2e
-size 241
+Subject: and the final numbers for may are . . .
+iferc 1 , 240 , 000 ( last volume was 72084 on day 18 )
+enron 930 , 000 ( last volume was 21667 on day 26 )
+gas daily 1 , 033 , 416 ( last volume was 80000 on day 31 )
+please advise ,
+ami

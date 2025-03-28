@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e0dea8d9dbc6d2e44add6e780e3ef3f0f05a8b34f583e8ffdc63a99356dd12f
-size 334
+Subject: active and dormant book list
+fyi -
+this is our list of active and dormant books that are in risktrac . they
+total approximately 3200 books . this list will be our starting point to help
+risk management verify that all books are being captured in risktrac and that
+all books that need to be officialized are .
+chris abel

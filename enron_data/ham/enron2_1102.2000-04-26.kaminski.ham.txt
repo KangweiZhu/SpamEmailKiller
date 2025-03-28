@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8ee019aa563e2c2c1c40b952d9d1be11b01463ed04c3d5f5c6fde6b8a78c3cf
-size 521
+Subject: re : the transportion model worked
+great to hear that . you are right , we should include rho ( done ) and theta
+( to do ) for the cost term .
+zimin
+enron north america corp .
+from : kenneth shulklapper 04 / 26 / 2000 12 : 07 pm
+to : zimin lu / hou / ect @ ect
+cc :
+subject : it worked
+zimin ,
+the model worked well today . hopefully it will continue the same in the
+future .
+do we need to make a similar change in the model to " drift " to account for
+changes on the demand charges over time ?
+ken

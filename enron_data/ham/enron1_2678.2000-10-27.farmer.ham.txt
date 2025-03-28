@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:22df643a2d92627483737bc3df36a1e5716d9d0506d9e45bd1bc5b44fef9c83a
-size 113
+Subject: neon discussion november 1
+here ' s material for this upcoming week .
+?
+bobby
+- neon roaring 3 . doc

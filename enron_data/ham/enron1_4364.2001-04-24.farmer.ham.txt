@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:554732520cd3303c767e345b099ced3326628910e1b15dda0276c21863599bfa
-size 409
+Subject: re : nom / actual volume for april 23 rd
+we agree
+" eileen ponton " on 04 / 24 / 2001 12 : 18 : 39 pm
+to : david avila / lsp / enserch / us @ tu , charlie stone / texas utilities @ tu , melissa
+jones / texas utilities @ tu , hpl . scheduling @ enron . com , liz . bellamy @ enron . com
+cc :
+subject : nom / actual volume for april 23 rd
+nom mcf mmbtu
+30 , 208 30 , 046 30 , 858
+btu = 1 . 027

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:282892df8f2354fdb7a30aa655cbcbbf12ff53f0a4771ec8f6a6c62503c202a2
-size 189
+Subject: deal # 125822
+the expected volume on the subject deal has been changed effective 3 / 28 / 01 :
+meter # trade zone counterparty from to
+9658 16 kcs resources 6 , 500 5 , 700
+bob

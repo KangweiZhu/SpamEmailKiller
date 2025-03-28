@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:caf0fbeb2a1a49faab51d5e11e568b94101c204d4e13a0bdfba61d499bdf6aeb
-size 398
+Subject: energy ops showstopper status report - 6 / 30 / 00
+attached is an updated file summarizing the action plan for completing energy
+op ' s showstopper reports . if you are responsible for an action item , please
+keep me updated on your progress so that i can reflect it in the report
+properly . thanks in advance for your help .
+let me know if you have any questions .
+thanks ,
+rainier

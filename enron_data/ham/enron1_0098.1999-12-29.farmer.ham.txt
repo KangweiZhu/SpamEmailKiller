@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee1e500609d2cb6b4b091edef6d07db03dded7be8cb46b35d074bb68101c6ef5
-size 239
+Subject: meter 73 - dec 1999
+ami ,
+we need to make sure that there is a nom ( even if 0 with always send ) for
+conroe ( sitara deal 70222 ) for every month . entex has volume there every
+month , but in nov there was no nom set up .
+hc

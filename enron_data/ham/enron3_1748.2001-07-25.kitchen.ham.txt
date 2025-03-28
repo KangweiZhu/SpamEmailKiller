@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8baa2b092118b28a9da753569c70283adee0ac4682ef0a41adef0dbab392172
-size 137
+Subject: updated schedule of trading track rotations
+pls see attached following reqeusted changes to the tt rotations .
+rgds ,
+karen .

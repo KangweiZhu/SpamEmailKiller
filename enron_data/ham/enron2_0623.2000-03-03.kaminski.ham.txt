@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f7b27484140931969f6e484467698a4a84644fae1961a1e438353ac3509b7521
-size 127
+Subject: voila
+hey guys , the model just converged , beautifully . thanks for having the guts
+to try something big .
+clayton

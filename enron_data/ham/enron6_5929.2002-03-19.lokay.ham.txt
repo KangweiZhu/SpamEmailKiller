@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19a1e483e6439fac9029e3c463d0dc41769fb9638a0f93e99ab201d12089eb40
-size 293
+Subject: fw : confirmation
+- - - - - original message - - - - -
+from : lohman , tk
+sent : thursday , march 14 , 2002 8 : 53 am
+to : schoolcraft , darrell ; moore , jan ; moseley , debbie ; ward , linda ; mulligan , amy ; strohmeyer , vincent
+cc : watson , kimberly
+subject : confirmation

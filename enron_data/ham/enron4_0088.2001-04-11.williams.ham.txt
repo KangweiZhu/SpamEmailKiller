@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b89da6f7c6c5f37e839040257507f27c82bd5d221dea3732d1040ce1c8c6d55
-size 299
+Subject: mitch moulton interview this afternoon / room change
+fyi :
+the lpm interview with mitch moulton will take place in the cascade conference room .
+amy will not be interviewing , as she has a conflicting appointment this afternoon .
+let me know if you have any questions !
+- grace
+x 8321

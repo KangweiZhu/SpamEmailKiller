@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b35ab9e28d27564adf47b41b6e9b5c302ec4a19c9dce2842571c4b3ce058ac28
-size 301
+Subject: new extension installed
+we will receive a new employee on jan . 17 th 2000 .
+if possible we would like for his telephones and extensions
+to be ready .
+his name is jose marquez .
+his locations are eb 3130 c and ebl 968 .
+any questions please call kevin moore x 34710
+thanks
+kevin moore

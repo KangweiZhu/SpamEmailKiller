@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d3c8d64c2422b6a6575117f1749e66addf1f98675824376b60295e2889e97f3a
-size 560
+Subject: interview - 10 / 4
+dear ms . beck ,
+i want to thank you for interviewing me for the analyst position last week .
+i enjoyed meeting you and learning about your work . my enthusiasm for the
+position and my interest in working for enron were strengthened as a result
+of the interview .
+i believe that my background and experience fit nicely with the job
+requirements , and i am sure that i could make a significant contribution to
+the firm . i have not heard back yet and would appreciate any information you
+can give .
+thank you ,
+irfan iqbal

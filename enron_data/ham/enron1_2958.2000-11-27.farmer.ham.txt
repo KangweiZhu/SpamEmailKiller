@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df4306baf8ac3a75b064a6aeca1c292ff50746e6343405421fb0f736c15439af
-size 442
+Subject: natural gas nomination for december 2000
+enron methanol nominates the following natural gas requirements for the
+methanol plant for december 2000 :
+33 , 000 mmbtu per day
+egpfc nominates the following natural gas requirements for the mtbe plant at
+morgan ' s point for december 2000 :
+12 , 000 mmbtu per day for the first 15 days of the month . none for the last
+half of the month . mtbe plant will be down after december 15 .

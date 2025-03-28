@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:565af85157589008d296d05f39917441d35b2b4d953d7e61f4d087e610a52004
-size 436
+Subject: request submitted : access request for joyce . kuo @ enron . com
+you have received this email because you are listed as a data approver .
+please click
+approval to review and act upon this request .
+request id : 000000000008348
+request create date : 11 / 28 / 00 8 : 51 : 12 am
+requested for : joyce . kuo @ enron . com
+resource name : eol us risk management application product data manager
+resource type : applications

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:889572397d016db2a479e278207282ede5aa1a5415f8e2488b8bcf4521cc4cee
-size 255
+Subject: mary poorman interview schedule & resume
+please be advised that the interview for mary poorman , to be held today will
+be in room 3671 . the schedule is as follows :
+pat clynes 2 : 30
+lauri allen 3 : 00
+gary hanks 3 : 30
+daren farmer 4 : 00

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:03d3c3af1dded452ffcacdef7cfccb89efa4eb7e9e58e3798e9ba7b3a5dcfc1c
-size 276
+Subject: waha hubco
+to all :
+the attached memo summarizes our discussions regarding waha and proposes a way forward with respect to either the nng or t ' w options . . i will arrange a meeting to discuss your comments after you have had a chance to review .
+thanks ,
+brian

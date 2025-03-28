@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:324bb6319d665084e255bfec143da4ca4c093f77f504a4a2aa375698ab334441
-size 485
+Subject: ews employees departing following the year end prc
+fyi
+- - - - - original message - - - - -
+from : skinner , cindy
+sent : monday , april 02 , 2001 5 : 38 pm
+to : oxley , david ; jones , robert w .
+subject : departing ni / issues employees
+as discussed , attached is the chart showing the ni / issues employees who have left ews ( or will be leaving shortly ) as a result of the year end 2000 performance management process .
+let me know if you have any questions .
+cs

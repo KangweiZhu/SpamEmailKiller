@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96c65216cbed03cd4068fb0570de41cf0700d714df7382b045c37f662ddbff85
-size 380
+Subject: mtg . with gas assets group
+:
+subject : mtg . with gas assets group
+the date and time of the baxter / whalley meeting has been changed , please mark
+your calendar as follows :
+please mark your calendar for the upcoming " ena gas assets meeting " with
+cliff baxter and greg whalley .
+date : tuesday , march 7 , 2000
+place : eb 5 c 2
+time : 2 : 00 - 3 : 00 p . m .

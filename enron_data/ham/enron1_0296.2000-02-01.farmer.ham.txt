@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4291cef86008a27b5233b270667b990cff082a81415e0aa4546b6ad8e8bdd2a9
-size 64
+Subject: hl & p january 2000
+attached are the january numbers .

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b6db5143aaad56c624cf9f8b63d35aa81ff20ede9ea1bf60ea1fc7e2dcbfdbd2
-size 76
+Subject: enron / hpl actuals for january 9 , 2001
+teco tap 27 . 500 / enron

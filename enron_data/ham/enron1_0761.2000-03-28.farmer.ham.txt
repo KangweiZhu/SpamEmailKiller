@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11050bfa1e22509244cd921f457b0805c4c0d397f419dd8b5d89e1eddb5be6ed
-size 280
+Subject: mtbe upsets
+the mtbe plant has determined full production can be attained sooner than
+their first forecast . production at the mtbe plant remains approximately 9
+mbd today and tomorrow , then 11 mbd on thursday , march 30 , and 13 . 7 mbd
+starting friday , march 31 .

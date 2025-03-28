@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:583aff794fce3c1292b77775c93d20ffc0b6ab47cc2d45f6c84bea5f1ccb70c2
-size 142
+Subject: gtv - 2 status files
+attached are the notes and latest timeline from this week ' s gtv - ii status meeting .
+bill fortney
+3 - 9952

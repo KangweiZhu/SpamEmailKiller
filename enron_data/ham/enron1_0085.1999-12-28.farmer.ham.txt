@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93f6fd13af01b1e1ee6dc2d9fae5346f4b4bd5a1f61c01964514db76080fff69
-size 511
+Subject: missing txu lonestar and oasis paths
+stacey ,
+it looks like your missing paths revealed a quirk in our suppression of zero
+paths . there were 4 paths initially entered as zero , then changed to
+non - zero on a later date . the system did not correctly determine that the
+zero path should no longer be suppressed .
+we have fixed the 4 paths affected and have corrected the code so this won ' t
+happen any more . below is a screen print of the nov 22 problem that is now
+fixed .
+thanks , d . n .

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e7547a26de382a96ce6fe9e7cd4d10f9bd79cb6e7532e5264ff2c71fdcad6d9
-size 249
+Subject: weekly meetings
+maureen ,
+this is to remind you that we scheduled , at your request ,
+regular weekly meetings . we are supposed to meet every
+friday at 8 : 00 a . m .
+if i am not at the office , the meeting will be rescheduled .
+vince

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b53ec81f9b3fd1c4965c5c65718ec7dab6beff310af16f084751085ffc97ad0
-size 205
+Subject: the review is in . . . . . .
+hey daren - -
+here is my brief review of mike . . . . . let me know if you have any questions .
+( see attached file : molsen . doc )
+thanks ,
+mark
+- molsen . doc

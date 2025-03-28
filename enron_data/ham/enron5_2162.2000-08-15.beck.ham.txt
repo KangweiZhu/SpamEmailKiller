@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c82a28ea64b4023e53ddc1ca538f325ece9001257816afdc320bc7267992f1c
-size 303
+Subject: mariner doorstep report
+attached is the mariner doorstep report . jim brown indicated that the action
+dates for the three findings should be immediately , we decided that october 1
+was a realistic deadline for implementation . please let us know any comments
+or questions .
+thank you
+kate

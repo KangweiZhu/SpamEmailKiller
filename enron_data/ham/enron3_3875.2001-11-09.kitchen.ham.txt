@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23c7dfef3c8b337ff9816cc54319cf9bec28b686c598044b2f954522b2df5b19
-size 357
+Subject: overdue margin
+there are 3 ( aep , hetco , and phibro ) . the first number is the amount originally called for , and the second is what the call should be today based on last night ' s marks . i have also attached a spreadsheet with the same data .
+all numbers in millions :
+aep 19 . 25 22 . 5
+phibro 16 16
+hetco 17 . 25 9 . 5
+thanks ,
+tanya

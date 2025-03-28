@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8b7ec280a03abca81afeb216e16fee9af3150af256978bab511713deeaa0e37
-size 269
+Subject: meeting and business reports
+the following documents have been posted in s \ mg \ background info \
+mgmetals & recycling - germany . doc
+mg back office org charts . doc
+and it ops report - ny & chicago . doc , in s \ mg \ administration \ meeting reports \

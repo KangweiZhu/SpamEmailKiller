@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:06d480e81116fdca8eb4a4567ddb1a5a43be74ee0fd52b8c44f6dfe1255065d9
-size 208
+Subject: unfinaled sales invoices
+here are the spreadsheets for the unfinaled invoices prior to may 2000 .
+please notify me of any discrepancies . we will send out unfinaled purchases
+next week .
+thanks .

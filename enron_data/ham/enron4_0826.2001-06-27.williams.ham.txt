@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1d263ad9408545df76404c7b86c0fd515c12147c0ccc52847a5758a2ea03ac81
-size 243
+Subject: montana profits - year - to - date
+john malowney would like us to calculate our profits from montana power deals for this year . he ' d like a number by tomorrow . let me know if you ' d like me to take care of this .
+thanks ,
+kate

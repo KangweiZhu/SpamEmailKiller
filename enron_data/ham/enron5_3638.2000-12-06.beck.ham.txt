@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bcddae015d1f6c11a13594ffe4846d99fa7fc1fdb33294f6f05ad248464658eb
-size 258
+Subject: please grant access : application request ( kker - 4 rrjnr )
+security resource line item request kker - 4 rrjnr has been submitted for your
+processing .
+to view the request , double click your left mouse button on the notes
+document link below .

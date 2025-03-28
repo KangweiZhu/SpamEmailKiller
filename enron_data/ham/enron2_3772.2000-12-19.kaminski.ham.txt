@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fafee16356b7ec462d358adaf763577c084f3c0b81beb2de73e2a64bc582cfc7
-size 402
+Subject: re : testing ir & fx var
+nick and winston ,
+i understand that ir & fx var numbers are calculated every day in risktrac .
+this results are overwritten
+everyday in the database table by the official numbers calculated with the
+old version of the code .
+for the consistent testing we need historical results for each ir and fx
+sub - portfolio .
+can we store the numbers every day ?
+tanya

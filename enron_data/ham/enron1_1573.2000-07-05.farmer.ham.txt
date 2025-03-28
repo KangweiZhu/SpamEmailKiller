@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70cb0e817a29640519f9214d3eaceb3ffbe198b61f7c0f45812481c6fba4e664
-size 297
+Subject: meoh upset
+the meoh plant began having problems on june 30 . on july 3 , a flange fire on
+piping occurred . the piping could not be depressured and the plant was shut
+down . no eta for plant startup is available at this time . additional
+information will be forwarded when available .

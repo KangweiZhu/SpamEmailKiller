@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:025d50f2c2d562b5cc2f51790f5f1b698959614d277c29660b63de4d6a7071c0
-size 170
+Subject: enron / hpl noms for february 23 - 25 , 2001
+february 23 , 2001
+teco tap 30 . 000
+february 24 , 2001
+teco tap 17 . 500
+february 25 , 2001
+teco tap 38 . 750

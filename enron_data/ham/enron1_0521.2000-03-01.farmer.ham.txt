@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:68faf86d5346b2da9f0a01238661e874f1de7d2347f9e5c9a9b504d15bb4cb8e
-size 504
+Subject: aquila header ( meter # 980072 ) - january volumes
+daren ,
+on january 15 and 16 , hpl bought some gas from western gas resources at the
+aquila header ( 10 . 000 and 5 . 000 mmbtu ' s respectively ) . this was a late
+friday change so in order to get it scheduled in pops , the gas was scheduled
+on the stranger ' s gas contract . however , deal ticket # 143709 was never
+updated to reflect those late changes . please let me know if you want me to
+update the deal ticket . thanks , susan .

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ac724645868d8653f4d734b848c61f82dbc8951b6281626de8e25bbc2125a95
-size 260
+Subject: spot purchases - 04 / 01
+the following deals have been entered today as wellhead purchases :
+deal # meter # counterparty tr zn nom price
+712357 2630 swift energy 18 21 / d 100 % ifhsc less $ 1 . 38
+712358 9603 vintage gas 8 100 / d 84 % ifhsc
+bob

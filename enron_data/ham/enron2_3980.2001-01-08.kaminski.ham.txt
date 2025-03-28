@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb4223bf413112316756df3cf05cdc96e3e49743cb031c18e5354f2832c201f6
-size 493
+Subject: request submitted : access request for tom . barkley @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000012677
+approver : stinson . gibner @ enron . com
+request create date : 1 / 8 / 01 2 : 30 : 03 pm
+requested for : tom . barkley @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aae0286c14e74499805a0662eed7819f142ce3ad9bec98f9bcd4dc8c996c45f8
-size 428
+Subject: request submitted : access request for kelly . lombardi 2 @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000009596
+request create date : 12 / 7 / 00 4 : 03 : 17 pm
+requested for : kelly . lombardi 2 @ enron . com
+resource name : eol us backoffice data manager
+resource type : applications

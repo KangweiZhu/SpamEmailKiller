@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:37239ba52182629d2d3e7a9855ca4aa9bbf5acb5304e0a6e95bfb9a12f4211d4
-size 425
+Subject: request submitted : access request for anabella . desouza @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000009842
+request create date : 12 / 11 / 00 11 : 44 : 19 am
+requested for : anabella . desouza @ enron . com
+resource name : eol us backoffice reports
+resource type : applications

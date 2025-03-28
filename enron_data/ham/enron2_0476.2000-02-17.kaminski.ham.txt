@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8bb5cc9344253d9a2510ef7330792e2517407435f04bce8ef94362166b7a3dd7
-size 217
+Subject: fasbl 33 presentation
+hello all :
+paige grumulaitis will give an fasbl 33 training session on tuesday , march
+7 , 2000 from 1 : 30 - 5 : 30 pm in eb 46 cl .
+please mark your calendars .
+thanks !
+shirley

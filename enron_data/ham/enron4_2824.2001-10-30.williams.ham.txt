@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:891e2b7455203bbf2c18392638735e5b625448c4920845e80acb92470b51a8ce
-size 534
+Subject: incorrect prices on oasis
+starting hel 9 the iso is posting incorrect 10 minute pricing and hourly
+expost pricing due to software problems . as soon as the problem has been
+repaired the correct pricing will be posted . sent by the real time desk .
+the system conditions described in this communication are dynamic and
+subject to change . while the iso has attempted to reflect the most current ,
+accurate information available in preparing this notice , system conditions
+may change suddenly with little or no notice .

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f53ac288b24a4b2d334dcadd1385ccccf9e84016f8bc1c4492c0167c4baa935
-size 127
+Subject: tw weekly report for february 22 , 2002
+attached is the tw weekly report for february 22 , 2002 .
+jan moore
+x 53858

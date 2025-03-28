@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:45cf149a480f5fb064a6ad53337435e68c42aa3be0795281505ca91a5dd9b053
-size 640
+Subject: spam mail warning notification ! ( attachment removal )
+* * * * * * * * * * * * * * * * emanager notification * * * * * * * * * * * * * * * * *
+the following mail was blocked since it contains sensitive content .
+source mailbox :
+destination mailbox ( es ) : cva @ urjc . es
+policy : attachment removal
+attachment file name : your _ document . pif - application / octet - stream
+action : replaced with text
+por motivos de seguridad , los ficheros con extensión com , exe , bat , pif , scr y cpl han sido eliminados del correo .
+* * * * * * * * * * * * * * * * * * * end of message * * * * * * * * * * * * * * * * * * * * *

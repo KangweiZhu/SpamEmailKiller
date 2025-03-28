@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1f437182f3d2652fe2de85b2a47c46ffdc6f927998490c168f4ed4d64b37f68
-size 191
+Subject: delivery status notification ( failure )
+this is an automatically generated delivery status notification .
+delivery to the following recipients failed .
+pfitzpatrick @ jfsmw . org

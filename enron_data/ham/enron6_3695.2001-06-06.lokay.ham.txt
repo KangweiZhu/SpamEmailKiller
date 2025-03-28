@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53a4733367456b310caebe3eb55eab5c24095603a10c59dabd648fda55bf051d
-size 306
+Subject: re - sending conoco dwg file for tw interconnect
+>
+attached is an autocad 2000 dwg file of pipelines area plan for a conoco - tw
+interconnect
+iam not sure the first e - mail went thru with the drawing attachment
+randy sauvain
+conoco nggp drafter
+senmou , hobbs nm
+- tw - interconnect . dwg

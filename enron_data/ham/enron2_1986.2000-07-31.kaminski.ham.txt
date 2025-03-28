@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ef460dec83f524df5583829ec0a0edac634089f7025b0c8c51ecc216879742f6
-size 505
+Subject: message 2
+i am sorry to send you the multi - email , because the mail server doesn ' t have
+enough memory . it always cause some troubles .
+ps : attached with my paper entitled " multireset american - style put options
+valuation and optimal resetting " .
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+quentin kerr , email : qkerr @ maths . uq . edu . au
+room : 67 - 622 tel : ( 07 ) 33461428
+department of mathematics , the university of queensland
+- multiresets . ps

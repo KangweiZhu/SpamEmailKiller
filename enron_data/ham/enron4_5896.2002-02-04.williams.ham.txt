@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bfcd3a56da6f8b982748dbbaa52bb525be694054adbae94465e4f64b700a365d
-size 1219
+Subject: start date : 2 / 4 / 02 ; hourahead hour : 17 ;
+start date : 2 / 4 / 02 ; hourahead hour : 17 ; no ancillary schedules awarded . no variances detected .
+log messages :
+error : file o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002020417 . txt is empty .
+error : file o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002020417 . txt is empty .
+error : file o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002020417 . txt is empty .
+error : file o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002020417 . txt is empty .
+error : file o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002020417 . txt is empty .
+error : file o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002020417 . txt is empty .
+error : file o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002020417 . txt is empty .
+error : file o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002020417 . txt is empty .
+parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002020417 . txt

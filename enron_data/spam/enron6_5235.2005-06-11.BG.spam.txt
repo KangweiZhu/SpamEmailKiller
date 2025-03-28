@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed7f9a70330c0d6619c7b59289cc130e9de9b5ffdc7e55b548a929ee23bced2a
-size 428
+Subject: agriculture - translation service
+technical translation - agriculture
+english / spanish - spanish / english
+- crops
+- cattle raising
+- swine
+- poultry
+- farm machinery
+- agricultural inputs
+- veterinary medicine
+- farm management
+- agricultural economics
+- commodity commercialization
+- rural policy
+- natural resources
+for further info , please send your message at
+agritranslation @ alternatival . com

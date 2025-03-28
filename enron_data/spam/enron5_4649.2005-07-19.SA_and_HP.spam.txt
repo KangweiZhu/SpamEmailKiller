@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed1cdad7b2c0f7d9d0e27db4e997bb71acb700ba67a8f0c031cc8f499a5b94aa
-size 521
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 12 : 59 : 40 + 0200
+from [ 218 . 159 . 229 . 14 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : 550 5 . 7 . 1 message content rejected , ube , id = 05197 - 02 )
+- - - - - transcript of session follows - - - - -
+. . . while talking to mxol . cssnv . be . :
+> > > data
+< < < 550 5 . 7 . 1 message content rejected , ube , id = 05197 - 02
+554 5 . 0 . 0 service unavailable

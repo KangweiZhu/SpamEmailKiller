@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b20348670683acb95d8d3bacfe6a711c2522f6da05b63d301f584185a051781
-size 137
+Subject: transactions with municipalities or other governmental agencies
+per the request of mark haedicke , please see this attachment :

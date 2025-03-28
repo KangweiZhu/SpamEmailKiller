@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:396735a130247bc0baccf5dd0be1bdf151a2735310e687b84af925fb66bd3b3a
-size 121
+Subject: clean draft of press release
+attached is a clean , non - redlined version of the draft press release . i hope .

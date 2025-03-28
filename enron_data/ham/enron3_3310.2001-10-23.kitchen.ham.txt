@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:446f5c9b1da6f6831e83d105c0806f39c5803e945ed82a4bf19b9e8a7553428e
-size 322
+Subject: how do you feel about offering clearing services on eol ? it would be a tricky cash issue for enron , but given our credit situation , it might become more necessary in order to keep large counterparties on the site . our discussions with nymex have touched on the idea , and i wanted to get your thoughts .
+brad

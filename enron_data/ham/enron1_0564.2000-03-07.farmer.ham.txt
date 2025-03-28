@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6daf3f67399dfef23aef97f2c1839d154ef9872bf89a039b99d2c2811975bebf
-size 129
+Subject: would you have an objection to mapping the east texas gas system to the
+carthage curve as opposed to the texoma curve ?

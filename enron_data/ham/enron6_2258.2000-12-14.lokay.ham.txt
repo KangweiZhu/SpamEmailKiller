@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8df480284e155cf4e9754bf2030b6da76683d94015bb897b00b0e54768ca262f
-size 563
+Subject: el paso maintenance
+el paso said the waha station ' s solar turbines will be unavailable dec . 18 ,
+which will limit deliveries at six waha interconnects to 600 mmcf / d . receipts
+from 12 interconnects will be limited to a total of 380 mmcf / d if their
+pressure is below 900 psig . any of the affected points that can deliver to
+epng at pressures up to 1 , 000 psig will be able to flow normally scheduled
+volumes . the work is being scheduled now because current market demands have
+not required operation of the solar turbines , el paso said .

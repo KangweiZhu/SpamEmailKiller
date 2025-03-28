@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea4a7be9f2fb9b37b33962905511b2f71d7c1f72a0e1b59624a78430f14a8777
-size 493
+Subject: message received
+thanks for contacting intellexual . net , your message has been
+received on our servers ; however , we do get a high volume of
+incoming mail and due to an everchanging schedule are increasingly
+unable to address each and every one . contacting me to
+diagnose / solve your case - by - case problems will probably have the
+lowest response rate . sorry but it ' s impractical and time - consuming
+for me to try and fix your car over the net !
+- intellexual . net

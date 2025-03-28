@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c3ae0f5b672ea0a45f5d574566a590c0fcee78079cfaa1bd32da38c9b4b5871
-size 291
+Subject: start date : 1 / 9 / 02 ; hourahead hour : 13 ;
+start date : 1 / 9 / 02 ; hourahead hour : 13 ; no ancillary schedules awarded . no variances detected .
+log messages :
+parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002010913 . txt

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e0f03b11dd6d0b051a20f2365abd38ae066ec78a189408d7b8f53666e39bc48
-size 301
+Subject: fw : pooling contract template
+- - - - - original message - - - - -
+from : christinehauk @ txu . com [ mailto : christinehauk @ txu . com ]
+sent : monday , november 26 , 2001 9 : 45 am
+to : buss , jd
+subject : pooling contract template
+( see attached file : line x pool contract . doc )

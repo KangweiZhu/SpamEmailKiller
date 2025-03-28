@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f86d0b7ca4c04bea074a9217d93251963412ac638460a221350e4bd4ac74506f
-size 480
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 07 : 06 : 09 - 0400
+from root @ localhost
+- - - - - the following addresses had permanent fatal errors - - - - -
+antique
+( reason : can ' t create ( user ) output file )
+( expanded from : )
+- - - - - transcript of session follows - - - - -
+procmail : quota exceeded while writing " / var / spool / mail / antique "
+550 5 . 0 . 0 antique . . . can ' t create output

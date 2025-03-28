@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd1198c1368a487423e04911ac60679de89a99d6ecb139a9f2d3edc492e598d4
-size 149
+Subject: estimated actuals for april 5 , 2001
+estimated actuals
+teco tap 24 . 917
+when we receive actuals from duke , i will forward them to you .

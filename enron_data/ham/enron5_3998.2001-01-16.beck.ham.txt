@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f00f8e89433f0e2522b2a217e31dfa7c1e2edd811a05da35e15cb83fc5f2a81
-size 187
+Subject: congratulations
+congratulations on your promotion ! i ' m very happy for you . it ' s good to see
+the recognition for leadership in commercial support roles .
+regards ,
+susan

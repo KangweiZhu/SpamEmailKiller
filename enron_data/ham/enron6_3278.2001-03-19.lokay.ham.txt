@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a3cabd23f794260e831fb509383037068320b1da3eb1d71d5bbb16ec2757386a
-size 236
+Subject: ena bid
+i realize we never talked about how the bids were stated - ours was inclusive of fuel and all variable charges . this will make a big difference in the ultimate rate to your shipper . do you need me to break this out ?

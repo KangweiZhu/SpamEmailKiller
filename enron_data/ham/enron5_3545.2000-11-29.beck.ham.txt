@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1cb67be2bfbdf3ce68dd605ba7b62559c75b52e91063f98d8348edbad5654b8b
-size 444
+Subject: request submitted : access request for stewart . range @ enron . com
+you have received this email because you are listed as a data approver .
+please click
+approval to review and act upon this request .
+request id : 000000000007874
+request create date : 11 / 20 / 00 2 : 34 : 59 pm
+requested for : stewart . range @ enron . com
+resource name : eol us risk management application product data manager
+resource type : applications

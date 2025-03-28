@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4489eb1d1ad2ed6af1e7b09d11d15bb87958058f27d77e12bad8631eace9b71
-size 122
+Subject: decrease entex rom
+142509 dth by 6 days = 855 , 054
+67509 dth by 15 days = 1 , 012 , 635
+total = 1 , 867 , 689

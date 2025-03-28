@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:de3ba44e9c7cee4bec16fbc7a88d211af7aaae8e84851f0dc7c9aade0008a35b
-size 625
+Subject: visit by professor shijie deng on friday , july 28 , 2000
+professor shijie deng , assistant professor , school of industrial and systems
+engineering , georgia institute of technology will be spending friday , july
+28 , 2000 with the research group . he will be doing a presentation from 1 : 00
+pm to 2 : 30 pm in conference room 49 c 4 . his field of expertise is :
+financial asset pricing and real options valuation
+financial engineering applications in energy commodity markets
+transmission pricing in electric power systems
+applications of contract theory in supply chain modeling
+please plan to attend .

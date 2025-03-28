@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29d2cbcd35b7e137d8ffc6be70a6d69f1a596d1b6f9fc1d7e5f4ae9ea2c43ed1
-size 725
+Subject: hpl meter # 981052 pasadena plant phillips hpl
+daren :
+during the period of 11 / 10 / 99 through 11 / 11 / 99 , the above meter recorded flow
+of 1 , 613 mmbtus . there was no deal at this meter the month prior or after .
+currently , logistic has these volumes recorded to hpl strangers gas
+contract . in order to correct this , hpl logistics needs either a deal to
+record these volumes which have flowed into hpl ' s pipeline or logistics needs
+approval to write - off these volumes to unaccounted for gas . ( please print ,
+sign , and return original to clem cernosek ) .
+approval to write - off the volumes to unaccounted for gas loss
+or
+deal / deal ticket # / customer ( buyer / seller )
+thanks , clem

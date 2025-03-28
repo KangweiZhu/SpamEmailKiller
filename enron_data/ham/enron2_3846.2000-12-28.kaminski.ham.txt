@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1574f7d50f339f9bea35734bf3547b2511967bb9af84352ec0edadf07b5268d
-size 348
+Subject: wti - new eol product
+ted ,
+enclosed is a corrected version of the historical simulation of wti
+trading . the earlier results were double counting the spread profit on
+trades closed intra - day . the spread was counted on each trade rather than
+per round - trip transaction , so the new results show lower profitability .
+- - stinson

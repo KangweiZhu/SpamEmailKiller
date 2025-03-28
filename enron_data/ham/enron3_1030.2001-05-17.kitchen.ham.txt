@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3197e437576a20a334a46da50c71c7f48f2c6709adc9c39b6550f4d97e4a2d39
-size 95
+Subject: weekly deal report
+the following is the weekly deal report covering 5 / 10 - 5 / 16 .

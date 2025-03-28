@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a2944afc1a0933fc75df61cb94982f91fae1a79f6440869813059e106d5d619
-size 510
+Subject: reactions password reminder
+= = = = = = = = = = = = = = = = = reactions password reminder = = = = = = = = = = = = = = = = =
+hi ,
+we do not seem to be able to see you on our systems , please try registering
+and you will automatically receive a username and password .
+if you have already registered on this website , then please let us know and
+we will investigate further .
+regards .
+reactions support - euromoney publications plc .
+tel : + ( 44 ) 0171 779 8927 fax : + ( 44 ) 0171 779 8704

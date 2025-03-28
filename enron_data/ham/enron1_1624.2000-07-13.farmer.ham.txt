@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fbaf95436ffa4bb83144dded2a97e4c24dc0b5cfb96e6a4a6b44fbead806f7a8
-size 233
+Subject: data validation
+brenda ,
+we met this afternoon concerning path counts . howard will be validating the
+path data we had gathered from unify . please let us know when you will need
+this data by .
+thanks ,
+shari
+3 - 3859

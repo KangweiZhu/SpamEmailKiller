@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4ac27417b9ddfdee5309c268f91cf470b90771266e90339ba5623d778a939d5
-size 275
+Subject: check out
+here is the rfc that was written in 1994 about the internet of 2020 i
+mentioned .
+i hope you find it as enlightening as i did , and enjoy it as well .
+click
+here : http : / / info . internet . isi . edu / in - notes / rfc / files / rfcl 607 . txt
+mak

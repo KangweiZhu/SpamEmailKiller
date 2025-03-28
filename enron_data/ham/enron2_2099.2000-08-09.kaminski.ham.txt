@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d35370c4848c0992336de4fe325ada6c269a6956b2338aaec36b780a2d88d372
-size 377
+Subject: professor bambos ' visit to enron on monday , august 21 st
+vince / stinson :
+i have made the following appointments for professor bambos :
+monday , august 21 st
+9 : 00 am jim fallon
+2 : 00 pm john echols
+john echols ' assistant would like me to send her an email concerning the
+subject / reason for the visit with john .
+please let me know .
+thanks !
+shirley

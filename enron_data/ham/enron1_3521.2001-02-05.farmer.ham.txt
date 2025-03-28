@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:80c5d698be7b7ceff75767e20f7d2afb953172a5878eb3358c50a6493d3568ea
-size 175
+Subject: meter 981594 for jan
+the meter shows flow the first two day , the deal to sell to san jac is
+expired . do you want me to extend the deal to cover the volume ?
+mary

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81d3aea74fb962c0e4c5c58d88fd3a8c591d29a5da8e251e90ff433ebd2eb080
-size 403
+Subject: action required : attend staff meeting friday , july 20
+please make plans to attend a west power trading luncheon staff meeting . chris stokley and jeff richter , please feel free to attend if you are in portland .
+date : friday , july 20
+place : mt . hood conference room
+time : 11 a . m .
+lunch will be served . please let debra know if you have a scheduling conflict and cannot attend .

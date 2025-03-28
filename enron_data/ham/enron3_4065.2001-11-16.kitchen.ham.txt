@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59a29c9b8ef25e07da3e37690bd973c1e7b954f472985cc4c4b6deccf79e13d0
-size 205
+Subject: security access
+attached is the list of employees who should be allowed access to ecs on sunday afternoon to test trading applications and for access to the office of the chair .
+thanks !
+tammy

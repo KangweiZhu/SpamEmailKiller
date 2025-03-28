@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db46aa1d5088b17ac9623ae2badf45f391f26635ca5570e95789419ed1b7c8ff
-size 196
+Subject: updated forward curve comparison slide
+please find the attached slide on " forward curve comparison " .
+let me know if you have any question .
+thanks
+dipak agarwalla
+713 - 345 - 7201

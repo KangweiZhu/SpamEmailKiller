@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a06f3a8a1ca2493d0487713c2fd97fed1389c7d0bb68df4633f13ed838522aaf
-size 443
+Subject: vitro
+brian ,
+it looks like we should be able to cover vitro with the people in virgo ' s group . robert rimbau is currently very involved , and can stay involved and we can bring dave kristich if needed .
+as we discussed , pursuant to the terms of the transition services agreement , we need to contact tractebel as soon as anyone listed on the schedule is unavailable . do you have the contact info for tractebel ?
+thanks ,
+don

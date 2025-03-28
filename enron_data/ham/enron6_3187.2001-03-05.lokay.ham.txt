@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43309a33172a24d70d06d44caee74b39a1a02c7a0edc663f0ac148e85556510e
-size 700
+Subject: fw : transwestern capacity release report
+- - - - - original message - - - - -
+from : eldridge , dale
+sent : thursday , march 01 , 2001 2 : 58 pm
+to : mulligan , amy ; hernandez , albert ; kowalke , terry ; miller , beverly ; rivers , cynthia ; ward , linda ; blair , lynn ; buchanan , john ; moore , jan ; lohman , therese k ; lindberg , lorraine ; bianchi , rita ; chavez , ted ; cherry , paul ; hyatt , kevin ; dietz , rick ; eldridge , dale ; lee , dennis ; brown , elizabeth
+subject : transwestern capacity release report
+attached is the transwestern capacity release report that lists all capacity releae transactions for the period effective 2 / 1 / 01 thru 12 / 31 / 02 .
+dale

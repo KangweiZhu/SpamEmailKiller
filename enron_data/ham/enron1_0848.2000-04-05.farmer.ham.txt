@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a001102b048e7c26f22009b10291056b8e8eefb96449cb23811d1d6d710171e6
-size 310
+Subject: correction to 4 / 5 / 00 nominations for eastrans and nomination for
+4 / 6 / 00
+beginning 2 : 00 pm on 4 / 5 / 00 nomination :
+deliveries :
+0 mmbtu into eastrans
+redeliveries :
+0 mmbtu
+for 4 / 6 / 00 , the nomination is as follows :
+deliveries :
+0 mmbtu into eastrans
+redeliveries :
+0 mmbtu

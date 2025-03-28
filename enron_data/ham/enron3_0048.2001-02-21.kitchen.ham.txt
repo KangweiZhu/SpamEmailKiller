@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b0f9c2af2e30ff5a7b7dd1888103aeee0525e944c6132fd31c1deb27032968e
-size 257
+Subject: daily california call moved to weekly call
+as a reminder , the daily call on california has ended .
+we will now have a single weekly call on monday at 10 : 30 am houston time .
+updates will be provided through e - mail as required .
+jim steffes

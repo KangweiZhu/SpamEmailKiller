@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6da7bd000c1f38772b5ace85363dc7c529ced0e72ac070cc54d61754512a20ad
-size 234
+Subject: meeting at wharton
+i am out of the office next week . please send details on the meeting at
+wharton to my assistant , danielle dees . she will make my travel
+arrangements . i believe you were recommending a hotel as well .

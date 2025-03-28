@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:352a9f2b595c1e0be7ea36c09ddcad52bf021a78641da1e4015c3d2cddcc70ce
-size 638
+Subject: enrononline desk to desk id and password
+bill ,
+the epmi - st - whourly book has been set up as an internal counterparty for desk - to - desk trading on enrononline .
+the following user id and password will give you access to live prices on the web - site http : / / www . enrononline . com .
+user id : adm 40601
+password : welcome !
+( note these are case sensitive )
+please keep your user id and password secure as this allows you to transact on enrononline .
+contact the helpdesk at x 34357 if you have any questions or problems gaining access with this id .
+thank you ,
+stephanie sever
+enrononline
+713 - 853 - 3465

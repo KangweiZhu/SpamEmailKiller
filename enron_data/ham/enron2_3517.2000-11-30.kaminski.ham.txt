@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a540d46e85f1ea0600f3714f459b67c9782eafc5101348c47a5aa226d35965f7
-size 460
+Subject: update on project x
+gentlemen ,
+john norden will be in sydney on monday morning to evaluate the it process .
+he will coordinate with stinson .
+spoke to vince k today and asked if he would send stinson gibner to sidney
+to be available on monday to review the x system .
+paul , make sure our x friends are available and the confidentially agreement
+is signed . further , i spoke to phillip b . about a technical going too .
+g ' day mates ,
+gary

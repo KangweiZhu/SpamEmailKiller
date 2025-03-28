@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f697c4c164806e0fdd5812bcc2b56bbf0be95cd6d6f9c10ff68b927f13ce2276
-size 358
+Subject: dg energy software
+vince ,
+here is my edited version of the software license agreement . can you read
+it once before i forward it for internal approval ? i specified that the
+$ 100 , 000 covers a single user perpetural license , access to source after
+one year , and covers maintenance and support for one year .
+any suggestions ?
+- - stinson

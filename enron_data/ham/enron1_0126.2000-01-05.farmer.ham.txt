@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62d63e5a27198e621b444f3742ebddbef91c6a36e40e623cef0f5b1c0fd4d830
-size 79
+Subject: hl & p month to date
+attached is the hl & p spreadsheet for january .

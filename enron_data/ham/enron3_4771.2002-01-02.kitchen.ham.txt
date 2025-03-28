@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a3f8c5f4b4c5b01307036c6afc0885261da1c12e87507f7bb901023f8868b904
-size 1077
+Subject: netco required contracts
+counterparty agreements :
+isda master agreement ( or relevant gtc )
+physical power master ( or relevant gtc )
+physical gas master ( or relevant gtc )
+master netting agreements ( as required )
+online password applications
+online electronic trading agreements
+parent company guarantees
+brokerage agreements ( 2 to 6 )
+regarding nymex trading activities with brokers to be identified by traders
+nymex matters ( if nymex seat is transferred in the transaction )
+transfer application and agreements
+abc agreements between netco and seat holders
+guarantee from a clearing member
+nymex access applications , user agreements , guarantee , etc .
+ferc power marketing certificate
+application to be filed immediately upon formation of netco
+banking relationships
+account agreements
+employment contracts ( ? )
+software licenses
+( see schedules to purchase agreement )
+power transmission agreements ( see attached spreadsheet )
+pipeline pooling arrangements and interruptible transportation agreements
+( see memos from jeff hodge )

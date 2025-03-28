@@ -1,5 +1,5 @@
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.svm import SVC
+from sklearn.svm import LinearSVC
 import re
 
 class BaselineSpamClassifier:
@@ -19,12 +19,7 @@ class MLSpamClassifier:
         if classifier_type == 'nb':
             self.classifier = MultinomialNB(alpha=0.1)
         elif classifier_type == 'svm':
-            self.classifier = SVC(
-                kernel='rbf',
-                C=10.0,
-                gamma='scale',
-                class_weight='balanced'
-            )
+            self.classifier = LinearSVC(random_state=42)
         self.classifier_type = classifier_type
     
     def train(self, X, y):

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1441a2d5ca6eb482a1fb854e465d925cbe6b1019f94c8ce4d10131fe03d54e2
-size 421
+Subject: new nat gas delivery location
+pursuant to our recent confirmation i have drafted some suggested language
+for the houston ship channel pooling point :
+abbreviation : hpl - hsc
+sort code : [ tbd ]
+description : the transaction is for delivery via the houston pipe line
+company to the houston ship channel , zone 10 .
+elsa and darren ; please approve or offer comments regarding the content of
+description .

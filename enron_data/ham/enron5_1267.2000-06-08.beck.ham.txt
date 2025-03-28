@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c57bd93acd34fee4adc02201d475fb9a619e9d69abfcdee5bb4393d0884d6668
-size 382
+Subject: global systems matrix
+rick - you had asked a while back for a matrix that captures all of the
+different systems used by commodity , by office and by functional group . this
+( draft ) version encompasses houston and london activities . we will expand
+this document to include other offices and products in the next few months .
+let me know your questions and comments .

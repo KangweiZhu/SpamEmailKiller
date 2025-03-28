@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1b67469461b29ac3142571c92daa88134026843ecc8f7bcaebdb65595d2bc0b
-size 345
+Subject: request submitted : access request bill . williams . iii @ enron . com
+thank you for your request . you will be notified by email when your request has been processed . you can check the progress of your request by clicking http : / / itcapps . corp . enron . com / srrs / auth / emaillink . asp ? id = 000000000042084 & page = myreq .

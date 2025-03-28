@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08d6638e7ec08e83481fa6df7a58751a8788fcc94536ee43a74acb78a750bd70
-size 186
+Subject: open season results
+we will have a meeting on thursday , nov . 30 from 10 : 30 - 11 am to discuss the
+results of the open season . we ' ll meet in steve ' s office .
+lorraine

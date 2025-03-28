@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0997ecb4ddb386c70785f95102403fc18d48b6d0e6ccdafea4ee9e6d25791de
-size 336
+Subject: request closed : access request for bill . williams . iii @ enron . com
+the request has been completed with all resources requested either completed or rejected . you can view the details of the request by clicking http : / / itcapps . corp . enron . com / srrs / auth / emaillink . asp ? id = 000000000053352 & page = myreq .

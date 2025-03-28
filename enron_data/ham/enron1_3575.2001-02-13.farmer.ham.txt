@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f71104f070819df3c3361b6acbb8b631bd203412cf82dbe5d3a2f34421b2f45
-size 506
+Subject: nom / actual flow for 2 / 12 / 01
+we agree
+- - - - - - - - - - - - - - - - - - - - - - forwarded by melissa jones / texas utilities on
+02 / 13 / 2001
+01 : 46 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+kponton @ duke - energy . com on 02 / 13 / 2001 10 : 06 : 17 am
+to : david avila / lsp / enserch / us @ tu , charlie stone / texas utilities @ tu , melissa
+jones / texas utilities @ tu
+cc :
+subject : nom / actual flow for 2 / 12 / 01
+nom = 37 , 500
+actual flow = 39 , 123

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e1a871fee3043a772e2fdbd8e7e7d44889239be3c23cf3b282ffc4125e9b754
-size 340
+Subject: txu fuels / sds nomination for june 2001
+attached is the june 2001 nomination for our takes under the gas sales and
+purchase contract between txu fuel company ( previously tufco ) and sds . please
+advise should you have any questions concerning the attached .
+thanks ,
+ccs
+( see attached file : sdsnom . xls )
+- sdsnom . xls

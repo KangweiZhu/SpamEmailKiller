@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d511d0a9517eb7229b1f616d98d15e84f91c37aa9ad1c256a30d24d12217d601
-size 250
+Subject: sitara # 92886
+for febo 0 , any gas taken by global octanes will be priced off of gas daily
+rather than if . . . . i ' ve changed the sitara ticket . . . . but one of you
+gentlemen needs to take care of risk assignment impact . . . .
+lee

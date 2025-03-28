@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f9b1a8f08d40ea03fbd2b6758f5a273e9d6ca764869435a13a2528ec65c25e7f
-size 375
+Subject: rescheduling of portland
+rebeccan and i had a meeting today with aa who is also planning to do some
+power west work . in order to better coordinate with them , we are planning to
+move the portland doorstep review from next week ( the 18 th ) to the following
+week ( the 25 th ) . please let me know if you have any concerns about this .
+thanks ,
+shona
+x 39123

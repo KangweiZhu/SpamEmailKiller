@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7fab8cafc8906a1bd838f881b60e630baced3f5b1a6501e7b08dbdc9a2bb94c
-size 241
+Subject: * * message you sent blocked by our bulk email filter * *
+your message to : ponddr @ nalu . net
+was blocked by our spam firewall . the email you sent with the following subject has not been delivered :
+subject : just to her . . .

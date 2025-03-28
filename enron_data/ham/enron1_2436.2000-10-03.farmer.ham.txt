@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20794909525eafa67328b3b713cb7f4a532dfad05f3ed76d93c97710b5b912bc
-size 134
+Subject: meter 1603 - 10 / 1 - 10 / 2
+fyi - meter 1603 has a total flow of 48 . 667 on a total nom of 40 . 000 . deal #
+380664 .
+al

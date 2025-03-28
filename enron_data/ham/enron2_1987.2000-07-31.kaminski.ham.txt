@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2797d1e9a7dc193f072ae3a8a705e7ddc2ebd204ed12ef8dd7d16a6338c1670f
-size 300
+Subject: message 3
+ps : attached with the flyer of the conference .
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+quentin kerr , email : qkerr @ maths . uq . edu . au
+room : 67 - 622 tel : ( 07 ) 33461428
+department of mathematics , the university of queensland
+- engy . pdf

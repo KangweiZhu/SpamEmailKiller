@@ -1,5 +1,8 @@
-scikit-learn>=1.0.2
-numpy>=1.21.0
-pandas>=1.3.0
-nltk>=3.6.0
-beautifulsoup4>=4.9.3 
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+scipy
+tqdm

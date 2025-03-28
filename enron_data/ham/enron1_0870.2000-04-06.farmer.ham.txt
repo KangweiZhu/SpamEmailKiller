@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17858d909605356a875da51a02518a82526239e890a7e06e3c621ad9a8d95467
-size 242
+Subject: i spoke with the person who confirms pg & e on our side , and she said that
+brian agrees with our ( tufco and ena ) numbers for march .
+also ,
+for days 1 - 5 , you ' ve taken :
+iferc 160 , 000
+enron 110 , 625
+gd 0
+agree ?
+ami

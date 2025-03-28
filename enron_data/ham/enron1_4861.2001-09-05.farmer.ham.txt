@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:924310d70add62c042a96abc91072368a08dcf43cf30d246440e23e9a3db797b
-size 721
+Subject: kaf storage project
+as requested , this is the summary of what we have discussed regarding kaf deal .
+scenario 1 :
+hpl nominates 6 , 200 mmbtu / day , apr ' 02 - may ' 02 , ( 409 , 000 mmbtu total ) of their south texas production into the kathleen anne field in wilson county , tx . and enron replaces this same volume in the location of their choice .
+scenario 2 :
+scenario 1 plus ena sells hpl 500 , 000 mmbtu of storage service with an injection rate of approximately 15 , 000 mmbtu / day and a withdraw rate of 37 , 500 mmbtu / day to help them serve the swing on the tuffco contract .
+notes : the field is not yet connected to hpl , but will be .
+thanks for your help .
+george huan
+gas structuring

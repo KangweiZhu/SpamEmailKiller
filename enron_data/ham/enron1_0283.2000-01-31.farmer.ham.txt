@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4751c009b4636548fa38d96e798213aea34c99e76faf55401552782517a38d3a
-size 154
+Subject: storage
+i updated the storage ticket for feb and created an injection ticket , sitara
+# 159640 .
+let me know if you have any questions .
+dave

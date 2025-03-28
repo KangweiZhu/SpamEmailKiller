@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cb23cd77e96495b6da552e8abcef63b467953d9a0b9bd1fb8651fc4cbeba36a9
-size 480
+Subject: deal numbers
+hi darrin ,
+rita has asked me to provide her with all the " deal numbers " associated for
+the cornhusker ( tenaska iv texas partners ) deal . when you get a chance ,
+would you please send me those deal numbers .
+even though i can print reports such as the " deal volume tracking report " to
+retrieve some of the deal numbers , rita was concerned that there might be
+other deals set - up in unify , which we don ' t know about .
+thank you ,
+kathy : )

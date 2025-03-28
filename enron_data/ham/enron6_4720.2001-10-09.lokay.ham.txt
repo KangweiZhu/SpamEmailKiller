@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85191fa2746d8fcbcc0e4365bc74fd34219e5b6a356e4c2412f84962b59dfa20
-size 342
+Subject: please update contact list
+this is an attempt to once again update our contact list . please review your information and respond if you have to make a change .
+thanks in advance ,
+adr
+audrey d . robertson
+transwestern pipeline company
+email address : audrey . robertson @ enron . com
+( 713 ) 853 - 5849
+( 713 ) 646 - 2551 fax

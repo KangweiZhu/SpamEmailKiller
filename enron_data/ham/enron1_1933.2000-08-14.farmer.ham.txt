@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51cfdab30ac0ad05b55310ed5a926a909a84f172787ae79e7612cedc854487cc
-size 110
+Subject: on call notes for weekend dated ; august 12 th thru 13 th
+attached are the notes from this weekend .

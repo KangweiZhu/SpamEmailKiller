@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7f705577c76f46d5f85ed03e41dae3b894acc3370109d73a11d813d280940e8
-size 1002
+Subject: enron wholesale services legal department
+as a follow - up to the recent enron corp . memorandum forming enron wholesale
+services ( ews ) , effective today , we have reorganized the wholesale services
+legal department .
+the goals in reorganizing the department are as follows : ( i ) align the
+legal department as closely as possible with the business units , ( ii ) speed
+the flow of legal technology across the business units , and ( iii ) achieve
+greater efficiency and consistency across the organization .
+to this end , a legal policy group will be formed for ews legal , which will
+include lance schuler , enron americas ; mark evans , enron europe ; mark taylor ,
+enron net works ; alan aronowitz , enron global markets ; julia murray , enron
+industrial markets ; and bruce lundstrom , enron global assets .
+the organization chart for the ews legal department is attached . more
+comprehensive organization charts will follow for each group .
+mark frevert and mark haedicke

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5b1ec45740e4b6f78796d70cdb453ff2a017f98071b67d422799a0a1a12b293a
-size 203
+Subject: trading limit and policy changes
+vince -
+here ' s a summary of what ' s going to the bod , along with updated policy . feel
+free to call me if you have any questions .
+regards ,
+cassandra .

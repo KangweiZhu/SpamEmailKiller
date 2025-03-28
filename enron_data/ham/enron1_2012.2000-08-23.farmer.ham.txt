@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf903e29b454497941a87b38664430efc5a1549cd673e544cf349670ea7bfdee
-size 266
+Subject: additional information : access request ( djfr - 4 ngpa 6 )
+additional information for security resource request djfr - 4 ngpa 6 has been
+provided by security .
+to view the request , double click your left mouse button on the notes
+document link below .

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:816937e7e834528c8ccd5fbbcf75a391780fef1517b75d19a2f03c5a8c85af9a
-size 292
+Subject: duke energy deal # 387571
+please verify if duke deal # 387571 should be on hpl meter # 1040 . this
+purchase normally occurs on centana meter # 77455 . last month , duke deal
+# 351653 was changed due to the meter .
+please let me know if you have any questions .
+thanks ,
+rebecca

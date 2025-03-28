@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81e7b71edcebf91d98588efef95a04af12d420a19a99a8deefb9800b5a9de2a9
-size 339
+Subject: urgent - time change for staff meeting !
+please note the change for steve ' s monday morning staff meeting . we are
+attempting to change the time for the staff meeting from 8 : 00 am to 10 : 30
+am . the staff meeting will be from 10 : 30 - 11 : 30 am every monday in eb 42 c 2 .
+please change your calendars accordingly .
+adr

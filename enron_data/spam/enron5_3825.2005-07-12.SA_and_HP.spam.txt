@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:132ed90b6d199b3c1c01f8a23c017d6ae0146aa262142c0c3866a87074efc0e7
-size 576
+Subject: warning : could not send message for past 4 hours
+* * this is a warning message only * *
+* * you do not need to resend your message * *
+the original message was received at tue , 12 jul 2005 12 : 09 : 30 + 0200
+from antonio . urjc . es [ 193 . 147 . 184 . 24 ]
+- - - - - transcript of session follows - - - - -
+maildrop : error writing to mailbox .
+ana . elvira @ urjc . es . . . deferred : local mailer ( / usr / sbin / sensible - mda ) exited with ex _ tempfail
+warning : message still undelivered after 4 hours
+will keep trying until message is 5 days old

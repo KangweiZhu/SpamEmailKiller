@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d75b7cd67d6793872dfeb86944ca89f8ba92e23ec3d4de177f97ac762515d5f3
-size 764
+Subject: organization announcement
+i am pleased to announce that tim johanson has accepted a position as account
+manager for the minneapolis ldc team and will be relocating to minneapolis .
+tim brings many years of experience to this position having worked on both
+the gas and power side of the business for nsp . he is currently working in
+the power / gas development group in omaha for john dushinske . tim will
+continue with some of these responsibilities in his new role in minnesota .
+tim received his b . s . in mechanical engineering / business administration from
+the university of kansas and his mba in management from the university of st .
+thomas in st . paul , mn .
+please congratulate tim on his new assignments and relocation to minnesota .

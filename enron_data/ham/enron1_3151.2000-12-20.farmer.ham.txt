@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:79150ed487057520bcdadcf473759ced555fbc90c383bb26e403d0ee41f29f86
-size 294
+Subject: tuesday , december 26 th
+daren ,
+the following logistics personnel will be in the office on tuesday :
+mary poorman
+mark mccoy
+eddie janzen
+tom acton
+aimee lannou
+if you think we need more or less people , please let me know and i will keep
+the group informed .
+thanks ,
+mary

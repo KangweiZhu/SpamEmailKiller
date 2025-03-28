@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2a65761f8b7c81806fd8d3ce8c345d1b766365bb35d2a7c1db7501afb894d14
-size 251
+Subject: ice counterparty list
+hi louise ,
+we did not cut off txu on ice , txu cut us off . also tom moran in credit maintains the list of counterparties who can trade on ice not stephanie . i will get you the list asof today asap . thnaks .
+savita

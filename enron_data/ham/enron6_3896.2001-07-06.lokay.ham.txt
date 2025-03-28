@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b38d09dc8a9c647b38b3e177a6f3485875c992abc0edfca8101f73f4cef914c7
-size 378
+Subject: allocation order
+michelle ,
+to answer your question on the allocation order is ; lst primary to primary
+2 nd primary to alternate ( inside )
+3 rd alternate to primary ( inside )
+4 th alternate to alternate ( inside )
+5 th primary to alternate ( outside )
+6 th alternate to primary ( outside )
+7 th alternate to alternate ( outside )
+8 th overrun / interuptible

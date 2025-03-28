@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:830a161ecb3e2a033dc74e2b8269d8ad3bb5758a945592302d5ec11ccd30d0be
-size 295
+Subject: 98 - 6240
+daren ,
+the above meter began flow on 1 / 25 / 00 w / a volume of 295 decatherms versus
+the start date of the 26 th as indicated on sitara deal ticket 148923 .
+can you please notify me as to whether the deal ticket will reflect this
+change ?
+thanks
+- jackie -
+3 - 9497

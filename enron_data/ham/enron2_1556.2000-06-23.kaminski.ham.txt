@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6a58615241398181e2070a7c4bbce62b07d3a00ab3206e856ab1431c12ff3fa
-size 434
+Subject: re : testiing component var
+naveen ,
+as we discussed yesterday , i would like to see the results of components var
+testing .
+i got some from sunil today for agg - gas .
+in addition if you can send me component var results for ng - price for some
+date ,
+as well as ng positions , forward price curve , forward volatility curve for
+ng - price - prc for that
+same date , i can verify the numbers .
+thank you ,
+tanya .

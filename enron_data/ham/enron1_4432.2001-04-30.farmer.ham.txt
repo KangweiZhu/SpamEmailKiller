@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61766fdfdb8742dc8f1373847b4bdba0fd6471f3c4a59268e0505ab24de7fdd7
-size 282
+Subject: duke energy meter 6722 may 2001
+meter 6722 ( not sure if you need this ) - julie
+break down for duke - three rivers / live oak
+cody - 4 , 250
+samson - 800
+shoreline duer wagon - 470
+shoreline amerac - 96 total
+bp - 4 , 987
+detm - 0
+total for meter 6722 of 10 , 603

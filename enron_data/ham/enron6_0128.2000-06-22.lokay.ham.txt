@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3f299c161f2f687165fb7e20a821b36a9853cfc08f53c88beef56e31ba9b16da
-size 336
+Subject: restore address book in notes
+i did not restore your personal notes address book .
+you can restore the address file quickly via :
+close notes .
+copy the c : \ notesold \ data \ names . nsf file to c : \ notes \ data \ names . nsf .
+if you do not understand this - email or call me .
+mark kostinec - ext . 402 - 398 - 7294

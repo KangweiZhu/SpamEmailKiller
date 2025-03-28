@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:03c14925aaf4256441fd999b56c4b5318c277984cf90d664486194f59bd03801
-size 440
+Subject: update - extension to deadline
+deadline for offer letters
+- we plan an email this afternoon extending the deadline thru 9 am tomorrow for those who haven ' t signed yet .
+- portland and calgary may set different deadlines .
+deadline for employment agreements
+- given all the changes we are planning to make to the base form , we are planning extending this to " 24 hours from when they are presented with next draft " .
+david

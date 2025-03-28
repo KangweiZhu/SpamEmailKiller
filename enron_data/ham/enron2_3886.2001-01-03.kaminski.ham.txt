@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75144cac54c564a4c9ca1a51be11e2b8e9463a453ebf6c95cfe5ea5f413516d3
-size 272
+Subject: warning system
+greg ,
+as a follow up . we are talking to jay webb today about the data we can get
+from
+the enron online system to develop an early warning system for automated
+crude trading .
+by the way , it was a good catch . you left us red faced .
+vince

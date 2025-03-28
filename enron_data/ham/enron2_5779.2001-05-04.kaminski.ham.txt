@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86c4a85ad259b899117a233aaae9b1761bbee60ff3d0692010400185544e6a5f
-size 187
+Subject: grades
+pam ,
+another term paper :
+john ganguzza
+neeraj hingorani
+grant johnson
+duane maue
+rishad patel
+eric van stone
+palo yoshiuro
+grade : a
+please , confirm .
+vince

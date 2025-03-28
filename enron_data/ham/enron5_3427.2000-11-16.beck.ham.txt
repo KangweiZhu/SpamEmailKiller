@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d43ec5d6e5f437d2d473f8f05b1f473836eb05186944f1541e3c18fdd0d7f089
-size 225
+Subject: request closed : access request for sally . beck @ enron . com
+the request has been completed with all resources requested either completed
+or rejected . you can view the details of the request by clicking
+myreq .

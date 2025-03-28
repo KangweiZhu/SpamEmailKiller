@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6dae67e9c77d0da50448beeff5dcb7365556d8b3e5e0bf86cdea3b781634c0d
-size 274
+Subject: meter 1550
+there is an electrical problem at the plant , it went down on 9 / 10 and is at
+zero until further notice . the nomination was 4 m / d . this is the hpl / miles
+baytown plant .
+i will keep you informed , i just received the call this afternoon .
+mary

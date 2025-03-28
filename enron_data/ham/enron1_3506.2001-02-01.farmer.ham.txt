@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4f1488f0d056b2c81c52eebca09548de28826ae3cf6a4df95ee09e0967f5985
-size 171
+Subject: point change to tagg deal 589257
+fyi - - - i changed the meter point on deal 589257 duke f . s . from 18002800 to
+meter 20606100 effective lst .
+thanks ,
+mark

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b28fff51d83c36a3487425968da55cd00ec992dc56d38d5bfa4c26fae0ba0acb
-size 452
+Subject: winter cap for entex
+when you get allocations for january , we need to look at daily volumes for
+transaction # 1 . towards the end of the month , entex was approaching its jan
+winter cap volume of 550 , 000 / day . if the daily volume for trans # 1 comes out
+greater than 550 , the excess must be charged at gd + 10 . the numbers thus far
+show that they did not exceed 550 . however , the allocated volumes tend to
+differ .
+thanks ,
+ac

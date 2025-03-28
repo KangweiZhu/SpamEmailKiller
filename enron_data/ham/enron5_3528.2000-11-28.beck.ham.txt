@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1ef9b37a9f2f8ed0fb229edfff90204f2dea21f759fb778b339bd64e7411a294
-size 444
+Subject: did you see this ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mark pickering / lon / ect on 28 / 11 / 2000
+17 : 30 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+simon sear @ enron
+28 / 11 / 2000 17 : 18
+to : john paskin / lon / ect @ ect , phil yoxall / lon / ect @ ect , mike jordan / lon / ect @ ect
+cc : deborah edwards / lon / ect @ ect , mark pickering / lon / ect @ ect
+subject : did you see this ?

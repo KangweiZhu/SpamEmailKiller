@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85bb136e513c6767348bb5141b5ca087b5c2b5582e33977d454ace6372b99fb9
-size 429
+Subject: eastrans nominations changes effective 7 / 29 / 00
+on 7 / 29 / 00 the compressor went down for hpl deliveries into eastrans . 3486
+mmbtu was delivered on 7 / 29 / 00 . redeliveries for the 29 th will be 3486 into
+hpl
+from fcv . the differential of 7800 mmbtu - 3486 mmbtu = 4314 mmbtu will be a
+sale into hpl .
+on july 30 th , 31 st and august lst there is 0 gas flow . 7800 mmbtu per day
+will
+be sold into hpl .

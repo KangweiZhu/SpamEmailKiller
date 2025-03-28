@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:781888dadbf1bb2d8880b60e7a9deb4ca675232f63615bac0efc42369b6f8851
-size 168
+Subject: enron / hpl noms . for wed , 9 / 6 / 00
+changed cell formula to correctly sum column of spot sales .
+( see attached file : hplo 906 . xls )
+- hplo 906 . xls

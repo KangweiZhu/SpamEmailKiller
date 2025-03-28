@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9fdddc55debec93ba5839ee982f6109b86b8fbdd969b6a7ba246605aeb7897e1
-size 168
+Subject: feedback from tricks of the trade training class
+good morning !
+if you have done so already , can you please return your feedback to me asap ?
+thanks !
+amy

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f3c4345bee9406138747c92f6e0b211871311c5eb7146c8897c95cf72fc5bbc
-size 718
+Subject: employee transportation announcements
+metro and enron invite you to celebrate " discover metro week " from 11 : 00 a . m .
+to 1 : 00 p . m . on thursday , september 14 , 2000 in antioch park .
+live music !
+complimentary refreshments !
+special mass transit announcement !
+van pool introduction !
+be sure to ask about metro ' s first month free promotion for new van pool
+riders and don ' t miss the special announcement concerning bus riders !
+metro will be recognizing enron for its corporate leadership in supporting
+transportation alternatives for employees . join our transportation
+department on thursday , september 14 , to celebrate enron ' s leadership in
+commuter solutions for employees .

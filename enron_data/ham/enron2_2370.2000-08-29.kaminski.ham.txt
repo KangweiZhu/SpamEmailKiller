@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f1f1d1864800d60d1dbbb1b622f45f3f9de33dc8506b4708844449f48f66f34
-size 607
+Subject: hello from enron
+dear dr . mcmullen ,
+a few weeks ago i received a call from your university
+regarding employment opportunities at enron .
+i called back and summarized the needs of my group ( an ideal profile of a
+candidate ) :
+1 . mathematical finance
+2 . computer programming ( c , c + + )
+3 . understanding of the energy markets
+i shall appreciate any information about potential candidates .
+i have also given some other suggestions regarding potential
+opportunities for graduates with different profiles .
+please , feel free to call me . my number is 713 853 3848 .
+vince kaminski

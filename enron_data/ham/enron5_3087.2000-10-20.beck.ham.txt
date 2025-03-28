@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d3de9175b3ec47850e52ff506f00c862d1411dfa48d73273cfb7ad1e551d9f0
-size 393
+Subject: v @ r
+sally -
+these are the steps that we have taken to insure that the positions the v @ r
+engine picks up are correct :
+1 . each book adm . now checks his / her own positions that are going into v @ r ,
+rather than just one check at a consolidated level .
+2 . all regional controllers will receive a sheet at the end of the night ,
+verifying that all books are officialized .

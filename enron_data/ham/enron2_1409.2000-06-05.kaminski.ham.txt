@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f34381b5edc97948a61b545c1ee8350e44e26733fc0906e0452ae9b880fdf6c4
-size 385
+Subject: re : ff vols from historical fwd price curves
+winston ,
+i am sending you ffd vol curves which are calculated based on 1 month ( 18
+log - returns )
+of data with 0 . 97 decay factor . these vols give $ 3 . 14 m in var for
+storage - prc ( versus 3 . 37 in production
+for 5 / 30 / 00 ) .
+tell me what i need to change in the format so that it is convenient for you .
+tanya

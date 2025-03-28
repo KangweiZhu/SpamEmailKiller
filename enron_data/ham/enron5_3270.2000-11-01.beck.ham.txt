@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c0eba6a436242186bb17e89aea480e1307ad74b54b2363b7135f589e62301dc
-size 357
+Subject: approval for reviewer
+mills , scott r has suggested reviewers and submitted them for your approval .
+you may review / modify this list of reviewers by logging on to pep at
+http : / / pep . corp . enron . com and going to supervisor services . please
+remember , no feedback can be completed on mills , scott r until you have
+approved the list .

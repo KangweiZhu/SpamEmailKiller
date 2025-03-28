@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:15aa7bfe724e446c74584fd77d46969b47fc02e493c49abe01417b181d8add18
-size 427
+Subject: sitara / cpr availability
+to all sitara users :
+the sitara system will be brought down on a nightly basis between 12 : 01 am -
+4 : 00 am central time for nightly processing .
+the system will be available in the morning after that time , with positions
+primed by 5 : 30 am .
+cpr will be available during these times .
+please call the sitara hotline ( ( 713 ) 853 - 7049 ) if you have any questions or
+concerns .

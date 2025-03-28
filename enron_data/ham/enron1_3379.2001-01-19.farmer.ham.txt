@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86eec443431f21a1b5877631e959d9cbbf86b42fb12376dd051c6768d736795c
-size 261
+Subject: meter # 6788 - 11 / 00 & 12 / 00
+karen ,
+it has been determined that the only valid deal is a wellhead purchase from
+texlan at meter # 6788 in 11 / 00 and 12 / 00 production . please reallocate the
+meter to give all volume to texlan . thanks .
+bob

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:437b41d0bc971b4fb779a1103357904ad5c33ce392d64db7326533f1c534ca4c
-size 283
+Subject: new employee
+i am pleased to announce that sabrae zajac will be joining the texas desk
+logistics group next week , april 10 th .
+she joins us from the ena offsystem settlements group and previously from
+koch industries . she can be reached
+at ext . 36381 . thanks , pat

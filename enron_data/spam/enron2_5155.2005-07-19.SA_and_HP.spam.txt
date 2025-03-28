@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d15f977838140b7a83ee9b3b32bcec191a7928c3fdb81284b310af4dc99cd643
-size 333
+Subject: returned mail : response error
+the original message was received at tue , 19 jul 2005 11 : 57 : 45 + 0100
+- - - - - the following addresses had permanent fatal errors - - - - -
+- - - - - transcript of session follows - - - - -
+. . . while talking to mailin - 02 . mx . aol . com
+> > > data
+< < < 554 transaction failed

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4cf65bf976158b778768287b866fb8b94aad8af87ae148f2c2f6cad78dcff7c8
-size 274
+Subject: reliant energy entex transaction # 4
+just fyi ,
+the following transaction expires february 29 , 2000 :
+transaction # 4
+5 , 000 / day
+price = 2 . 71 fixed
+note : this volume will roll up into transaction # 1 ( excess volume priced at
+index + . 769 )
+thanks .

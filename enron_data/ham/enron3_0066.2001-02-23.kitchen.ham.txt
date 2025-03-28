@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe093bb9a0c66b50112273fc7409efbf350c19721ef0b96e57724fa85663c380
-size 274
+Subject: re : as expected !
+we look at ice volume reports every day and they are doing about 10 - 20 % of the volumes ( and # transactions ) we are doing on eol . we are doing 300 - 350 transactions per day in east power and ice does approx . 45 - 50 transactions per day .

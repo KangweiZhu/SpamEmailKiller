@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf6a16b506e9f1eb3062ad81e25008c72ccff85eebf3add68fd80978ecb83dad
-size 605
+Subject: eim organization change
+as part of enron industrial market ' s ( eim ) move into the pulp , paper and
+steel markets , our european effort is well underway . our markets are global
+in nature and we believe we need a strong presence in europe to penetrate
+that market effectively . accordingly , we are pleased to announce that bruce
+garner has been appointed president and chief executive officer of enron
+industrial markets - europe . in this role , bruce will be responsible for all
+activities for eim in the european market .
+please join us in congratulating bruce in his new position .

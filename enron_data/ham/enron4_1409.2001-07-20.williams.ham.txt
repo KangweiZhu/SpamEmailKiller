@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5553354cecf92355c45f37faa3031d25840eb1e9cc9b602734f4790766effb05
-size 237
+Subject: ferc & bpa weekly electric report
+fyi , the california dockets are on the agenda for the commission ' s meeting next wednesday . we expect the ferc to order an evidentiary hearing on the refund issue . we will keep you posted .

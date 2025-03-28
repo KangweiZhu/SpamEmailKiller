@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d29d8df6cd5ddcb19fe3331217f0099cc228c76b487511a3f969571d2ff067f
-size 234
+Subject: panenergy 9 / 00
+i finally heard back from duke regarding sept 2000 . they agree with our
+spreadsheet , so i need a demand fee to adjust the price in sitara .
+deal 157288 - demand fee of ( $ 8 , 745 . 69 )
+thanks ,
+megan

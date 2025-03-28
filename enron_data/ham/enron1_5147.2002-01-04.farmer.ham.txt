@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:48bb178929a1fa2f50336b70a145ba0b4e0e03845436b5b040e2cdd5c1dfc06d
-size 173
+Subject: fw : customers
+- - - - - original message - - - - -
+from : buss , jd
+sent : friday , january 04 , 2002 10 : 25 am
+to : weldon , v . charles
+subject : customers

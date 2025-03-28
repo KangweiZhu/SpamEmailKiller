@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cfcc6bf9768a96663a3191f6c6c2a249c7cd5b30d2ac1a28f6e24d3b47beb8e2
-size 556
+Subject: competing pipelines
+omaha facility planning has developed a hydraulic flow model for ngpl ' s pipe
+system based on ferc form 567 data and other publicly available info . they
+are also working on one for anr . the purpose was so marketing could
+anticipate the competitive threat as they looked at supply proposals for new
+power plants . now that we know the tool exists , we may want a model built
+for el paso ' s system sometime in the near future . let me know if you feel
+it ' s worth pursuing and i ' ll get hold of terry galassini .
+kh

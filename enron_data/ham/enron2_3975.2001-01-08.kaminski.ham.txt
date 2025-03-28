@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7177fe0a25654616daec78e2ef0858b72b2b693183cb27dd75baf5b9479c1ec
-size 495
+Subject: request submitted : access request for anita . dupont @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000012736
+approver : stinson . gibner @ enron . com
+request create date : 1 / 8 / 01 4 : 28 : 42 pm
+requested for : anita . dupont @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

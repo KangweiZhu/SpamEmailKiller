@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc933b5d8b55309f222b53ffc0df53b5f7d13780536e8342ae2f6a6cea5be9ce
-size 290
+Subject: cowtrap allocation - 4 / 01
+i received the above allocation for this deal where there is a purchase from spinnaker and a sale to dow . the volumes have not be actualized so there is nothing in volume management . can one of you look into this and get back to me .
+thanks ,
+joyce

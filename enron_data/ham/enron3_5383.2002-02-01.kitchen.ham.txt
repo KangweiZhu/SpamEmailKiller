@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d83a318700a61bec6d28fd2e6232255574fd645211e976673ecfe024c88db328
-size 314
+Subject: canadian legal entity
+the name for the canadian entity which will enter into both master agreements and individual commodity transactions is : " ubs warburg energy ( canada ) ltd . " , as confirmed by lou eber : ubs chief legal counsel .
+i am working on chasing down the parental guarantee issue .
+dave

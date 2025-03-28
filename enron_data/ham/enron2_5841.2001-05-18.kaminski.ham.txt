@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74a703193c2ce2bc4b0645bd643e40664cffdfe6ee1985ffacd3aa251eb73064
-size 135
+Subject: vince ,
+here is why analytical var does not work for non - normal variables .
+rakesh reviewed this argument as well .
+tanya

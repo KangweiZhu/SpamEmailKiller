@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b4bad84f170f37e8aa4cc491c518f3b64df074a2b731ff5cf505eb81cebd6cc
-size 334
+Subject: a paper of mine
+vince ,
+i have written a paper , which supposedly is going to be published in the
+february 2000 issue of eprm , probably after some editorial cuts ( at least
+this is what i am being told by them ) . i would appreciate your thoughts if
+you would have time to read it .
+regards ,
+martin
+- userconf . doc

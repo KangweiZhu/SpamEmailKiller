@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:414e508ada250d2c6868d2871d4f4ab19aa6c64efa157eba094c2bca0b2b5fa8
-size 514
+Subject: bill koures
+vince ,
+alex and i did a phone interview with bill koures .
+he works for williams and had a wall street background .
+he is very qualified for the work we are doing here ( stochastic modeling ,
+curve building , option valuation , etc . )
+he programs in c and matlab .
+in terms of quantitative skills , bill is better than ren zhang ( koch ) i
+talked yesterday . the only down
+side alex and i can think of about mr . koures is that we may not get him due
+to a higher price tag .
+zimin

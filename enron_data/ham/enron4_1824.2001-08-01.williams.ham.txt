@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d87afc15d8f9c0a8c8ebaae98aac409dc603a4207b77b79dff2ce82ded2699a2
-size 169
+Subject: new prescheduling distribution list
+when communicating with preschedulers , please use the following e - mail address
+dl - portland preschedulers
+thanks ,
+c

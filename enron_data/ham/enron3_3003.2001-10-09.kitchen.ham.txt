@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23a95afe608e85f0d1832e08614ed55e9e59c9c5ee655a0a53c44f5f475658c4
-size 484
+Subject: budget
+louise ,
+i ' ve seen a list where you nominate a set of business sponsors to represent na interests , and it appears that the intention is to have single points of contact for each of the budget buckets .
+however , there are a number of horizontal initiatives , such as global data , that cut across all of them .
+is it your intention that we take the horizontals to all the people listed , or will you nominate one to evaluate the budget numbers ?
+regards
+steve

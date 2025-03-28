@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:69658264bb2e82a8188e527b4a96a922d1a9b57f6ff91d6d23500b2f52f9e640
-size 484
+Subject: dwr
+fyi we got a look at the executed contracts . yoder and hall are checking / summarizing terms and conditions .
+allegheny 150 mw - 1000 mw firm
+calpine 400 mw - 2500 mw firm and unit cont
+constellation 200 mw firm
+dynegy 1000 mw firm and unit contingent
+el paso 100 mw firm
+mirant 500 mw firm
+morgan stanley 50 mw firm
+pg & e 75 mw unit contingent
+pinnacle west 100 mw firm
+various developers 2000 mw unit cont
+4575 mw - 7525 mw
+chris calger
+503 - 464 - 3735

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce0d7ffe506e9d608e1802f527bc02332f9c8759397d0d54b114a1480fa18f8e
-size 346
+Subject: revised nominations
+daren ,
+we have received revised nominations from prize energy resources , l . p . for
+june , 2000 . the revisions are as follows :
+meter # original volume revised volume
+5579 2 , 209 2 , 536
+6534 1 , 906 1 , 123
+6614 2 , 215 2 , 128
+do you want me to enter the revised volumes ? please advise . thanks .
+bob

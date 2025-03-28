@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53c24f6efba49a896eaa7b25e8b90ac25251ef62baa4cd3a68ba58e5b947680c
-size 515
+Subject: cilco
+per our conversation , the months relating to the cilco deal with ena - texas
+are may 1999 - sept 1999 .
+however , when howard and i talked about correcting the allocation in pops ,
+howard is telling me that the cilco sale is tied to the transport ( 206 )
+contract in pops . if we remove the sale b / t ena - tx and cilco and put the
+sale b / t ena - tx and the storage book , we no longer have a sale to tie to the
+transport . let me know what you think as we did not discuss this .
+thanks !

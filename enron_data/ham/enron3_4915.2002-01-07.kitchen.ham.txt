@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b93f7216c1217d59ad6c436d308305d5b10f8aeb41c144e0f78d0343482ad4d
-size 352
+Subject: interest rates
+john / louise -
+given that under the current plan , the bank will be trading our interest rate risk , i doubt we are taking an interest rate trader to newco . in order to get the books run we will need an interest rate curve .
+should i plan on just getting access to reuters and setting a curve off of libor on my own ?
+jeff

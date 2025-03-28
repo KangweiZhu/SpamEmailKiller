@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed0b711e5f004dfbd5d201f153d7a5cb5ecb7a720ab2225c1d3bd92144e8c3fe
-size 111
+Subject: attached is the weekly report for ets planning for the week ending june 22 , 2001 .
+morgan gottsponer

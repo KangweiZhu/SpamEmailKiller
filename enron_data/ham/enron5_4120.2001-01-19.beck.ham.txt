@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51e892a3578ba0f0d1ab584a690c2595778d84219d7e2da04942bc61bbbc7328
-size 460
+Subject: var calcs .
+could you please ensure that sufficient resources are dedicated to fixing the
+current var calculation problem as soon as possible . jenny , stacey , and
+vlady are spending a significant amount of time trying to repair the var
+calc model , which is outside the scope of what we originally discussed in our
+meeting several weeks ago .
+your attention to get quick resolution to this issue would be greatly
+appreciated .
+thanks sally .

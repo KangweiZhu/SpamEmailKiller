@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f364fd3c4a2a9a1bfa62717d8e3133fab9c7aca030eb1eebcdcb688506172af3
-size 528
+Subject: netco - monday morning update meeting on employees matters
+we would like to have a biref status meeting at 9 am in john lavorato ' s old office / greg whalley ' s new office , at 9 am monday morning .
+the main agenda item is to review where we are relative to last weeks distribution of offer letters and for certain key people employment agreements . as of friday there remained a large number of contracts especially , unaccounted for ( although the recipients alledgedly have verbally accepted the terms ) .
+david

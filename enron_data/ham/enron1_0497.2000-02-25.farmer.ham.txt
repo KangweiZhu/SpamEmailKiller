@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f4185f230a3cdfb0073484977735d7c3c444273093ce70fd64f342a05f4c5882
-size 232
+Subject: nomination - hpl dleivery to eastrans - 3 / 1 / 2000
+this is to nominate 65 , 000 mmbtu / d for 3 / 1 from hpl to eastrans .
+7 , 000 mmbtu will come from fuels cotton valley .
+58 , 000 mmbtu will be delivered to pg & e .

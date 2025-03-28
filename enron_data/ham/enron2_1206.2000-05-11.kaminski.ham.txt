@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:632cc0fec57b48ea38f72f90ad8193ba68b97327aa8fe6f58c959dec208f4953
-size 646
+Subject: re : price process parameter esimator
+michael , i think you mean price process parameter esimator .
+it is under o : \ research \ exotica \ prices \ reversion 97 _ trend . xls
+tanya
+" michael schilmoeller " on 05 / 11 / 2000 05 : 04 : 20
+pm
+to : ttamarc @ enron . com
+cc : gmasson @ enron . com , vkamins @ enron . com , mike _ niman @ pgn . com
+subject : price process simulator
+hi tanya ,
+hope things go well for you . can i get a copy of the price process simulator
+you wrote ? it would be helpful in developing a plant dispatch module for
+monet , the power systems simulation model i co - authrored .
+thank you ,
+michael

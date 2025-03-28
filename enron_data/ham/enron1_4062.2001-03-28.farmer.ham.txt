@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b731f26b8514728f37a86c6cb988034d394b3550b1597ebab1481461fadf551
-size 228
+Subject: re : guadalupe meter diagram
+daren , here ' s a simplified schematic on the major interconnects to our
+guadalupe pipeline . hope it helps .
+( see attached file : guadalupe pipeline . ppt )
+- guadalupe pipeline . ppt

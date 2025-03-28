@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e01503ba62d73611ba2ac4ee90f2de2ab22c406c77a8e76da14aee815a4bb914
-size 376
+Subject: technical corner paper
+vince ,
+as you suggested , i splited the paper into two parts , the first one
+devotes to the fx market and second one to gas market . attached
+is the first part .
+let me know if there is any mistakes in there , thanks .
+sam ,
+vince wants to publish this article in the next monday edition of the
+research intelligence .
+thanks .
+zimin

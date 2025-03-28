@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:620bbdb5172174a15411185a98d44f414c01f9dc488ec4a9ed476ad011195c65
-size 573
+Subject: start date : 12 / 11 / 01 ; hourahead hour : 11 ;
+start date : 12 / 11 / 01 ; hourahead hour : 11 ; no ancillary schedules awarded . variances detected .
+variances detected in load schedule .
+log messages :
+parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2001121111 . txt
+- - - - load schedule - - - -
+$ $ $ variance found in table tblloads .
+details : ( hour : 11 / preferred : 591 . 42 / final : 591 . 42 )
+trans _ type : final
+load _ id : pge 3
+mkt _ type : 2
+trans _ date : 12 / 11 / 01
+sc _ id : enrj

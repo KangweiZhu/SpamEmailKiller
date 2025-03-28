@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1c9e18e7012da4b4957e16bdf12c890ecd2c1fe60198e0c2d363a4ea988d6cd8
-size 481
+Subject: what is oem software and why do you care ?
+download and buy cds all software under $ 15 - $ 99
+you cannot shake hands with a clenched fist .
+the wise man avoids evil by anticipating it .
+-
+to unsubscribe from this list : send the line " unsubscribe linux - kernel " in
+the body of a message to majordomo @ vger . kernel . org
+more majordomo info at http : / / vger . kernel . org / majordomo - info . html
+please read the faq at http : / / www . tux . org / lkml /

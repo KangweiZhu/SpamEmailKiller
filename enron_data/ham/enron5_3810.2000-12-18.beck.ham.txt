@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:faa45d4d4f2c1d49e0167bf6aeee8f12f39e4a429b1b11409228bfa265fb993d
-size 494
+Subject: physical - financial tagg
+we have switched all the ena financial gas deals that should be marked as
+physical . again , we flipped these deals through a physical book so that the
+options trader could see his positions . there appear to be deals still out
+there for global markets , south america , and ecc .
+debbie - some of these deals actually should still be financial .
+leslie - if you will get in touch with canada , i will talk to global markets
+and south america .
+thanks

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b0c4b5e5da80a9851f1c97ecfc83ced503244bf7ade4e7d73b5d6838efcf860a
-size 401
+Subject: breaking news
+check out the latest ebiz for details on the management changes at azurix .
+also in this issue :
+natural gas market opens in europe
+keeping up with enron ' s new business units
+hit parade of project code names
+enron ' s new brand guidelines
+it ' s all in the latest ebiz . go to home . enron . com , click publications , then
+click ebiz , and " ebiz august 25 , 2000 . "

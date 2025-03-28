@@ -1,0 +1,34 @@
+Spam Detection Model Evaluation Report
+==================================================
+
+Dataset Distribution:
+------------------------------
+Total Emails: 36716
+Ham Emails: 19045 (51.9%)
+Spam Emails: 17671 (48.1%)
+
+Test Set Distribution:
+------------------------------
+Total Test Emails: 7344
+From Enron: 6744
+From SpamAssassin: 600
+Ham Emails: 3840 (52.3%)
+Spam Emails: 3504 (47.7%)
+
+Model Performance:
+------------------------------
+
+BASELINE:
+Overall Accuracy: 0.6069
+Enron Accuracy: 0.5813
+SpamAssassin Accuracy: 0.8950
+
+NB:
+Overall Accuracy: 0.9778
+Enron Accuracy: 0.9818
+SpamAssassin Accuracy: 0.9333
+
+SVM:
+Overall Accuracy: 0.9892
+Enron Accuracy: 0.9901
+SpamAssassin Accuracy: 0.9800

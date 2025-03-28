@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5d090cc864f6c40dfb296b0c097a9445f877e81d938ec3ff61dc697c033a1f3
-size 398
+Subject: mid year review - resume
+sally ,
+per your request , here is a copy of my resume . the information is updated
+through my role in investor relations which accounts for the review period .
+i also provided your assistant with a summarized list of my projects for the
+period and have attached that as well for you .
+thanks and i look forward to visiting with you soon .
+regards ,
+shelly

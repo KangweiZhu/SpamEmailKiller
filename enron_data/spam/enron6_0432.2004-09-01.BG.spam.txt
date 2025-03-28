@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42e061eb4ae528ed358459d6f50d92d30d7908cec06afb569484016562e01e17
-size 278
+Subject: to valentin ' s shop customers !
+dear customer !
+we updated our software catalogue and added new
+popular products ! now you can get any software item
+at 90 % discount rate ! for more information visit us here :
+with best regards ,
+product manager
+seymour doherty

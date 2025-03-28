@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b085bbbd3866589ebfa893062b75aff8d018638caba4ef1f68067152a6a1c35e
-size 175
+Subject: amended hr restart doc
+louise - i ' ve added names against tasks
+this is a work in progress and i will have some more detail tommororw on the retention area .
+neil

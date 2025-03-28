@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d08f48d332a73b223d7ebd725ebc42c0955b8058bde1556f68397ad82daa0062
-size 537
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 05 : 57 : 27 - 0500
+from mail @ localhost
+- - - - - the following addresses had permanent fatal errors - - - - -
+" | / usr / sbin / sinfobots isntmedia "
+( reason : 554 5 . 4 . 6 too many hops )
+( expanded from : nobody @ isntmedia . com )
+- - - - - transcript of session follows - - - - -
+554 5 . 4 . 6 too many hops 21 ( 20 max ) : from projecthoneypot @ projecthoneypot . org via localhost , to nobody @ isntmedia . com

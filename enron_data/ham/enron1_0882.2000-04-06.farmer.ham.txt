@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5cee34d7bbc5677e83dc11a67dfee89e904b1f3c0f424fd4cc14d285bd8b0e85
-size 369
+Subject: ces - carthage
+i decreased volumes at carthage due to a fire at the east texas plant . also ,
+the co - owner volumes provided were given to me as gross volumes and should
+have been net ( after pvr ) . i have made changes to reflect the lower volumes .
+the total volume change is approx 5500 ( net ) . total carthage decreases from
+90565 to 85148 ( net ) .

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d91f782ab92018b083235cb5baa6532028cb9d3ca3c67b8e087b9f277c2a93d
-size 305
+Subject: boletin difusion consejeros electorales
+cc . medios de comunicacion
+en el estado de oaxaca
+presentes
+adjunto a la presente remito a usted el boletin
+informativo con motivo de la difusion para queciudadanos puedan participar
+como consejeros electorales del consejo local del ife .
+saludos .

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4719ffcaa7decedcfa66cb2f34f8c97756fa07dfd7c7b99924d6642dd0476fe
-size 222
+Subject: rawhide presentation
+louise - this is an update to the earlier version of the rawhide presentation sent to you by brenda . please note that some ownership numbers have been adjusted in the asset summary section .

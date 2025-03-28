@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:289e04e769a848f99ed564429bddd985d078251a2b57a3ec74747328f447c9be
-size 638
+Subject: zero curve generator for uk gilts
+anjam ,
+here is the model for fitting the term structure of uk gilts .
+the basic idea is as follows :
+dirty price _ { ith gilt } = sum _ { j } c _ { i } / 2 * discount factor ( t _ { j , i } ) +
+100 * discount factor ( t _ { ni , i }
+using a five parameters analytical form for the discount factors , and
+minimizing the sum of
+absolute errors , i can derive a smooth zero curve . the model needs an
+initial guess
+for the parameters , this may require some experience . the log file can help
+you to see
+how well the optimization works .
+let me know if you have any questions .
+zimin

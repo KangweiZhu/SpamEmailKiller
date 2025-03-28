@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a31a5bd3c458387c89bd40b0d7290db65ea3be5ea429eef774993115ee4f4ba1
-size 147
+Subject: turbine position report 11 / 16 / 01
+please contact chip schneider at x 3 - 1789 or kevin jolly at x 5 - 7147 if you have any questions .

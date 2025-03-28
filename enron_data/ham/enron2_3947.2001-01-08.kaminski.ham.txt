@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0706c9070feef04f61889df7d0a6c90045cd4519113fc5a1a3f1aad5ec4537aa
-size 386
+Subject: new project
+vasant ,
+vince and i spoke with gary hickerson and michelle cisneros about the
+consultant ' s power plant model this afternoon . we will take their model ' s
+interface and recode the calculation engine , incorporating useful insights
+from the consultant . it help will be available
+via gary ' s group . so i will spend the next 4 weeks working on this .
+alex

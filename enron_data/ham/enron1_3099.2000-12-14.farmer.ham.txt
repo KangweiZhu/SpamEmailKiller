@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc693405ed56edbd4b54a4aae4a5e968e44b6e7a52986ad2bd531123e65dfb9d
-size 429
+Subject: hpl meter # 980417 hpl / kmid - seven oaks
+daren :
+on 11 / 30 / 99 , the above meter has recorded flow of 26 mmbtus . there were no
+deals at this meter during november 1999 or december 1999 . logistics needs
+approval to writeoff these volumes to unaccounted for gas . please print ,
+sign , and return original to clem cernosek .
+approval to writeoff the volumes to unaccounted for gas loss
+thanks ,
+clem cernosek

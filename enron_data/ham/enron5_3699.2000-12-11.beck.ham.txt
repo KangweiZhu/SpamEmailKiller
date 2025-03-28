@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aa7b500523030a8d02d80d58e16e1385823e346548c717db4c48bb811c9ae2fb
-size 323
+Subject: holiday schedule for strategic systems
+i am planning to take vacation on 12 / 27 , 12 / 28 , and 12 / 29 . this will put me
+out of the office 12 / 23 through 1 / 1 / 01 .
+joel will be taking vacation prior to my absence on 12 / 20 , 12 / 21 , and 12 / 22 .
+we will back each other up in the other ' s absence .

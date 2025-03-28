@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4c55097872ea6f08605187cb7ab68f35e3194ad40a14996434e95883a911404
-size 272
+Subject: eastrans nomination change effective 5 / 16 / 01
+effective 5 / 16 / 01 :
+deliveries into eastrans from hpl stay the same at 20 , 000 mmbtu / dy .
+the redeliveries will be 17 , 000 mmbtu / dy from fuels cotton valley and 3 , 000
+mmbtu / dy into the cartwheel .

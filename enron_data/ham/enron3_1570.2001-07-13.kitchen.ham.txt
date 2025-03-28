@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c6d21db8e0a7a566f709554da8386696212700c73f8a2e6812b43989dc8829e4
-size 171
+Subject: fortune ' s article
+hi louise ,
+here is the final layout for the fortune article , just wanted to get your seal of approval .
+have a great weekend .
+~ heather

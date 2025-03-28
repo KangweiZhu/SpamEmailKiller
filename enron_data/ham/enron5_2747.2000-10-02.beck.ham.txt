@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:56e0a5083885c05153eafe91d10aa29eab38c6c0e28ba23e36a91055038275fa
-size 232
+Subject: list of book administrators for south america
+in today ' s staff meeting you were asking for a list of book administrators .
+here is the list for south america .
+martha stevens ,
+sarah smith
+juana fayett
+trang le
+srm

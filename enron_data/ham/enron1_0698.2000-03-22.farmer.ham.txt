@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0414b6f8424dad0b739cb77f7d6639d42ab28736055686f0bb65f7bb1e94a042
-size 77
+Subject: calpine daily gas nomination
+- calpine daily gas nomination 1 . doc

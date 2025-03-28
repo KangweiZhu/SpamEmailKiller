@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1008c6d2feb40b903996be0c9d30b2a6b8cc31df88ec792eb25e5937e88fd612
-size 301
+Subject: deals to be extended on meter 985097 - 12 / 00
+according to the meter statement , there was overflow from november on meter
+985097 and the following deals need to be extended for 12 / 1 only .
+118532
+101473
+138017
+thanks and if you need further information , please let me know .
+karen

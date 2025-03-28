@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e958b68056331aea787819db60c800cf68b318ca411038e64a613399b816e865
-size 141
+Subject: neon discussion october 4
+here is this upcoming week ' s discussion material ! ?
+?
+bobby
+- neon measuring success lesson 3 . doc

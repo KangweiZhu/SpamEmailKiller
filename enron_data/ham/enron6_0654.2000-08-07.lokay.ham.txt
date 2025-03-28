@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1461d1eaf9ef4eaa7b5a4a6bc3d97a71988e6ee16b09a493fa56f1954aed0ab8
-size 271
+Subject: throughput forecast
+i would like to schedule a meeting to discuss the components for modeling tw
+throughput . the first date kim , lindy , sean and i could make was friday
+august 18 th . how does everyone else ' s schedule look for the morning of the
+18 th ?

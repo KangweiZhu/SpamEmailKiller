@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3feca7fd53e35a63a4a9b7944ef21f6e6176a4e82db345853119139643541d1
-size 508
+Subject: credit business plan
+hi jeff ,
+my research colleagues and i are working on a document to lay out our credit derivatives modeling strategy . for lack of a better term , we refer to this as our credit business plan .
+it is my understanding that various business plans have been previously written for the credit group - one by gillian johnson and another by john bottomley .
+it would be very helpful to our efforts in the research group , it you would allow us to see these plans .
+thanks ,
+iris

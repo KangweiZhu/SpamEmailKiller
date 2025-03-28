@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8461655d8eea182f356727ff4c996ca5463a815fdce1bbcf78e46f50ad3ba7de
-size 398
+Subject: opm survey help sheet
+hi daren ,
+the attached spreadsheet could be used to help you in the collection of the
+hours for your group prior to entering into the database sent to you by james
+scribner . it includes a place for your fte ' s , hours by position & activity
+and the activity definitions for your cost center . please let me know if you
+have any questions .
+thanks ,
+suzanne

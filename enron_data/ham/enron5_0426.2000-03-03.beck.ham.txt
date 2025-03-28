@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4173192b887e0a60a84ab7e59f6c500e58e1bf1dd6c091ca64f9761c222429d
-size 697
+Subject: japanese regulatory environment
+in the west , the relationship between regulators and businesses is based on
+control ( and sometimes conflict - - somewhat like prison guard vs . inmates ) .
+nevertheless , in japan , it has until recently been based on cooperation ( more
+like a coach and team ) .
+the japanese understand that this relationship may not be the best for the
+nation as a whole and have begun changing it . this process is disconcerting
+and has powerful emotions attached to it .
+i thought you might find this article interesting , since it shows some of the
+complexities inherent in this change that might not be readily apparent to
+westerners .
+regards ,
+eugenio

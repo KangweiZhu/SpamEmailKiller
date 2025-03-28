@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ce040d3634388393c6e8ab3a9f3796ca9337f56a59deb105d215ba85495d70e
-size 336
+Subject: interview schedule for jinbaek kim
+please find the interview packet for the above - referenced candidate . the
+interview will occur on friday january 19 , 2001 . please print all documents
+for your reference . if you have any questions , or conflicts of schedule ,
+please do not hesitate to contact me .
+shawn grady
+58701

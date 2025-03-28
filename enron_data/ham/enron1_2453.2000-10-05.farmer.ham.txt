@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9223072ce5760c4e4bd0aae2de40c13a447a5e34dad20b9946e6337ebd266356
-size 325
+Subject: re : duke cashout entries 5 / 00 and 6 / 00
+i am having trouble pulling in the demand charge for 6 / 00 on deal 157278 for
+$ 1 , 129 . 09 . the only thing that is different from may is that the demand
+volume is 0 . i think it needs to be a 1 for the charge to come through .
+please take a look .
+thanks ,
+megan

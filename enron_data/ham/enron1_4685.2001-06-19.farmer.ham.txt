@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c11d26dec25432f03d63e1b20b42a80169b3efe51d7a60f544580648bcd03eb2
-size 221
+Subject: tenaska iv 5 / 01
+please change the demand fee for may 2001 on deal 384258 from $ 2 , 069 , 556 . 32 to $ 2 , 026 , 347 . 17 . the williams supply was less than what the spreadsheet calculated .
+thanks ,
+megan

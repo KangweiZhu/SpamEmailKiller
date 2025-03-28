@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce8416916bea2dcf594e8444d7085adce2615673e4b0944c51b95d4d11092e34
-size 210
+Subject: slides for jeff ' s presentation
+all requested slides and updates , including raw data and calculations , are in
+the spreadsheet below
+volatility calculations are up to december 8 , 2000 .
+- hector

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43dfa5d5c75b9229051fb996272827e2eadf3c06d9853499ae6433fad54b4972
-size 425
+Subject: el paso maintenance - opportunity ?
+el paso has postponed line 1300 and line 1301 maintenance projects on the san
+juan crossover until february . flagstaff station and the navajo 2 d turbine
+will be down jan . 22 - 23 , cutting north mainline capacity by 50 mmcf / d . one
+rio vista turbine will be down jan . 22 - 25 , limiting capacity of the iexcpt 37
+and igcnmx 37 interconnects to a total of 125 mmcf / d .

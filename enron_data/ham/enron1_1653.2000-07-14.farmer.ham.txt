@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:756701b567400f92370e5a9d16079dff0a212be5b54f15de4e572e900f664d42
-size 384
+Subject: settelement request for an equistar " buyback " ticket with ena as
+shipper
+daren wanted me to make this request to you for an equistar buyback ticket
+on enron north america { ena } .
+equistar has nominated activity on ena for june and july 2000 production .
+settlement seems to think a buyback ticket is necessary to properly account
+for equistar ' s monthly activity .

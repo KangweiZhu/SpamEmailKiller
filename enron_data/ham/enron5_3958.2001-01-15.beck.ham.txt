@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ed26d0aeede85934d7880adc99ab61963838690e351bd4d7b14db5e17bef66f
-size 213
+Subject: promotion
+sally : just a short note to congratulate you on your well - deserved promotion .
+i always thought you had the toughest job in the company ; i guess everybody
+else finally caught on !
+jordan

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f7ae67a9ffbb0cbd9533133c251e3e5a2c99dff5175896123884fd6a22dc38a
-size 143
+Subject: global markets monitor - 19 jan 01
+please find attached the gmm dated 19 january 2001 .
+maureen raymond - castaneda and
+gwyn koepke

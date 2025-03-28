@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5bea56b563a1aabb6c2e25bdd9f477b00a88f30a5bec48b93db89c588b586c2b
-size 320
+Subject: aga forecast for 7 / 21 is 42
+vince & stinson ,
+the number comes out from the time series model is 42 , compared with mike ' s
+61 .
+last year ' s number ( true ) was 41 ( 7 / 23 / 99 ) , and 26 ( 7 / 30 / 99 ) . therefore the
+curve is down - sloping dramatically .
+let us see what happen tomorrow .
+zimin

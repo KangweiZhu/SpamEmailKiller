@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:962162a41de96763cd1daedf8743a66e220bd263463a6f594d91ef2c8d183691
-size 434
+Subject: entex delivery off of oasis
+just a quick reminder that we need to cover the entex delivery off of oasis .
+currently ena has a transport agreement on oasis . this agreement will not be assigned .
+not use aep has an agreement on oasis . just to make sure , i would recommend we
+sale the gas to aep / hpl at the point for the month of june just to make sure the delivery
+is made .
+let me know what you think .
+thanks
+bob

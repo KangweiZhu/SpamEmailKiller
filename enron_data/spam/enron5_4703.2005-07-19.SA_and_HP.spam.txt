@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:02bb9033283f26ac73dc8b764cc85cbd02f781ac423e6a6b1d4b0bab6d5af8b3
-size 316
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 07 : 00 : 22 - 0400
+from [ 220 . 114 . 199 . 211 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+- - - - - transcript of session follows - - - - -
+550 5 . 1 . 1 . . . user unknown

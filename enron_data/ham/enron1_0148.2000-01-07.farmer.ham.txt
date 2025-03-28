@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c7f065e1b0954afff458a017bf677f9fe2e55ae54724b2a51d9888a2cac5ff1
-size 323
+Subject: eol application id and password
+darren ,
+your id and password for eol application is as follows :
+id : dfarmer
+password : dfarmer
+this will give you read only access to the stack manager , product manager ,
+and enron online .
+if you have any questions please feel free to contact me .
+thanks
+tara
+x 34523

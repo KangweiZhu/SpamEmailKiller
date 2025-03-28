@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae2d93054bc872200f008d46b295b9b44a14b5cc20e6a45c5a5660ee3d44edc0
-size 329
+Subject: request closed : access request for ryan . slinger @ enron . com
+the request has been completed with all resources requested either completed or rejected . you can view the details of the request by clicking http : / / itcapps . corp . enron . com / srrs / auth / emaillink . asp ? id = 000000000052681 & page = myreq .

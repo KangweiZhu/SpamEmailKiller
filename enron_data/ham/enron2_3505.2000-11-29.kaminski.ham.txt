@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da69dbf6283c90862c0b1356cec1aa70c4235b2e6076ae17fefa5a7bd9c43a4d
-size 1033
+Subject: updated message - preliminary rankings
+norma ,
+i am sending you preliminary rankings for my entire
+group , based on the results of a meeting we held on tuesday .
+we have ranked shalesh ganjoo and clayton , in case
+it ' s still our responsibility .
+vince
+permanent goup members , manager and below :
+superior :
+1 . martin lin
+2 . joe hrgovcic
+3 . tom haliburton
+4 . jose marquez
+excellent
+1 . paulo issler
+2 . robert lee
+3 . chonawee supatgiat
+4 . amitava dhar
+5 . alex huang
+6 . kevin kindall
+7 . praveen mellacheruvu
+8 . shanhe green
+9 . stephen bennett
+strong
+1 . lance cunningham
+2 . clayton vernon
+3 . youyi feng
+4 . yana kristal
+5 . sevil yaman
+permanent goup members , directors :
+superior
+1 . krishnarao pinnamaneni
+excellent
+1 . osman sezgen
+2 . tanya tamarchenko
+3 . zimin lu
+satisfactory
+1 . maureen raymond
+associates , analysts
+superior
+1 . shalesh ganjoo
+2 . gwyn koepke
+excellent
+1 . hector campos
+2 . kate lucas
+3 . sun li
+4 . roman zadorozhny
+5 . charles weldon

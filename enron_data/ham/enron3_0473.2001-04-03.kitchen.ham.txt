@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c460d2e10ddfc42e18c681c50939d93e4de2e0ed55d85e5adfb11c2575ee723c
-size 287
+Subject: power market research
+this piece from deutsche bank is good macro overview of electricity supply / demand fundamentals . a little on the long side - 78 pages , but has some good discussion on nerc ( north american electric reliability council regions ) , beginning on page 15 .

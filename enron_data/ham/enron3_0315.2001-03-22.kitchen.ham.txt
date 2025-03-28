@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c57cde792e5049025b1885ac03f5b1c66faa0d1965d29f0ef0a5440dc9c65f81
-size 331
+Subject: kern expansion
+fyi folks -
+the kern river expansion that we backed out of ( the 15 year stuff ) is going to be 900 , 000 mmbtu / d . as you can see a large number of the shippers stayed in the process , and are now bound to the pipe if it gets built ! !
+there will be a press release on this tomorrow . . .
+julie : - )

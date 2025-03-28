@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4738a387d1354088fcaaa76fb83c1fe0e3b4771fd768ba0fa50716a2097b1031
-size 184
+Subject: agenda california call 2 - 20 - 01
+1 . governor ' s proposal - what do we know / enron ' s response
+2 . legislative update
+3 . uc / csu customer problem w / ablx
+4 . other

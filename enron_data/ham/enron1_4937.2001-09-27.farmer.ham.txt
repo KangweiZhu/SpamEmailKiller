@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cebd8c8287ecf3215d4b537f267c0defad4b1ff0086f28b332bb7ea35347b7a6
-size 327
+Subject: expense report receipts not received
+employee name : jerry farmer
+report name : daren farmer
+report date : 9 / 7 / 01
+report id : 82 c 5 aabda 37 bl 1 d 5 b 43 e
+submitted on : 9 / 7 / 01
+receipts for this expense report have not yet been received . if receipts have been mailed , please disregard this message .

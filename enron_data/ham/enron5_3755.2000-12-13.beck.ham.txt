@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd5e5f78d6600cf332735f9be2f4e82f126ad27817fccd682cd7c7427c967138
-size 166
+Subject: intranet site
+seems like we should have a link from gro site to this . is this part of
+brent ' s organization ?
+http : / / globaltrade . enron . co . uk /

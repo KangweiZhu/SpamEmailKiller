@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b5b03098e2f89f9e689a17176524481fd41759109e444445c4654f66984a820
-size 542
+Subject: new version of the eol view database - - important
+the e - mail i sent yesterday has an attachment that installs the new version
+of the database . it worked well in the four computers we used to test it .
+nevertheless , it failed on bob shults ' s computer ( maybe because of a slightly
+different configuration of his computer ) . we rewrote the attachment to fix
+the problem .
+if the attachment gave you trouble , or if you have not launched it yet ,
+please use the one below instead .
+sorry for the inconvenience ,
+eugenio

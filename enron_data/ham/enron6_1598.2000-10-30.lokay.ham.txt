@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e29b23c0274af32206dfcc7d921085e30ff5a4799e1c5a1eb70930fc0bed8e5c
-size 805
+Subject: enron year end 2000 performance management process
+reminder , enron ' s year - end 2000 performance management process has begun !
+during the feedback phase you will need to access pep at
+http : / / pep . corp . enron . com to suggest reviewers who can provide feedback on
+your performance . you may also be requested to provide feedback on fellow
+employees , but the system will only be open for feedback until november 17 th !
+helpdesk representatives will be available to answer questions throughout the
+process . you may contact the helpdesk at :
+houston : 1 - 713 - 853 - 4777 , option 4
+london : 44 - 207 - 783 - 4040 , option 4
+e - mail : perfmgmt @ enron . com
+your user id & password for pep at http : / / pep . corp . enron . com are :
+user id : 90125268
+password : welcome

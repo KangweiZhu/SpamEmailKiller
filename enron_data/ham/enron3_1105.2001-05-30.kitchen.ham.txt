@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5b0e3ec266f6c401d4c367b6b2e0545b0821cc7d392a103447541b901a91c2b7
-size 373
+Subject: > - tso 53001
+the following expense report is ready for approval :
+employee name : tammie schoppe
+status last changed by : automated administrator
+expense report name : tso 53001
+report total : $ 1 , 335 . 48
+amount due employee : $ 1 , 335 . 48
+to approve this expense report , click on the following link for concur expense .
+http : / / xms . enron . com

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6574e1ca6c38f4327ae87b51365ebfe0224362ac8f09db3e9e89f82325c7f567
-size 537
+Subject: henwood license
+karla :
+please inform henwood that enron will renew the license for the prosym
+software modules but will not renew the licenses for north american databases .
+the software modules to be renewed are :
+base system ( prosym ? ) ( ecosym is included in the base system )
+asap / mstat
+multisym
+emss interface .
+it is not 100 % sure that the last module is required . nevertheless , please
+begin the agreement amendment process asap . i will let you know if there are
+modifications soon .
+thanks ,
+grant .

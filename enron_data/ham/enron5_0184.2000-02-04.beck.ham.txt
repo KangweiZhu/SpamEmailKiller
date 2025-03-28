@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7f8e24d982357d3f54273e03d8b708dbc09d28afb383a290aeb64ed3430c3447
-size 338
+Subject: audit points
+i want to make sure that we address all audit points we can during the
+implementation process for 133 . are there any points related to affiliate
+books , accrual books , hedging or policies related to that ? i know there was
+one on the affiliate or hedging policy . please send it to me and ron
+baker . thanks .

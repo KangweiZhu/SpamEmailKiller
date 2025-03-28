@@ -18,3 +18,6 @@ python main.py predict --model nb --email "Get rich quick! Special offer!"
 ```bash
 python main.py predict --model nb --email test_email.txt
 ```
+```bash
+python main.py predict --model nb --email test_normal.txt
+```

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:365ed363e19aa39927789cd6128224a0785beada7c45774580248a339aac262b
-size 380
+Subject: prc
+hi , sally ,
+i am an associate working for ebs . i am sorry we didn ' t have a chance to meet
+for the mid - year prc . could you schedule sometime next week so that we can
+meet face to face ? i ' d like to talk about the mid - year also . thank you .
+jun wang
+enron broadband services
+office # 713 . 853 . 0425
+fax # 713 . 646 . 3271
+jun . wang @ enron . net

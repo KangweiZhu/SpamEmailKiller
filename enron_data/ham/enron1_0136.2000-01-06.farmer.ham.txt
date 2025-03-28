@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ea5b096a5b4754911bce23949c16ff86bacf2d31fdbefb0098c1de423202ce0
-size 248
+Subject: expense
+please notify me if you have any outstanding items that should be expensed .
+all invoices ( mobile , pager , etc . ) and travel arrangements should be passed
+on to me as well .
+many thanks ,
+barbara lewis
+x 35085 ( bl / 635 )

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32f3770cd1e1ac5db3131d0647f3b43c0f6c4be4691148f371ce7983b147afeb
-size 418
+Subject: new hire orientation for monday , june 5 , 2000
+name title doh badge hr rep supervisor co / rc
+soto , elizabeth clerk 6 / 1 yes n . villarreal susan harrison 5 - 413
+02331 - 000
+jacobs , charles spec 6 / 5 yes h .
+mcloughlin bryce baxter 5 - 413
+00758 - 000
+ellis , laurie spec 6 / 5 yes h .
+mcloughlin bryce baxter 5 - 413
+00758 - 000
+johnson , luchas sr . spec 6 / 5 n . villarreal carrie hollomon

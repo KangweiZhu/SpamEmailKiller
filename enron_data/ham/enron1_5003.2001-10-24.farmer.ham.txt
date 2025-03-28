@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2742867e52c9358294a0c5b49dfbc015d2696027ab4ae86b332c7831fb409f66
-size 184
+Subject: tenaska iv 12 / 00
+darren :
+please change the demand fee for 12 / 00 on deal 529856 from $ 918 , 566 . 13 to $ 889 , 757 . 13 . we had a volume adjustment .
+thanks ,
+megan

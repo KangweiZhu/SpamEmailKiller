@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a51e528b65a6885757d1edfc5915a5ebabefc4e6e58d877ec9fbc74e517fe8b8
-size 426
+Subject: request submitted : access request for priya . jaisinghani @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000008858
+request create date : 12 / 1 / 00 10 : 12 : 27 am
+requested for : priya . jaisinghani @ enron . com
+resource name : eol us backoffice reports
+resource type : applications

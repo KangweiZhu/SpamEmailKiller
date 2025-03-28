@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb15f47dbb8a435d8ec18855333849e92a1b66ede138dc951d1a7a68b377d5ec
-size 799
+Subject: deal number 109660
+mark has informed me that one of you would handle anything prior to 5 / 00 on
+oasis . please see below . let me know if i need to provide further
+information .
+thanks !
+karen
+- - - - - - - - - - - - - - - - - - - - - - forwarded by karen lindley / corp / enron on 08 / 11 / 2000
+04 : 01 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : karen lindley 08 / 10 / 2000 03 : 38 pm
+to : mark mccoy / corp / enron @ enron
+cc :
+subject : deal number 109660
+hi mark !
+another interconnect issue - 7 / 99 :
+can you please take a look at deal 109660 ? it is set up with a transport
+usage ticket , however is a brokered deal . i am not sure if it is pathed
+incorrectly or if possibly the deal is set up incorrectly .
+let me know your thoughts .
+karen

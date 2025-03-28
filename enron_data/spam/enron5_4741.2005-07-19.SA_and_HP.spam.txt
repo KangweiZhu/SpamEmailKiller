@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bebb1c67a5b2e2c9409ce23f2b81b8814dad4406950a6a93ff59a9c342f29eb5
-size 600
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 07 : 01 : 29 - 0400 ( vet )
+from mxo 4 . t - net . net . ve [ 200 . 35 . 64 . 110 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : 554 sorry , no mailbox here by that name . ( # 5 . 1 . 1 ) )
+- - - - - transcript of session follows - - - - -
+. . . while talking to msclusterol . t - net . net . ve . :
+> > > data
+< < < 554 sorry , no mailbox here by that name . ( # 5 . 1 . 1 )
+554 5 . 0 . 0 service unavailable
+< < < 503 rcpt first ( # 5 . 5 . 1 )

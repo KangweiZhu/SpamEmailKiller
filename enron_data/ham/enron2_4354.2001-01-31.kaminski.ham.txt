@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ac5e1756b338210f75cd0b1a45afff754c134932e7fb304b6c640a48f6bde86
-size 561
+Subject: re : p + spread options
+jeff ,
+a short follow up on the p + options .
+attached is a chart showing historical correlations for calendar spreads
+between futures contracts . it shows correlation over four different time
+horizons up to the roll of the nearest contract in each pair . as you can
+see the level is usually higher than 0 . 98 and often near 0 . 99 . if our
+current book of " index p + " options were re - marked at a 98 % correlation , it
+would result in a reduction in m - t - m value of about $ 78 million according to
+my estimate .

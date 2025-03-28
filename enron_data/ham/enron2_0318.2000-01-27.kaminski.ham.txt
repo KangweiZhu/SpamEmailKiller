@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:984fe59737d4d5b5b97344b31fe980e25eda22e07e623ba30cc68557e88cc94f
-size 505
+Subject: rice / enron finance seminar series
+jones graduate school research seminar series in finance
+sponsored by enron capital and trade resources
+paolo fulghieri
+insead
+will give a seminar at the jones school on monday , january 31 ,
+" information production , dilution costs , and optimal
+security design "
+the seminar will begin at 4 : 00 in room 115 .
+please e - mail me if you would like an advance copy of the paper .
+stay tuned for an update of the spring seminar series schedule .
+bbo

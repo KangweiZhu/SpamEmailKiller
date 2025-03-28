@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab4d4aaf13d2bdd0d6d440533246409cae8d640c6c4c3aea547215d6800b9760
-size 476
+Subject: market risk / operational risk report
+attached below is a compilation of operational and information technology
+issues that effect the timeliness , effectiveness and accuracy of the market
+risk management daily analysis .
+daily , we aggregate information regarding the origin of these issues to
+better diagnose where time , money and resources should be allocated to
+improve information flow .
+please call me if you have any questions regarding this document .

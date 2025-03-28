@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9c1ae61e496a54ba03450ba7e7fd0440bb72977c98276cd3465b7c8b173eabb
-size 245
+Subject: position report for dual trigger product
+vince ,
+i have enclosed a summary of our proposed approach on calculation of notional
+and the greeks for dual trigger option portfolio . please let us know your
+thoughts / comments .
+amitava

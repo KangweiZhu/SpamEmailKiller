@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:15def513d6ce3d32c14debf4594c31f5435670fb08983db4e51012a4891fba6a
-size 528
+Subject: ng meeting
+fyi .
+mm
+- - - - - - - - - - - - - - - - - - - - - - forwarded by michael e moscoso / hou / ect on 06 / 21 / 2000
+09 : 42 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : vladimir gorny 06 / 21 / 2000 09 : 15 am
+to : steve jackson / hou / ect @ ect , michael e moscoso / hou / ect @ ect , tanya
+tamarchenko / hou / ect @ ect , steve scott / enron @ gateway
+cc :
+subject : ng meeting
+below is a draft of the status update for the meeting today . please feel free
+to comment . vlady .

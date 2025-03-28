@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4583cb341e4bd44ccc64cd602b4c66fdf4be6b28817f471e3758b0927c8cba0e
-size 100
+Subject: enron / hpl actuals for november 8 , 2000
+teco tap 40 . 000 / enron ; 53 . 125 / hpl iferc

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b7b3c51bae3f26d59f6591fd0d23bc0f7467aeb797383691c8344d25c1bbe7f
-size 429
+Subject: sitara availability - status update
+we are still experiencing problems in bringing up the hardware from last
+night ' s emergency outage . as of 5 : 30 am you cannot access the application .
+every attempt is being made to rectify this problem . once the application is
+available , please stay out of position manager and use cpr positions until
+you have been notified .
+thank you for your cooperation .
+scott mills

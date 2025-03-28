@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1d16197881652cbd9215e53f1ab2d3107d8925909839d5e27ab180aecb8509a
-size 320
+Subject: i know we ' ve made good progress with respect to morning reports for egm .
+however , i continue to receive most reports after 9 : 00 a . m . , which is too
+late into the trading day . please let me know if there are resources you
+need , so this aspect of egm can run as smoothly as ena gas .
+thanks .
+jeff

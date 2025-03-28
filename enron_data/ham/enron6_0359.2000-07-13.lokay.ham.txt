@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:895c4e3fbed91c38cfc127a12d21d0bd81e8e6ffe4f225f914e2c84f0511aed3
-size 407
+Subject: associate / analyst fall recruiting
+correction to super saturday dates
+two dates in our prior save the dates memo were incorrect . the dates to save
+for the first super saturday weekend are friday , october 27 th and saturday ,
+october 28 th . the correct dates for the last super saturday weekend are
+friday , december 8 th and saturday , december 9 th .
+we apologize for any inconvenience .

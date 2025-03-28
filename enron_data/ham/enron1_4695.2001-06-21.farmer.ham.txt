@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0757d06236b1943947278b9f7a13a80133b7b77b3f46bed3452da432242eea5b
-size 471
+Subject: duke energy trading and marketing , l . l . c .
+i have two outstanding pricing issues that i tried to resolve with gary lamphier , but didn ' t have any luck . these deals are both day deals for february 2001 done by danny conner . the customer is showing a pricing difference according to what we have in sitara . can you please help me resolve this pricing issue .
+sitara deal # sitara price customer price
+627800 $ 5 . 25 $ 5 . 23
+598392 $ 5 . 78 $ 5 . 77

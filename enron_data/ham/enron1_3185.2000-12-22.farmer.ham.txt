@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:093f6b08a183a5dc66e77148e145f4fc6a2d72fb6ae8dbe5e2bef020608661ea
-size 524
+Subject: hpl meter # 981389 mt . belvieu - trident ngl hpl
+daren :
+on may 31 , 2000 , the above meter flowed 15 mmbtus from hpl ' s pipeline . this
+is the only day that this meter flowed during the period of 1 / 1 / 99 thru
+11 / 30 / 00 .
+currently , the volume is booked to hpl strangers gas contract . logistic
+needs approval to writeoff this volume to unaccounted for gas . ( please
+print , sign , and return original to clem cernosek ) .
+approval to writeoff the volume to unaccounted for gas loss
+thanks , clem

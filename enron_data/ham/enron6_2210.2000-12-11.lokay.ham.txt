@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:462b6b0d5f659ed7a1093d20a2189f1a311fe775018579244d43d361c5b92cc0
-size 251
+Subject: team meeting
+we ' ll have a 1 hour team meeting on tues 12 / 12 at 9 am . audrey is getting a
+room . let me know pls if you have a schedule conflict .
+agenda
+project updates
+eol strategy
+maybe prc update
+vacation schedule update
+etc .

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:67ddb50bcd42deac669a45138d570fef20e157657c5b581a90a80f2a2cd6bb1f
-size 413
+Subject: send out five motor
+att : client id 4551 :
+referring the case number : # 414822 of mon , 22 nov 2004 09 : 35 : 06 - 0100
+we recently received the mor t gage application and your request
+was a p p roved with 3 . 8 percent
+[ the application is waiting for your confirmation ]
+if you authorize the process , please enter additional info
+continue
+http : / / www . nlcomp . com /
+thank you .
+fidel

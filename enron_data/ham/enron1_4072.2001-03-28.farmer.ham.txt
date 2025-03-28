@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f694072ea1ff58e9110ad8e5bc479af0954d29bfde819bb1bc0a052884ccfde
-size 146
+Subject: kcs resources nom - april 1
+the nom for kcs resources ( deal # 125822 ) at meter # 9658 has been revised
+from 7 , 129 to 5 , 500 .
+bob

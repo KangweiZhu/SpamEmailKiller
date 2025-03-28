@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4032b5b34ae5c0284e977bebbc439fea79f90b14ee7eb6fea258b970a878c510
-size 376
+Subject: my resume
+hi , dr . kaminski :
+glad to get your reply . here is my resueme . if you wanna know more
+about me , please feel free to contact me . thanks .
+zhendong xia
+georgia institute of technology
+school of industrial and systems engineering
+email : dengie @ isye . gatech . edu
+dengie @ sina . com
+tel : ( h ) 404 - 8975103
+( o ) 404 - 8944318
+- cv . doc

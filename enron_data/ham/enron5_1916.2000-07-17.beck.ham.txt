@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32fa55c61a655ef7771950e90047ac3cdfd20982e64e226c69759a2fea59f864
-size 356
+Subject: revised draft of the risk management fundamental controls
+john
+i have attached a copy of the redraft of the one pager - let me know whether
+the format and content is consistent with your aspirations for it ' s use ! !
+thanks
+mike
+ps - i am in new york at mg offices with brent for next 2 - 3 days , whilst i
+will not have email - brent will

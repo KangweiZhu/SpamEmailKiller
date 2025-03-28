@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fa29b6fbe81557cd543c76946a3c98b8ba640f69295d825aff0c758e1db8d126
-size 176
+Subject: 2001 gain calculation
+louise ,
+per your request . let me know if you have any questions . also , i need to clarify a point on new albany gain / loss .
+thanks ,
+don

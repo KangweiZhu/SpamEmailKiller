@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d92daac48f073ccc22eb47d0b1413fb7d76f300747f4bdf1e710234cdb4a8503
-size 207
+Subject: revised noms - four square gas
+daren ,
+four square gas revised their noms for july as follows :
+meter # orig nom rev nom
+6599 1 , 322 0
+1568 7 0
+6844 3 , 822 0
+do you want me to adjust ?
+bob

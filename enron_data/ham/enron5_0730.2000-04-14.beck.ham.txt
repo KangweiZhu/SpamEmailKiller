@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e2d0b8bacbfed794bd4e21f7759f95e8d05bde9fc399c65101f1558567cc44e
-size 107
+Subject: mariner - door step
+attached is a preliminary assessment of mariner based upon our april 6 review

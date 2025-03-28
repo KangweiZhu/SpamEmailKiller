@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:407c2b4831f4c20fc0d262744ff26c480db8c4bc11936034e2e5ad2fe36d6340
-size 500
+Subject: request submitted : access request for rakesh . bharati @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000013287
+approver : stinson . gibner @ enron . com
+request create date : 1 / 10 / 01 5 : 57 : 18 pm
+requested for : rakesh . bharati @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

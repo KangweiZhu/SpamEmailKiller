@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7852af5e382dbbba599a461977266ec7b835036a3e1045c9c1de6b0099793dd
-size 334
+Subject: nom chnage - 7 / 8 / 2000 - eastrans
+please increase deliveries to eastrans to 60 , 000 mmbtu / d for 7 / 8 / 2000 .
+the redeliveries will be :
+7 , 800 from fuels cotton valley
+25 , 000 to pg & e
+25 , 000 to hpl ' s cartwheel at carthage
+2 , 200 to mobil beaumont
+detm will have 4 , 000 mmbtu / d to sell at carthage .

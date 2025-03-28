@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97e86ce83eda9559c02aad4bbcbbc4d546e46ab4984c86b52830815087bba129
-size 226
+Subject: nepco project status
+louise and john ,
+attached is an excel file with the status of nepco ' s portfolio of projects at september 30 , 2001 . please contact me if you require additional information .
+regards ,
+dave

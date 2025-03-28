@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1cf4de82270e1ed4eb2b0beb5096493edc44b0af965202123d3fa97d9b7214f
-size 134
+Subject: erequest
+attached is a copy of the procedures for using ' erequest ' .
+please let me know if you have any questions .
+carl

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:491dfdfe93939b55ea1c3c54a1d80cdcf56f9c03777c51a17a8f8403365edf33
-size 198
+Subject: replacing our people who have left
+louise - -
+is it appropriate to replace the people who have left ( steve walton and susan scott lindberg ) with other people that can do the work ?
+jim

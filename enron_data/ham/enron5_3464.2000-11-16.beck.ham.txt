@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7f2d492b375bcff24ea21c4e70475c9662c98e73a93f3e1a4575c9461148f701
-size 426
+Subject: request submitted : access request for steve . moen @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000007593
+request create date : 11 / 16 / 00 11 : 21 : 54 am
+requested for : steve . moen @ enron . com
+resource name : eol us backoffice product data manager
+resource type : applications

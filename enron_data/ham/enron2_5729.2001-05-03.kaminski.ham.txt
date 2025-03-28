@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3183b8cd99ca243e3e95d522c3829b847b9decb8a8c680faf2e90ed71596d9bc
-size 431
+Subject: moddeling support for dpc related issues
+a quick update on the status of sandeep kohli .
+he is working currently in my group . he is available on a very short notice
+to help you with
+any quantitative modeling that can be required in making decisions regarding
+our dpc strategy . in case you need his help , he can also rely on the support
+of other members of my group with skills in different areas .
+vince kaminski

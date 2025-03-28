@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9c957c7acbdde3c4dbdf566269049b0ecb3eab622e361e71b9ea828650d4ce9
-size 221
+Subject: books about thailand
+hello
+planning a trip to thailand ?
+like to eat thai food ?
+need to learn thai ?
+check out our recommendations at http : / / www . thaibooks . ch !
+new : we are featuring novels too .

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df18567cd9e4358ab946910daaf721302f468a0213ab21f39cfc51cb8eab8bb2
-size 318
+Subject: contract update
+sheila ,
+some minor differences between the draft and the final executed version .
+i have forgotten to bring the draft today , i shall send a copy to you
+tomorrow .
+there were some hand - written changes made by greg ijn the draft that were not
+transferred to
+the final version .
+vince

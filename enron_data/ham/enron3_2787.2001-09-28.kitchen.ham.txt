@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19269665c0eb81f6b95f49ec3d2f4c5eeb1895e2773b8bf19197d62969fb5c32
-size 253
+Subject: 2002 plan - non - commercial
+louise , i met with all the non - commercial business unit heads today to review ( line by line ) the 2002 budget . the accountants will revise the numbers today and we should have it to you shortly .
+regards
+rob

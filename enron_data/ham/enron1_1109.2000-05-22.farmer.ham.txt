@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ccaeeb5c6051464021398acd07801b54763011f317bf0d7a7a183e1ac1c47e8
-size 243
+Subject: meter 9794
+daren - during the saxet thompsonville outage , may 8 - may 11 , the meter
+flowed a small volume with no nom . can you set up a deal for the days that
+flowed ?
+5 / 8 . 012
+5 / 9 0
+5 / 10 . 087
+5 / 11 6 . 970
+- aimee

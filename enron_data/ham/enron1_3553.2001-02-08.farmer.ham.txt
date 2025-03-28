@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0e4c6a1ba592e1fe932f7ba512ed56db66c33c2f1b6657d297a2ca0902d84772
-size 639
+Subject: 2 / 07 / 01 gas flow
+we show the nom for teco tap to be 30 . 000 and the actual for teco tap is
+21 . 814
+- - - - - - - - - - - - - - - - - - - - - - forwarded by melissa jones / texas utilities on
+02 / 08 / 2001
+10 : 52 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+kponton @ duke - energy . com on 02 / 08 / 2001 09 : 06 : 50 am
+to : david avila / lsp / enserch / us @ tu , charlie stone / texas utilities @ tu , melissa
+jones / texas utilities @ tu
+cc :
+subject : 2 / 07 / 01 gas flow
+nom = 17 , 500 ( 6 : 00 pm started 60 , 000 rate & shut off at 1 : 00 am )
+actual flow = 21 , 076 mcf 21 , 814 mmbtu ' s

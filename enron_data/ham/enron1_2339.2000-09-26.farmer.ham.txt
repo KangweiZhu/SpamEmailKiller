@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:919e3ee4ab9e59c7bcb22d3528719e79c02ea02f59f829a9f6f9a35109fbf365
-size 343
+Subject: duke exchange deal - supply
+deal # 231757
+purchase
+the deal in sitara indicates that the price for east texas gas systems is
+hsc , index - $ . 085 .
+per the contract , the redelivery at etgs carthage hub tailgate should be
+priced at hsc index - $ . 0825 .
+are these the same points and is the price correct ?
+thanks
+katherine

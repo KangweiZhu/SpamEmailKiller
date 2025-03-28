@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8695a5f6a713bf4c1bbb23aade4147b77df146fe4e5767a2ab4fbf34ef9c273
-size 467
+Subject: intraday eastrans nominations change for 9 / 6 / 00 and nomination for
+9 / 7 / 00
+deliveries continue to be 30 , 000 mmbtu / dy
+the redeliveries will be :
+8500 from fuels cotton valley
+10955 to hpl ' s cartwheel agreement at carthage
+10545 at mobil beaumont
+effective for 9 / 7 / 00 , deliveries to eastrans continue to be 30 , 000 mmbtu / dy
+the redeliveries will be :
+8500 from fuels cotton valley
+21500 to hpl ' s cartwheel agreement at carthage

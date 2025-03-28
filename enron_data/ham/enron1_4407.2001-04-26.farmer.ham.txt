@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b27bafd5d98336f57cf617aabd874e4a399ef576a6e8d0458af84f9a39369d4f
-size 311
+Subject: meter 1558 april 2001
+cerrito lastiendas - has meter flow on the 7 th and the deal ended on the 6 th . can we extend the deal for the 48 mmbtu ' s that flowed
+or can i override the meter and add it to a day that flowed less than the nom ? the third had 4861 and the nom was for 5000 .
+thanks - julie

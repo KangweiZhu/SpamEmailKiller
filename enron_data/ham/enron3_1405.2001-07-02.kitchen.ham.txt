@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85e53064579b3f37583997333dd01c2278c9474e214c1f39690e2e456f7faf67
-size 141
+Subject: article in gas daily
+louise ,
+did you see the article on enron compression in gas daily today ? it was on page 3 .
+regards , mrha

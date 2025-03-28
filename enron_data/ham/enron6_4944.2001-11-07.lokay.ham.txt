@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e399456a3594a3b84726054bdb38bbe086f7c69324f2e19efa2df908eea5e1ce
-size 267
+Subject: el paso outage now through november 20
+el paso said the pecos river station ' s # 2 turbine will remain down longer than planned due to damage discovered during an ongoing overhaul . capacity through pecos river will be cut by 60 mmcf / d through nov . 20 .

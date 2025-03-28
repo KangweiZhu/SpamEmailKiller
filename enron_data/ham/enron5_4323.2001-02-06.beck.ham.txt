@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fed83fdbc26c2a3713a07f917e54aca56d24fca4e5c2aae401a36cdbe53f3f46
-size 756
+Subject: distribution version of risk mgmt policy
+i ' m not sure how or if you ' re planning on distributing to the business unit
+controllers or other ops people the updated risk management policy , but i ' m
+attaching a version without the limit amounts as this is what we use to
+distribute to people outside our group ( of course we tell traders their own
+specific limits , and the top guys can see the consolidated dpr , but for
+everyone else we provide it without limits ) . i did send it to wanda curry
+and barry pearce , but i ' m not sending it to anyone in your org chart unless
+you ' d like me to . i ' d like to get this out on the rac website , but since
+it ' s a work in progress , i think it might be a while .
+regards ,
+cassandra .

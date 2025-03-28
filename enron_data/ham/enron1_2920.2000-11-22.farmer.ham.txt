@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24c323e85f2835729fc533213fb52982c20b1bc8d847ce7ccb1f23cfc44e8e81
-size 340
+Subject: txu fuels / sds nomination for december 2000
+attached is the december 2000 nomination for our takes under the gas sales and
+purchase contract between txu fuel ( previously tufco ) and sds . please advise
+should you have any questions concerning the attached .
+thanks ,
+ccs
+( see attached file : sdsnom . xls )
+- sdsnom . xls

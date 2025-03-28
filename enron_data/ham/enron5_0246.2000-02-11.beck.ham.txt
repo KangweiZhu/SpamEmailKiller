@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4ae1657342ade35cb1aad95fb498707b7bb79f10d45ff7e467daf4ef6dc4ceb
-size 566
+Subject: review of business unit internal controls
+- - - - - - - - - - - - - - - - - - - - - - forwarded by veronica valdez / hou / ect on 02 / 11 / 2000
+04 : 06 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ted murphy
+02 / 11 / 2000 04 : 06 pm
+sent by : veronica valdez
+to : rick buy / hou / ect @ ect , richard causey / corp / enron @ enron
+cc :
+subject : review of business unit internal controls
+attached is a document that i am not sure is entirely necessary ; however ,
+depending on the response will indicate the need for implementation .

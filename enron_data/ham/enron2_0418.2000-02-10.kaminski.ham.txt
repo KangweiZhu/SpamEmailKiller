@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6175c601a9fff8d4d9a8a2ee5fb98985c25baf1984db6bfcac50c695938010ba
-size 87
+Subject: my resume
+vince :
+attached please find my resume .
+thanks ,
+ding
+6 - 7072

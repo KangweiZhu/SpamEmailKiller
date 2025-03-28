@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:60b820917b61a418f0c662c3a351db0f6c62f09cab8f1a75258654156d05dfe1
-size 754
+Subject: schedule crawler : hourahead failure
+start date : 1 / 22 / 02 ; hourahead hour : 22 ; hourahead schedule download failed . manual intervention required .
+log messages :
+parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002012222 . txt
+error : dbcaps 97 data : cannot perform this operation on a closed database
+error : dbcaps 97 data : cannot perform this operation on a closed database
+error : dbcaps 97 data : cannot perform this operation on a closed database
+error : dbcaps 97 data : cannot perform this operation on a closed database
+error : dbcaps 97 data : cannot perform this operation on a closed database
+error : dbcaps 97 data : cannot perform this operation on a closed database

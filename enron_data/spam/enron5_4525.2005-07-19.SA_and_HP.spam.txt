@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32e31caded831a1dae36bb5e392f1d9d17c29c4f5d941bef054b3a92378445c2
-size 432
+Subject: returned mail : host unknown ( name server : - - - - - - . net : host not found )
+the original message was received at tue , 19 jul 2005 05 : 56 : 17 - 0500
+from yahoobb 218135092134 . bbtec . net [ 218 . 135 . 92 . 134 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+- - - - - transcript of session follows - - - - -
+550 . . . host unknown ( name server : - - - - - - . net : host not found )

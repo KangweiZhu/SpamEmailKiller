@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0772b3cf5c0a681aebe88d5080069411ad7ae3f3f7f9446c7af525322a2a0cea
-size 821
+Subject: ethylene margin collar model
+dear all :
+let us meet early this afternoon .
+here is the overview of the model :
+1 ) the ethylene margin collars are priced using asian spread option .
+the forward curve and volatility curve are provided by the desk .
+the correlation between the ethylene and ethylene cost starts from the
+historical spot correlation 50 % and grows with the maturity .
+2 ) the overall 40 mm payout cap is modeled sepereately .
+i fitted the historical spread ( 10 years data ) to a mean reverting model
+with stronger mean reverting strength on the floor side . the model
+produces
+trajectories that are statistically simular to the historical data .
+then the expected payoff is computed through simulation .
+at the meeting we will discuss the assumptions and present the results .
+zimin

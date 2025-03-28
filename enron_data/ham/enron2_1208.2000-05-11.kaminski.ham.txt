@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75a2c18b29befaf92cce640d1ee03d46eea682d340f14191fbfbee1aac42a2ac
-size 156
+Subject: conference
+steve ,
+the slides are ok . how are the negotiations with risk proceeding ?
+they had recently many changes ( firing people ) .
+vince

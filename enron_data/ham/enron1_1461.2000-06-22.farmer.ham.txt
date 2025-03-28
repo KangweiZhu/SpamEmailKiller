@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f02031af1379b83d5257605f2d1f9c08b21c5ffc0041a7becaa09826e045d2bc
-size 140
+Subject: hpl noms for june 23 , 2000 revision # 1
+revision for texoma .
+thanks .
+( see attached file : hplo 623 . xls )
+- hplo 623 . xls

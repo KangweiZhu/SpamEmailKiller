@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07c4d1825f1f3a691942a6f18d59a333e09bc8f17ca12c69c176f9d69ffb1e1b
-size 294
+Subject: labor distribution report
+daren ,
+i get a labor distribution report and show that kenneth seaman is showing as
+being active for payperiod 1 and 2 in february . if he was not here for this
+time period please verify that you are not being charged any payroll dollars
+for him .
+lisa

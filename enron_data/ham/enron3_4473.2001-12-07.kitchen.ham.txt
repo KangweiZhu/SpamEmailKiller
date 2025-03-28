@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a42e1e01f57fa2c23092696c517286215ec494afddef1bfa1187ac1f96a5e66a
-size 319
+Subject: fw : strictly confidential
+here is the info for the commercial staff
+john z
+- - - - - original message - - - - -
+from : milnthorp , rob
+sent : friday , december 07 , 2001 11 : 20 am
+to : zufferli , john
+subject : strictly confidential
+john , please check with louise as how to get the attached to her .

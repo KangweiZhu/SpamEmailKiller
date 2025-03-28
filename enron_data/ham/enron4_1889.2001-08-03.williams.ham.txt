@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fccc7f9b8936a94005fe9745fda44311634dd4c432dcd144e77b15a08f66db6f
-size 215
+Subject: jargon is . . . .
+2 : the technical terminology or characteristic idiom of a special activity or group
+3 : obscure and often pretentious language marked by circumlocutions and long words
+bottom of form 0

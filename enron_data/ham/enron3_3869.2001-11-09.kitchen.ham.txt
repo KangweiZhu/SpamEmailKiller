@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1c2e8ebb6f00bcfdd84bd8dfb575718560dc6f936e430538b8d81ecfa983ca7d
-size 291
+Subject: weak trading numbers
+hi louise ,
+we ' ve done 3627 trades today , about 650 fewer than yesterday at this time , and 2200 fewer than wednesday . since 1 : 00 , we have done 84 trades , compared to 253 and 552 in the same time period thursday and wednesday , respectively .
+- - jay

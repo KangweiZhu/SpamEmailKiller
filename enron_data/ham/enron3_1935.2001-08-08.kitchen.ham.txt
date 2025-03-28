@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5bdaf1042e7adb6726b6ab290ad425b87da4cebc38fef43a1870097fff1878db
-size 502
+Subject: transformer monitoring
+louise :
+i know this is a difficult time for enron given the incident at teeside , but i wanted to let you know that principal investments actually has an investment in a company called serveron ( www . serveron . com ) which makes a product that monitors transformers for risk of failure . this product / service may be a worthwhile investment at our facilities given the unfortunate accident of today and our desire for a superior safety record .
+regards ,
+charlie

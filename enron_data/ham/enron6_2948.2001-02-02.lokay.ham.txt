@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24cf344eb6b6883b074d6b09fb77be3c67dbc64fc2231d3c0bb4a557b88056bf
-size 121
+Subject: lft form changes
+there were some modifications to the lft form i sent earlier . this was re - posted 2 / 2 / 01

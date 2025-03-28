@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c6f9245d87d61e47363f93826332e9585cfdbd120532fb0928ef010be0b166a2
-size 525
+Subject: re : template for a proposal
+mark & todd
+vince and i have been working along those lines and have narrowed the search
+to ( 1 ) scripps institution of oceanography , ( 2 ) lamont - daugherty earth
+observatory , and ( 3 ) cola - center for ocean , land and atmosphere . we have
+contacted the principles at each of these institutions , made on - site visits
+to the facilities , and verbaly explored preliminary research program
+proposals .
+perhaps we could meet next week to coordinate this effort .
+- - - mike

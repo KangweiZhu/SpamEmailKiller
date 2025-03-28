@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e66037050ed8091e257c6f7e012b5337c66134618595bf10fa5d56a198273e4c
-size 438
+Subject: welcome new hire : john anderson
+we have a new addition to the portland west desk :
+john casey anderson has recently joined the real - time trading group .
+prior to working at enron , john worked as a registered assistant with kms financial services , inc . he is a ' 01 graduate of the unversity of washington with a degree in business administration - - economics .
+please join us in welcoming john to our portland office !

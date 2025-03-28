@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:346701572d70910626a070146076433670321fec50a2908a4f965004d7778134
-size 281
+Subject: entex transaction 7
+for december 1999 , since the volumes for transaction 7 ( contract 306 ) were
+actualized at 259 , 093 , which is greater than the max monthly of 248 , 000 ,
+please reallocate the excess volumes to transaction 10 ( contract 301 ) at
+i + . 769 .
+ami

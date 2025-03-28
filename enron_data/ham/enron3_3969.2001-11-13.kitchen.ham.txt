@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4abe76d86a6e1e931d2f23943b098a26f142209a05c328bf27ed5033fb6a1fb
-size 262
+Subject: new york event
+good afternoon ,
+customers are calling about the new york event and a decision needs to be made . frank and i would still like to proceed , as planned . please reply with your approval or decline of this event .
+thank you ,
+laura luce

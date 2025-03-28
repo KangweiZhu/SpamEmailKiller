@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f34b8a261849aefa9486b7a481f6ab432080f3099f1e2a4112acb7b8395ba98
-size 378
+Subject: rooming list for enron offsite
+candice :
+listed below are the individuals that will be attending the offsite , august
+18 -
+20 , 2000 .
+vince kaminski
+stinson gibner
+p . v . krishnarao
+grant masson
+zimin lu
+vasant shanbhogue
+mike roberts
+maureen raymond castaneda
+tanya tamarchenko
+osman sezgen
+samer takriti
+shirley crenshaw
+regards ,
+shirley crenshaw

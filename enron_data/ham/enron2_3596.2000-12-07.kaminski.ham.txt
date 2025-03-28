@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c785bc293b931554d7dd0e2ced0c8c863a225458ee849b4cc5cabc309439dba6
-size 432
+Subject: user id and password update
+dear subscriber ,
+? ? ? ? ? ? ? ? institutional investors newsletters is in the process of upgrading
+its web sites backend database . ? we have found that you have different user
+names and passwords for the following newsletters :
+derivatives week ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? http : / / www . derivativesweek . com
+power finance ( 212 ) 224 - 3491 fax
+nhumphrey @ iinews . com

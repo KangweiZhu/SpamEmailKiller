@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bfbf68246e530df3e009afa94c8e723ddbdd64d1136bc09a3651a1323a137958
-size 346
+Subject: calpine force majeure
+attached is a summary of the days calpine has claimed force majeure beginning
+7 / 1 / 99 .
+the file is located in the 99 calpine directory under logistics if you wish to
+make changes .
+i left cells blank where i could not locate the information .
+please let me know if you have any questions .
+thanks ,
+kris

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:183312184ce9e808cd022f8a83c361d62b3afee1ec967880eda3195ee54ab3b4
-size 364
+Subject: draft dash of dwr
+louise ,
+per the request of bill bradford , attached please find an initial draft of the dash for the dwr put option . please note that we are waiting on a final , legal risk memorandum as well as comments from jim steffes for the regulatory risks .
+please let us know if you have any questions or initial comments .
+regards ,
+tracy

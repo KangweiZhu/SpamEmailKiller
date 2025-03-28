@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53915bf5511d90979e5399725cd2cf2cbd79ffea07c7d8e6d7ee48ebcb8fc1f8
-size 277
+Subject: sec var
+aa informed me that the hedges on the new power company warrants that were
+monetized in the hawaii 125 - 0 mcgarret swaps were put on october 4 , not in
+september . accordingly , i have recalculated total return swap var for
+september .
+regards ,
+eugenio

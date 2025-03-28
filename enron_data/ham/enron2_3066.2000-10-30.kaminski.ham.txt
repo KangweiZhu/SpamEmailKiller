@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1a560edaa362f1ba6eec1d92a348cd15bb6f65eb4c2cbf8b4fd42aa1e2051d5
-size 380
+Subject: approval for reviewer
+krishnarao , pinnamaneni v has suggested reviewers and submitted them for your
+approval . your may review / modify this list of reviewers by logging on to pep
+at http : / / pep . corp . enron . com and going to supervisor services . please
+remember , no feedback can be completed on krishnarao , pinnamaneni v until you
+have approved the list .

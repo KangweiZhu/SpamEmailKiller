@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e96329b185321a809521585bc8754d5c88cf4b9a9d036f943ba4f21dd6443b16
-size 183
+Subject: eletrobolt - q & a
+louise :
+attached is the q & a for eletrobolt . it is still a work in progress - - so i will update it with the final version when it is ready .
+ranabir

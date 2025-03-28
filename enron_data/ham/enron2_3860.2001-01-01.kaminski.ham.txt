@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbd9dd3dea7a6decedb8a6ca2abc124476889cf374e586f4267577163733b6d7
-size 293
+Subject: merry christmas
+dear mr . kaminski ,
+in the name of all the mscf students i would like to wish you and your
+family a merry christmas and a happy new year . thank you very much for
+taking the time to come here and talk with us . it was greatly appreciated .
+best regards ,
+pierre

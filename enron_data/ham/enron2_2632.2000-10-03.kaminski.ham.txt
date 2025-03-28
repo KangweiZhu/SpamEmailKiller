@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70db342523d4e6145c5577d1f56b7ad8c5f8c47e08bd76f59c708a8bcbf1e48d
-size 429
+Subject: re : joint probabilities
+michael
+the updated probabilities are attached . the probability of reaching any fx
+times rab multiple are the same as the original analysis . the probabilities
+of reaching a given stock price are lower than the original analysis in both
+the optimistic and pessimistic cases because the debt levels are higher , and
+hence the stock value is lower for any fx - rab value .
+bob lee
+x 35163

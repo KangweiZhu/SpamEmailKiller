@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce20a5ab86d43a8c27b7cddc26bb16e8579ebc9fe5bb17c4b6b5ec63a395bc49
-size 431
+Subject: summer internship
+hi ,
+i ' d like to thank you for the opportunity of letting me work here this
+summer . i ' ve learned a lot in the past three months and hopefully have been
+of some help around here . i was very impressed with this department , and
+enron itself , and i really appreciate the chance for me to have worked in
+such an environment .
+so anyway , thank you and i wish you and the department well ,
+brad

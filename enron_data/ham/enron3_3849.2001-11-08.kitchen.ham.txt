@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:473a51bdefa66e9798f813972d1ee55aa604f4d9b313aa08bd062b8973330429
-size 78
+Subject: help
+i know you must be swamped .
+let me know if i can help .
+dave

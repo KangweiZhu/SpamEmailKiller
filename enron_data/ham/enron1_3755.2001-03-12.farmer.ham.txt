@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce17779ee40506238a05875140b46d5e4f2cfd293b11a15ad1d8622196a15514
-size 347
+Subject: duke energy field 8 / 00
+please change the demand fee on deal 157288 for 8 / 00 from $ 9 , 575 . 45 to
+$ 6 , 143 . 64 . we need to reduce our payment to duke . when i adjusted the over
+delivery charge on the days we didn ' t nom , the demand amount changed . i
+waited until duke agreed before i sent you this change .
+thanks ,
+megan

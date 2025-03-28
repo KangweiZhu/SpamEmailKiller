@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:579fb0eed012445433ae70e7383ea36e619d803161bbe273cacd1e844f18467f
-size 269
+Subject: out of office
+i have an appointment today and will need to leave the office around 3 pm . . i will be back in the office on friday .
+if you need anything before 3 pm let me know , otherwise debra will be here for any assistance you may need .
+thanks ,
+jill

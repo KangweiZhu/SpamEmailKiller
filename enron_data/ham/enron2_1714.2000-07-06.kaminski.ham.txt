@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5eebc21d8301b52e995be9f32ebe7ab5d9f687bdf72b70097fbfd9577ab2c15
-size 377
+Subject: re : price processes for ng
+grant & vince ,
+i am sending you the results of fitting different price process models into ng
+prompt month prices . the fit is quite good for some models .
+we might think of using these mean - reverting jump - diffusion models in our
+credit model .
+i should examine other contracts behavior ( beyond prompt month ) as well .
+tanya .

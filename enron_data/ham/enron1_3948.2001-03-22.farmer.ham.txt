@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c512f601a57f165ecdc92b215abcf067d6e4301d68ef7f27affcabb182958386
-size 403
+Subject: calpine daily gas nomination
+still under our scheduled maintenance outage , calpine will run the plant
+baseload testing the a unit using an estimated volume of 88 , 000 mmbtu / day .
+unit c will go off at midnight saturday . the estimate for sunday and monday
+will be around 65 , 000 mmbtu / day . please call if you have any questions .
+thanks .
+>
+- calpine daily gas nomination 1 . doc

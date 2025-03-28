@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b44f2a2409a1eaab1d24b0c76ce9a729efd5cedfbf48d1d1bc30896d051e9bc0
-size 546
+Subject: research support in london
+vince ,
+steve leppard informed my today that he will be moving to enron metals . i
+think that leaves a leadership hole in research here . when that happens in a
+place like this , resources get diverted to the squeakiest wheel . do you have
+any advice ? i am concerned that london continues to lag behind in the
+implementation and analysis of var - most commodities are on spreadsheets and
+there is not a lot of attention on calibration , analyzing output , refining ,
+improving etc . .
+pls advise
+ted

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a60e36439d63ee7aea064849248595ed9ddd7df4d1ef1d45d8dd55b647842a4c
-size 258
+Subject: japanese electricity trading limit memo
+joe ,
+sally is out of the office , but wanted me to forward the message that she had
+reviewed the draft that you put together regarding power trading and she
+doesn ' t have any comments .
+patti
+x - 39106

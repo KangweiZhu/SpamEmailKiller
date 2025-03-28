@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab470fb6115596c9437c4de09b5b90743dd99f64bc1ac57e90cb030339737fa7
-size 365
+Subject: meter 74 , december bridgeback error
+daren :
+i have an error for transco bammel for that 20 . 0 / day on days 23 through 27 -
+do you change the volumes as they are sent back ?
+the volumes are :
+23 133
+24 20783
+25 20738
+26 20787
+27 20123
+thanks !
+charlotte
+ps i have to be clear by noon tomorrow . . . . . . . . . . . . . . . . . . . . . . . . .

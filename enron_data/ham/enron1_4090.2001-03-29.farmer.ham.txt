@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4bdfcde9fdaafd3fee8d1d57c6838c18c775fef9fb5d8f795d787183f83dacd
-size 193
+Subject: enron / hpl actuals for march 28 , 2001
+estimated actual for march 28 , 2001
+teco tap 20 . 000
+when we receive the numbers from duke i will forward the true actual numbers to
+you .

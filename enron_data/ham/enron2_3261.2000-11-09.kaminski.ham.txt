@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5aab7bb2744331c9c9d801c0a1c33be498a709031aec47a1c308404152335f5
-size 287
+Subject: technical writer position
+just a note to confirm that we will cease recruiting for the new technical
+writer position that was being considered . i will notify the candidates who
+have been interviewed , but please let me know if you would like us to do
+anything else .
+molly

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:22c62f6a96fae2561609703ad87f491a4bc7186eaa0404e5d09b6535cd2d170f
-size 137
+Subject: hpl noms for june 08 , 2000 revision
+disregard the first one sent ! !
+( see attached file : hplo 608 . xls )
+- hplo 608 . xls

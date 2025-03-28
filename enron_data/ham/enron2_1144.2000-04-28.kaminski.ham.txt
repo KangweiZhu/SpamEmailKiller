@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6dba5c76699d6046191f41b9cfc8a2af2f4855062973a947457dae401402277c
-size 417
+Subject: move locations
+sorry ,
+the churn has been turned in as of 4 / 15 / 00 therefore locations
+are as follows .
+tricia tlapek - eb 3273 a
+vince kaminski - eb 3273 b
+sam smith - eb 3273 c
+michael sergeev - eb 3274 a
+jason sokolov - eb 3274 b
+vacant - eb 3274 c
+this is where all equipment and items should be labelled .
+i am so sorry that we could not make changes on short notice .
+thanks
+kevin moore

@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:220709e5901f655860a1761d124d36fecadc7cb46f5ccf833b2a40118b4834a7
-size 920
+Subject: performance management process - new password
+according to our system records , you have not yet logged into the enron
+performance management system ( pep ) . as a result your temporary password
+for the pep system has expired . your user id and new password are provided
+below .
+during the feedback phase you will need to access pep at
+http : / / pep . corp . enron . com to suggest reviewers who can provide feedback on
+your performance . you may also be requested to provide feedback on fellow
+employees , but the system will only be open for feedback until november 17 th !
+helpdesk representatives will be available to answer questions throughout the
+process . you may contact the helpdesk at :
+houston : 1 - 713 - 853 - 4777 , option 4
+london : 44 - 207 - 783 - 4040 , option 4
+e - mail : perfmgmt @ enron . com
+your user id and new pep password are :
+user id : 90012899
+password : ktdvwcch

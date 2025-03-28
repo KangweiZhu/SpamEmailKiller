@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba6a9582db4f33b38476a8fe2896b05f21052d69f379ceabbfebf060949bd9cf
-size 316
+Subject: metals curves
+hi maureen
+i hope you ' re keeping well . london research has been asked to validate the
+long - term copper ( and other ) forward curves being used by mg . clearly this
+lies outside our domain of expertise ( being economics ) , so i ' ve referred tani
+to you .
+speak to you soon ,
+steve

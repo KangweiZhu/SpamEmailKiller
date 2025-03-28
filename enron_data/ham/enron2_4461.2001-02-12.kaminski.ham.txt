@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:15154d73fcdfefc50a0f6ca4fc2945c40d9ff0a72b4b76d341ac6d14fe51dd99
-size 394
+Subject: praca dyplomowa
+niniejszym potwierdzam , ze nastepujacy studenci zlozyli prace dyplomowe :
+jerzy seremak prezentacja instrument ? w analizy finansowej jako
+podstawa oceny wybranego podmiotu
+w kr ? tkim i dlugim okresie czasu ocena : bardzo dobra
+waldemar mr ? z controlling w przedsiobiorstwie ocena : bardzo dobra
+t . blach analiza wskaznikowa ocena : bardzo dobra
+w . kaminski

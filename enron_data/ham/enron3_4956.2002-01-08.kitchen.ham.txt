@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0514077f653de0e0d90abf36952debabdf39d572f5ac14c4827b6a635f999f8b
-size 545
+Subject: maple leaf attendees
+below is a list of maple leaf ' s due diligence team
+joe hegener - - ceo , td securities ( usa ) inc .
+mark healy - - cfo , td securities ( usa ) inc .
+tony solomon - - managing director , corporate development
+george laub - - managing director & group head , mergers & acquisitions
+raj syal - - managing director , human resources
+julian bott - - managing director & group head , select industries
+anthony hull - - managing director , derivatives
+ross macdonald - - vp & director , global technology
+mari

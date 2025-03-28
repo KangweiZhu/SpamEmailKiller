@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57aec04838fd91d877f19642b160ca05ab15f2f703b0b9b012274ebe5430cd48
-size 308
+Subject: bayer - march 2001 volumes
+just want to make sure volumes are allocated to two different tickets correctly for march :
+sitara - 572910 - gets 50 , 000 mmbtu total for the month . . . . after 50 , 000 on this ticket , all remaining volumes go to . . .
+sitara 643510 - the swing ticket
+thanks
+lee

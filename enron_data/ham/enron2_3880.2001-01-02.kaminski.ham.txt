@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12fdde54ac76b24bf18db118a126edb636d621d47ddebc9cb2f5beb837b87a48
-size 335
+Subject: today ' s project list
+please , use a new template stored in the plans 2001 folder
+for today ' s project lists .
+over the last few weeks we had several parallel
+copies of the same file floating around .
+i have updated he list of group members in the first sheet .
+please , make sure i have not omitted anybody .
+vince

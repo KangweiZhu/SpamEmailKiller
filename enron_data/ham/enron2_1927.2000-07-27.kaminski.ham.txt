@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6356c9ca2ca8ba9ce16310eaba4360bc2d127b0b076c7cb00c50b2198aa6606f
-size 286
+Subject: grant ,
+would you take a look at the following correlation matrix ? does it make sense ?
+ps : this is an updated correlation matrix with gold and silver correlations .
+i used bloomberg ' s generic closest month gold and silver contract prices for
+the correlation analysis .

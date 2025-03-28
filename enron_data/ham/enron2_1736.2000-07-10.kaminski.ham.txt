@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e6e88fcdcb1eb6214d4403d6847d754b361abc58dbb839490b1e71b8daf14e0
-size 622
+Subject: subscribe
+this message has been automatically generated in response to your
+mckinseyquarterly . com registration .
+you requested notification about new articles in the categories
+listed below . to confirm your enrollment , please reply to this
+message and remove any / all characters that may preceed the
+word subscribe .
+subscribe economic - performance
+subscribe retail
+subscribe environment
+subscribe countries
+subscribe strategy
+subscribe interviews
+subscribe financial - institutions
+subscribe energy
+subscribe telecommunications
+subscribe corporate - finance
+subscribe electronic - commerce

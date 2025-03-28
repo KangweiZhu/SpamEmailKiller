@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aa4e42900e848ad501c1b2b2d9d7bb303b16d87905529d3cf3ae8576c773362b
-size 422
+Subject: request submitted : access request for wes . williams @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000008582
+request create date : 11 / 29 / 00 12 : 26 : 42 pm
+requested for : wes . williams @ enron . com
+resource name : eol us backoffice data manager
+resource type : applications

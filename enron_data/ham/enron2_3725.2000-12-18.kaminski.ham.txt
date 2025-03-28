@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:652d16ce53ae5c67f0dcfa7ac14f27ff65e352cf938ba6db0396bb2488a38d95
-size 352
+Subject: carnegie mellon candidates
+kristin :
+we are sending the interview request form information to molly magee to
+bring the following two candidates in for interviews :
+frank ( feng ) qian
+punit rawal
+we have no further interest in the following two candidates . do you handle
+contacting them ?
+heap - ho tan
+kyubaek heo
+thanks !
+shirley

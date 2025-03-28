@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aba7d6b7fbfe4268d9006ae683df0bf01ce8d66b738ff1f7959fe31403d6950c
-size 208
+Subject: teco _ gas _ issues . xls
+here a preliminary list of items that need our attention . if any of you have action items that need attention please add them to the list and forward the list back to me .

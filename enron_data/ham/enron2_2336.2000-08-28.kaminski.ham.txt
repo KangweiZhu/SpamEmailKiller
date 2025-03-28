@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d49d6974582a290b06494747a2073fb02512c48f5285eb8f4bb049b47ca50a3c
-size 150
+Subject: accounting adjustment
+kim ,
+fyi . i checked on the progress of the accounting adjustment and was told it
+would happen
+this month .
+vince

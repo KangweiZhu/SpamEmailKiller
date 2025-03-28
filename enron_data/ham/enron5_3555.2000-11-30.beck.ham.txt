@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1c0d035aa77ee7616324c6a9c8d54af9e19fd31532173111c3d2d17e29967043
-size 274
+Subject: accomplishments for 2000
+i wrote the december self evaluation thinking the review would focus on the
+last six months only . please use both files when considering my performance
+for the whole year .
+let me know if you need more information .
+regards ,
+eugenio

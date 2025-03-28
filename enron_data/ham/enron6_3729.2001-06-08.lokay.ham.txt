@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac2acf71c3df7732a64ef885127c46853c7d0cb82bff239811dfe9ea2afa3baa
-size 40
+Subject: just for fun
+- atto 0136 . gif

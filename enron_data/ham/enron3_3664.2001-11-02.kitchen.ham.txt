@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc5e30c652b4fa5c4db4109bc0da35e394f4c2a80c2aea910fd7a348be103008
-size 467
+Subject: re : read : master netting status request
+i am working on two master netting agreements , el paso and duke .
+credit is reviewing a rough draft ( w / o credit terms being filled in ) of the el paso netting agreement prior to sending it to the counterparty . ( i will be coordinating this counterparty with lisa mellencamp . )
+we are waiting for instructions on which entities and contracts will be included in the duke netting agreement .
+regards ,
+brent

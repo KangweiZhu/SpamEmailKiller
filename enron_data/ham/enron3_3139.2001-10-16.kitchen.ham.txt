@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e28497f323ea2da83976cebc01fac3a2ce4b574c0b811fece56048a70acd301
-size 110
+Subject: ees
+examples of ees working in ena territory seem to keep coming .
+anything further on this ?
+dave

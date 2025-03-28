@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:174aabd4f8bc2a391958fe775ab7f2520af126a4b1ae2e0621a0553a7f56dc97
-size 374
+Subject: friendly notification
+let 5000 lenders compete to give you the lowest rate !
+1 . complete the fast short form here .
+2 . database will match you with a few selected licensed lenders who will compete to give you the lowest
+rate .
+3 . compare free customized rate quotes and offers .
+your free short form is here .
+for removal instruction , please visit here .

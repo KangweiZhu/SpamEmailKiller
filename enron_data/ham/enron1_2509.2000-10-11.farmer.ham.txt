@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b87c38f8957b08d4c8db61077ce6a8d7e9a0396bb26f00790c31c89274b322a
-size 231
+Subject: gas management agreement
+daren ,
+will there ever be a need to utilize transport to get supply to the plant
+other than through the 2 lone star agreements ? if so , would we be using
+tenaska transport agreements or ena ?

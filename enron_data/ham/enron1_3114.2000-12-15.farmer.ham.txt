@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ff2964aa88b22d18eeee1d8cae5029fe61e818bf40bd679c89334db7f03e8c7
-size 223
+Subject: hpl nom for dec . 16 - 18 , 2000
+previous nomination had dec . 15 , 2000 , in the subject line , but the attached
+file had the correct effective dates .
+( see attached file : hplnl 216 . xls )
+- hplnl 216 . xls

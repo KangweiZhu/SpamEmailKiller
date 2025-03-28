@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f757bbb803d0b9499226cf48e40ac2e092a713751abce17e7fa1a9c11b6aa36d
-size 631
+Subject: dwr option expires
+fyi - we proposed several alternatives to dwr that would effectively extend our put swaption through the end of april for a cost to ena of approximately $ 5 mm . none of those were acceptable to dwr . the option will therefore expire at 5 : 00 ppt today . vikram budraja , advisor to gov davis , suggested that we are not dealing in good faith and suggested that he will speak with ken lay ( we have heard this several dozen times ) . in any event , i expect to talk with dwr tomorrow to propose a short - term transaction . they might accept it , reject it or prefer one of the term option proposals .

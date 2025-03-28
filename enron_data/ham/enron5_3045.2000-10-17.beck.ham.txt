@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3dda05afe233f0cca18cb608d81b406b5cbd1439f43920725777e04d10883216
-size 425
+Subject: doorstep - rac responsibilities
+upon further consideration , the ongoing responsibility of doorstep activities
+will fall to the market risk ( ted murphy et al ) group within rac . my original
+intention here was to streamline a costly and time consuming process and for
+whatever reason it seems the exact opposite goal has been achieved . please
+discontinue any activities related to this project . thanks , rick

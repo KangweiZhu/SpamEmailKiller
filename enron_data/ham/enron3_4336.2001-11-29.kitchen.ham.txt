@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:100a8ea0ff960b1ba032b3f51d80dc8c44a26c38e5f460e2e360658322fc67d7
-size 175
+Subject: bank details
+louise -
+here is your account information . please let me know if you need anything else .
+acct number : 005777986805
+routing number : 111000025
+amy

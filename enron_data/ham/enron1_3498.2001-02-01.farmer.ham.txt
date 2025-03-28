@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:720d960c5f9472af412b44708b03bb101820208c1b0edd7e479723bbf89bc527
-size 283
+Subject: change to tenaska iv volume
+daren - - fyi
+i changed the volume of the tenaska iv deal 384258 to reflect the correct
+fuel amount , it was less fuel because some of the supply was from the katy
+area . . . . . new sale total of 36 , 286 ( after 8 , 406 removed for brazos )

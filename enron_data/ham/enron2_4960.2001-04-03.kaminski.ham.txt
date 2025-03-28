@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c5e4a068fded4e395b3069d354d3edbb2e5c1dac72ecea23ad88925ff9cb0a4
-size 148
+Subject: financial maths course , part 2
+vince ,
+just in case , here is a draft copy of the event for you to refer to .
+paul
+- finmathmail . doc

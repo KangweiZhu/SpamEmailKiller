@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aa040667296ee5137c3a056750c045dc4e41c58c9f14d18e2ad1d92f7aa6ffaa
-size 146
+Subject: same day change - revision # 1 - txu fuel trans k # 501 - november
+17 , 2000
+( see attached file : hplnl 117 . xls )
+- hplnl 117 . xls

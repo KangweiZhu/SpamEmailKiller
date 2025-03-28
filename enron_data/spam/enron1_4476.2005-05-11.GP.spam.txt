@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:132263156fb00f12cc18ecc17659db2a0f251c450a59d6a29308ef26b594fd3d
-size 199
+Subject: payment confirmation p 9990835
+- - - - - begin pgp signature - - - - -
+version : gnupg vl . 0 . 7 ( gnu / linux )
+nhbqlfivih + fwpgncv 9 / jvy = 8 y
+- - - - - end pgp signature - - - - -

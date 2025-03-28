@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0ad139b261f14b638690533bb19ffafa08a7aadee1d90b5b86d7846ff061a61
-size 241
+Subject: el paso cuts on oasis
+fyi - - -
+some of the gas purchased from dynegy on gas day 6 / 6 was cut :
+9 b 5 p
+662 cut to 599
+10 , 000 cut to 9 , 061
+( per joanie adams at oasis )
+i will enter in mops as estimates .
+thanks ,
+mark

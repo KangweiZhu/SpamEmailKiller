@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2a333a62ac16eedab38c34b50124d55cba272a80a50f5efc9a204cc5b20d399b
-size 232
+Subject: eol application id and password
+darren ,
+your id and password for eol prod stack manager is as follows :
+id : dfarmer
+password : dfarmer
+if you have any questions please feel free to contact me .
+thanks
+tara
+x 34523

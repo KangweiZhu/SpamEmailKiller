@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6885bf8662e9ea1a270de9f70b0934599bad0c9bbd487dcd36ef1e8baa33f20
-size 481
+Subject: ftr team ,
+the copy of the auction results that you got at yesterday ' s meeting is
+incorrect . what happened was when i tried to sort the entire page , i only
+highlighted the related column and expected excel 98 would sort the whole
+page . ( as steve told me before , i should highlight the whole thing if i try
+to do sorting in excel ) . i appolized for the misleading and have redone the
+whole thing . thanks for the patience . wish you all have a great weekend .

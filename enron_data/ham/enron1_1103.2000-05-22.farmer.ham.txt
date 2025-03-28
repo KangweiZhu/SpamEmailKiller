@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5e0136a4b3b40a30f38a71615006988334d432259a0a44a687be80e6e92b8b9
-size 325
+Subject: global octane for may 2000
+attached is a m - t - d daily reading of gas that has flowed at meter # : 1528
+during may 2000 production .
+this data is provided to inform you of the activity at this meter .
+hpl is the only counterparty doing business at this meter thus , sitara
+ticket # 92887 will take the swing .

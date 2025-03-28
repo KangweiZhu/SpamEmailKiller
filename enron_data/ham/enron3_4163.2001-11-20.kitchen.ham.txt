@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff685275e9d0beee50cb4fd1f781a882a43b12b0fc03c22abc026a3da085ceb8
-size 170
+Subject: project nolly
+as mentioned during our phone call , the attached diagram illustrates the manner in which the ene net operating loss was compartmentalized . shd .

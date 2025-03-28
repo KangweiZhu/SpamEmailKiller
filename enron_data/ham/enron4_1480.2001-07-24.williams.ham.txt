@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dab4d66b33f8140dea9037db03a3dbad0fbf7a4aad25f1bfa8fcf513d3503cbb
-size 611
+Subject: sap security mailbox functional again
+the technical difficulties with the sap security email box have been resolved . you may once again follow the normal submission process as noted in the instructions for the sap security request form and the ibuyit eprocurement request form . if you submitted a request for security during the week of july 16 - 20 and have not received a notification of it ' s receipt , please resubmit the form . we can not be certain that all mail directed to the box during this period was actually received . we apologize for any inconvenience that this may have caused you .

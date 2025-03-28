@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db80be61263855c534a3f76ddc60468e9995f96e0a509ece62281f672ac4c9d4
-size 292
+Subject: cv - keith baggerly
+i have attached a copy of my cv as a postscript file .
+if you need further info , or a different format , please
+let me know .
+enjoy !
+keith baggerly
+asst professor , statistics
+rice university
+( 713 ) 348 - 5282
+kabagg @ stat . rice . edu
+- 00 apr . ps

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08006077c4e35aa200b243d0ff9172fe7a2d3adbf3ea249a359dc001074d4356
-size 367
+Subject: feb 01 prod : sale to teco gas processing
+sale
+deal # 235670
+expired 12 / 00
+julie -
+this deal has expired for teco gas processing , but we did have a sale in 02 / 01 .
+should this deal be extended ?
+pls let me know , so that i can redraft the sale through unify .
+katherine
+5 - 8643
+unable to draft volume in unify due to the expired deal ticket ;

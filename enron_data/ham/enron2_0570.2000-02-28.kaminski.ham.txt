@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71090a064fa6f11ac35bba9cf007919c727102e9f3c14e124a8934af337be735
-size 386
+Subject: tips
+fyi - us inflation - linked bond
+i can not replicate the nominal yield and inflation adjected cash flow
+calculation from bloomberg . so i called the bond analytics group .
+i got to the point that they admit that they have made mistakes in their
+calculation , and promised to fix it .
+once i got the issues settled , there will be a better us inflation model .
+zimin

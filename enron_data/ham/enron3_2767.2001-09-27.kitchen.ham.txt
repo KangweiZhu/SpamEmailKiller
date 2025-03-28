@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b6bc8e1b89f19f2617ec33cdeb971a24b3c6bf8ee97c02c6b0fe55be78f6e786
-size 197
+Subject: board presentation
+louise ,
+here is a preliminary copy of the presentation . we are scrubbing the numbers as we discussed . please let me know if you have any questions . thanks !
+faith

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:243f2aa0442f94048797308fe50ae74e3fcac2a85f021ee1195976c54a302c7f
-size 343
+Subject: analyst distribution
+sally ,
+attached is the distribution for " all analyst " and the distribution for
+analyst 1 , 2 , and 3 . you don ' t really get much data by breaking them down
+because the groups are so small , but the overall combined graph provides some
+insight . let me know if you need anything else .
+anne marie
+39988

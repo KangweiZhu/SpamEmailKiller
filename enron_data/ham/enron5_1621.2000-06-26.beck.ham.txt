@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:651679902e31e97c2443e9c251fd320f6686cf1f466b6a60b6852cecf8698e79
-size 216
+Subject: ny meeting reports
+notes from naomi connell ' s ny meetings have been posted on
+s \ mg \ administration \ meeting reports under
+mg ny - overview . doc
+mg ny - support . doc
+my ny - cu concentrates . doc

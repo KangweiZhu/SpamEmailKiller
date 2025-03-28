@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3bd66afd3efc61b76702463537bfd37428586a35dc2b84c9ab6dd9e2e94f8761
-size 171
+Subject: booked meeting
+louise ,
+i have booked 30 mins in your diary for 25 th oct at 09 : 00 to catch up with things - please let me know if you cannot make it .
+david

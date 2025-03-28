@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2208e30496bb32256785f36b8f578c9b1c7474aa302b283b76b3c6d43f5171b1
-size 497
+Subject: request submitted : access request for brian . mihura @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000005412
+approver : stinson . gibner @ enron . com
+request create date : 10 / 23 / 00 8 : 49 : 45 am
+requested for : brian . mihura @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

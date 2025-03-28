@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4b3e6ed1ccefaccae4a6a8327cabfe2b6fdb0da89dbb5c8accc0c8c598e229c
-size 312
+Subject: thanks
+paige ,
+thanks a lot for your presentation . it was an eye - opener in many cases .
+i shall schedule a meeting with you next week to discuss how we can help you
+in this project . i have some ideas i would like to run by you .
+vince
+p . s . shirley , please see if monday is ok for 30 mins ?

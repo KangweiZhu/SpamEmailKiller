@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d660a342aba5c5bd2c147051f6dea0e15f523b41ac0e304b7138dce4e0443b89
-size 344
+Subject: whs / retail systems integration analysis - results / recommendations
+when : monday , november 19 , 2001 10 : 00 am - 11 : 00 am ( gmt - 06 : 00 ) central time ( us & canada ) .
+where : ecn 872
+* ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+background
+background
+summary of results
+integrated systems vision
+open issues
+recommendations

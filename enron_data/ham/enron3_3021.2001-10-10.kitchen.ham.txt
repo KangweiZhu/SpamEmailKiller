@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c68723fa1fe754ecebfcb95d0c9470f98d51c6a98aee092c945762b34512b9a
-size 353
+Subject: egm mid - market customer transition
+jeff - per your instructions here ' s the list of customers :
+airtrans airways
+celadon trucking
+chitaqua airlines
+continental airlines
+gasmar
+texas eastman
+amerigas propane partners
+ecr energy
+star gas propane
+age refining
+canpet energy
+cross oil
+frontier oil
+markwest hydrocarbons
+trifinery

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95a0c4fd636e49b99965b8dc7c9ac66bc14568a51bf0661a8f23b0ee3ad223ad
-size 571
+Subject: undelivered mail returned to sender
+this is the postfix program at host mtal . sa . th . hotchilli . net .
+i ' m sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations .
+for further assistance , please send mail to
+if you do so , please include this problem report . you can
+delete your own text from the message returned below .
+the postfix program
+: host relay - 1 . th . hotchilli . net [ 62 . 89 . 140 . 17 ] said : 452
+4 . 2 . 2 message would exceed quota for ( in reply to
+rcpt to command )

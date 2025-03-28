@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31223bc92521f099011112982e51fbc7c457586d79e97d4324a27736b0aa1670
-size 384
+Subject: oasis contract imbalance update
+. . . . this just in . . . .
+here are our updated imbalances per contract & total :
+historical current mth cumul .
+201 k : ( 12 . 807 ) ( 8 . 181 ) ( 20 . 988 )
+202 k : ( 13 . 951 ) 7 . 879 ( 6 . 072 )
+203 k : ( 6 . 152 ) ( 267 ) ( 6 . 419 )
+204 k : 27 . 392 ( 6 . 306 ) 21 . 088
+total : ( 5 . 516 ) ( 6 . 875 ) ( 12 . 391 )
+due oasis

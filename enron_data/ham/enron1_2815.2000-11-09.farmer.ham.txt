@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7638754f7813d10446e1fa4dbb4bd643364e10a3bbd7963a36c8a35549bbf95d
-size 155
+Subject: updated list
+valero deals have now been added .
+please make sure that this list is forward to anyone in your groups that
+might need it .
+julie

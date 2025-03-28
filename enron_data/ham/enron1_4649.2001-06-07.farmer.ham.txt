@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da70f810bb4ac2da651b45cb1fb4d0b6888100acef7d3c38ed1b1352dddee1b8
-size 327
+Subject: re : nom / alloc for june 6 th
+we agree
+" eileen ponton " on 06 / 07 / 2001 10 : 21 : 35 am
+to : david avila / lsp / enserch / us @ tu , charlie stone / energy / txu @ tu , melissa
+jones / energy / txu @ tu , teacton @ aep . com , szajac @ aep . com
+cc :
+subject : nom / alloc for june 6 th
+nom mcf mmbtu
+0 0 0

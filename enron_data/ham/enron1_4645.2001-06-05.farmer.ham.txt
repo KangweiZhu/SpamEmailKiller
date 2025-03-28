@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4f77b75d2009ad2ad5c38715e5ce1be821962b0ecc2406087cb3479c020cbc1
-size 632
+Subject: fw : teco / frontera financial trades
+just fyi
+- - - - - original message - - - - -
+from : curry , mike
+sent : tuesday , june 05 , 2001 9 : 21 am
+to : dean , clint ; gilbert - smith , doug ; miller , jeffrey ; wallis , janet h . ; may , tom ; day , smith l .
+cc : tingleaf , drew
+subject : teco / frontera financial trades
+fyi , i fedexed teco an isda agreement for their review . we need to get this executed in order to do some of the financial trades in power and gas that we want . copies were sent to tom may , jeff miller , and clint dean - - - let me know if anyone else would like a copy .
+regards , - mike

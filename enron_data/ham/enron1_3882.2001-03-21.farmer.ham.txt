@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7caf779743b4ffab0082de26f40147b64873a9782241ba6cd35157ae485b8d69
-size 466
+Subject: urgent
+ed has requested that we compile a list this morning of all parties / points
+which we owe gas to , in the event that we need to find a home for excess
+volumes today . please email me a list of any meters / contracts that you are
+aware of . i am compiling an interim list based upon the rtu variance report
+for march , however , i don ' t want to rely on this list as you may be engaged
+in balancing at meters with variances .
+thank you ,
+mary

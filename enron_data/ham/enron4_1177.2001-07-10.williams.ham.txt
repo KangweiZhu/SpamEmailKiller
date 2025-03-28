@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3d851b355b2988089edfe372a8da852266fa1520ad977376ed27bac58b96b13
-size 330
+Subject: policy and politics news website
+hey guys ,
+in case you interested in following what ' s written in the news on a daily basis , there is a great website what summarizes all the different newspapers and news organizations . check it out if you haven ' t seen it already .
+http : / / www . rtumble . com /
+cheers
+jesse

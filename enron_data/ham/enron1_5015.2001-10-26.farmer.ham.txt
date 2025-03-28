@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c385abd40d240823ccdeb120e37909a05a1a01038f77a1c2fe3dd957ec7c7aa
-size 116
+Subject: here ' s the list , dirty , but it ' s a list , let me know who you ' re looking at and i can dig further

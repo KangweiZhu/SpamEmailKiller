@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4e34f46ca7a9368e943f8f7f87f9aa56dca238e07e96bb563f655ad3f517e25
-size 229
+Subject: qf fix bill fails - may be taken up again
+abx 8 ( the emergency bill establishing qf ) failed passage in the assembly on a party - line vote yesterday evening . the assembly may meet tomorrow to take up the bill again .

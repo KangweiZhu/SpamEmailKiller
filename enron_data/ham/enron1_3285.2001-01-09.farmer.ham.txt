@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8471b1f4ef7ecc5a3bc344ba9a2ab303fa325aaab0f7151e9a91155218ead200
-size 254
+Subject: dec 00
+daren - meter 5192 flowed 8 dth on 12 / 19 , 33 dth on 12 / 20 and 2 dth on
+12 / 29 . the last deal for this meter was 454057 in nov 00 . could you please
+extend this deal for these 3 days or create a new one ? please let me know .
+al

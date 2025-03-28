@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ef858ef639f16f5b1ea6dc1e3505301b7d25e95f86452bab840fd01800cda26
-size 319
+Subject: day 1 list additions part 2
+this is the list which was sent out on saturday , updated to show full legal name in all cases along with the old enron cpid .
+since saturday , i have also removed a couple of the names which did relatively little business and could be processed as 2 nd priority customers .
+dave

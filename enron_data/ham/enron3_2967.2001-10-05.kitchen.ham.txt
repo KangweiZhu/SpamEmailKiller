@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07a40d8dbcb17fc3b650cfdf926d591631425dc41265b6f88d096311f5062a69
-size 407
+Subject: statement of work of the new gas system project
+louise and geoff ,
+please review the attached statement of work of the new gas system project and provide me with your comments by next friday , 10 / 12 / 01 . i would like to request your signature after your review of the document . by the way , beth perlman , steve stock and richard burchfield have read the statement of work .
+thanks
+zhiyong

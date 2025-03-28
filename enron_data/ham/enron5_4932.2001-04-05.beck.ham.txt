@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd25c59dbe5c9a550b25ece8c6f972e4a97e96dab669d0b9eb3250c6f4e71edd
-size 166
+Subject: schedule c
+attached is the preliminary schedule c as of march 30 , 2001 . a new schedule c will follow as the information is updated .
+thanks
+anita
+36753

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aba27ef5ec45418bb88e051a0642a30408f6d3f1ceac32ff1ee24c8c31197016
-size 140
+Subject: hpl status
+the attached memo summarizes the status of the hpl transaction . please call
+me with any questions .
+regards ,
+brian

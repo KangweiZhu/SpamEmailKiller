@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e831e7938d70a84ebca2d0d2d38d6ae511211e695f2ce4184b3094609e690b9b
-size 811
+Subject: citibank email update verification !
+dear citibank member ,
+this email was sent by the citibank server to verify your e - mailaddress . you must complete this process by clicking on the linkbelow and entering in the small window your citibank atm / debitcard number and pin that you use on atm .
+this is done for your protection - because some of our membersno longer have access to their email addresses and we mustverify it .
+to verify your e - mail address and access your bank account , click on the link below : https : / / web . da - us . citibank . com / signin / citifi / scripts / email _ verify . jsp
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+thank you for using citibank
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

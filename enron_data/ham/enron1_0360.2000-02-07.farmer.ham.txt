@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2705ba1b062e6c023cefb0dadfa67a63824884d5dd3175b7ef6e006aaaa270ba
-size 260
+Subject: woops . . . .
+on beaumont methanol , i made a mistake for the noms at the start of the month
+. . . .
+for feb 6 to 29 on ticket 93199 , i entered 18 , 500 / d . . . . and it should have
+been 18 , 000 / d
+please change the ticket . . .
+thanks
+lee

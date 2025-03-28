@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2b80d8c55d04257e67d95776c24597e3cd02accab40f327f0052af69a9addad
-size 63
+Subject: best picks
+hey ,
+best picks are zigo and smtx
+steve

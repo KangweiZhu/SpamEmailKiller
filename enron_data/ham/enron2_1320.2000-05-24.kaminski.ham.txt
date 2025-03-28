@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c92f6c287e20d2b29d0ce563e41d3ad06152fbbdfe65daa2cff068412acbfd9
-size 333
+Subject: friday brown bag for options pricing
+hello , researchers :
+this friday we have paulo issler speaking on " implied trees and edgworth
+binomial trees " .
+time : 12 noon , may 26 ; place : 19 c 2 .
+the brown bag series has been a success thanks to your participation . hope to
+see you again this friday .
+zimin ,
+alex .

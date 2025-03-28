@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a0a1b259ec7bad0e3e0d2d536e9ea3007cb4a372f4152fec8e9c715e43371998
-size 504
+Subject: ena energy ops - showstopper status
+attached is a file summarizing the action plan for completing energy op ' s
+showstopper reports . i have made a stab at initial assignments of
+responsibilities and due dates . please review and let me know if i have
+missed anything . thanks in advance for your help .
+in addition to the action items listed for each report , we will be soliciting
+london ' s input / comments via conference call tomorrow .
+let me know if you have any questions .
+susan

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:630a87ed9cce2676504d942aa404e3494161f09c62f1bf3690eaf6771d48ab05
-size 500
+Subject: ets salutes
+the pasadena chamber of commerce has selected the enron clean fuels methanol plant as " industry of the year " for 2001 .
+the selection was based on the plant ' s community activities ; awards / recognitions received related to safety , environment and quality ; organizations supported by plant employees , and the positive impact the plant has on the local business community .
+hats off to the employees of the enron clean fuels methanol plant for this special recognition !

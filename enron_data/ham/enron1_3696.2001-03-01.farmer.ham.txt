@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76de5a74aa135ec707327b20a4727c2aa05311bb52525a6285b3156c9ad7d18d
-size 578
+Subject: noms / actual flow for 2 / 28
+we agree
+- - - - - - - - - - - - - - - - - - - - - - forwarded by melissa jones / texas utilities on
+03 / 01 / 2001
+11 : 12 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+" eileen ponton " on 03 / 01 / 2001 10 : 08 : 37 am
+to : david avila / lsp / enserch / us @ tu , charlie stone / texas utilities @ tu , melissa
+jones / texas utilities @ tu , hpl . scheduling @ enron . com ,
+liz . bellamy @ enron . com
+cc :
+subject : noms / actual flow for 2 / 28
+date nom flow - mcf flow - mmbtu
+2 / 28 / 01 0 0 0
+btu = 1 . 027

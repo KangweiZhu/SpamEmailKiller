@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:370442a2aab3916dd44f8c4a388aad0617efe5a95776411adae77ac8e64f0b50
-size 241
+Subject: re : options calculator
+hi , michael ,
+i will take a look .
+zimin
+michael danielson
+10 / 06 / 2000 09 : 26 am
+to : zimin lu / hou / ect @ ect
+cc :
+subject : options calculator
+here ' s the link to the options calculator :

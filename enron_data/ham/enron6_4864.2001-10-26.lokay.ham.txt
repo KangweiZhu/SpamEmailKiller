@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:526ce82613c29e3cbb4acabe537b5589213141ee5ccd2ca30cfa1ea8e15acd48
-size 183
+Subject: verify rr expansion cr ' s for rofr .
+please , check this spreadsheet accuracy for the year and point data . then send back to dennis and myself , he will then fix the cbs .

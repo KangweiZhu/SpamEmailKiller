@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c35e42c33aeb7b2e6f5e68f9a929e23f2303e19d326595484df0759825ff2b58
-size 341
+Subject: update to merger q & a
+we ' ve updated the merger q & a document on our enron updates site ( ) , as a result of the many questions you ' ve had concerning the merger between enron and dynegy . questions addressed include those about enron stock options , benefits and immigration status . please stay tuned for additional updates .

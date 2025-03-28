@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97a84ffdda783e4224dd2a3d0a7fbdfe86412e3366988a163b61508a1978077d
-size 607
+Subject: customer list
+- - - - - - - - - - - - - - - - - - - - - - forwarded by gary w lamphier / hou / ect on 01 / 28 / 2000
+04 : 57 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : lee l papayoti on 01 / 19 / 2000 05 : 30 pm
+to : james a ajello / hou / ect @ ect , wendy king / corp / enron @ enron , jim
+crump / corp / enron @ enron , andrew wilson / corp / enron @ enron , glenn
+wright / corp / enron @ enron
+cc : gary w lamphier / hou / ect @ ect , james mackey / hou / ect @ ect
+subject : customer list
+as requested , here is the list of hpl ' s industrial customers in texas :

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6aeb01635714a94e2fdcd849c49458bebd310a945d1b3b00a4a039edc221d9fc
-size 211
+Subject: doorstep schedule - updated version
+dear sally ,
+here is the most recent version of the doorstep schedule . i ' d like to talk
+to you about the risk ops people i ' ve scheduled .
+best regards
+shona

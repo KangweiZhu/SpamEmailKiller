@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ad190087acd5514fa32ca89482d5615485e7a098937c6b3777b1c802b30a520
-size 194
+Subject: global octane - meter 1528
+fyi - meter 1528 has been trying to come back up since sat . sam in gas
+control said it might be back up on wed . we currently have a nom of 500 / day .
+al

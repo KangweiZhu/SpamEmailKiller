@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:035c2247bc80e088588df5d0bab1b6752377d027684a0926d8f17eed84fc2dfd
-size 195
+Subject: storage model security
+stinson ,
+i have added a time bomb and security file check to the model .
+we are ready to release it to brad , and improve the model from his feed back .
+zimin

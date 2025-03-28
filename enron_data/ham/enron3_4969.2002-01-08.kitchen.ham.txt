@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:39a07bea51f4324955e84498d1f5d9ef50de63641339fb303aba512abf7a81f0
-size 500
+Subject: direct connections
+louise ,
+about 1 month ago , the process was initiated to disconnect the direct connections .
+experience showed that we were spending money on something which provided little benefit to the customer .
+there is a chance that this process was not completed for every company ( i am checking ) .
+i intend to ensure that the direct connections are all converted to regular internet connections .
+if you want the direct connections maintained , please let me know .
+dave

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1204fbcc1112b47fde2a2d3e0619d62bc69862a9753c17225ec0aa3044282443
-size 253
+Subject: software should be easy to use !
+fully functional , unrestricted copy of the software . get more results with less efforts .
+it ' s better to be burnished with use than rusty with principle .
+where reason fails , time oft has worked a cure .

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e19e3f75f28aa3a5117dff84a5ce1fb766b43a382b356f43214720e48c39f209
-size 403
+Subject: vince kaminski bullet points
+* definition of price volatility
+* historical vs . implied vs . model derived volatility
+* estimation of volatility from historical data in the presence of
+? ? ? ? ? ? - seasonality
+? ? ? ? ? ? - jumps
+? ? ? ? ? ? - fat tails
+* stochastic volatility models
+* recent cases of extreme price volatility in the power markets in the us :
+the causes and remedies

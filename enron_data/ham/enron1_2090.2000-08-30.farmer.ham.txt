@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54c29e916d87e28989e724f3e4b3be412838f2b82d1e055245e6a713b6e8b18d
-size 344
+Subject: sitara patch
+a patch is being released to resolve a problem with updates to prior day
+positions in position manager
+related to volume feedback ( some updates were held in a queue until later in
+the evening ) .
+please call the sitara / cpr hotline ( ( 713 ) - 853 - 7049 ) if you have any questions
+or problems
+with the release .

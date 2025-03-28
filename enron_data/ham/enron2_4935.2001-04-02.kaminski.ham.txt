@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:820f9808198f99a9d0ca6804f2454d1dc1c654bf96b71547b097f51d650b2c68
-size 566
+Subject: temporary internet access for 5 rice students
+good morning :
+the research group will have 5 rice students , who are working on an
+enron project for their doctorate , coming to enron for approximately
+1 week . they will be sitting in a conference room located on the 19 th
+floor research area .
+we need to get them internet access ( to be applied to one computer ) , with
+one logon id and password .
+will you please let me know what i need to do to get this accomplished ?
+they will be coming this thursday , april 5 th .
+thanks !
+shirley crenshaw

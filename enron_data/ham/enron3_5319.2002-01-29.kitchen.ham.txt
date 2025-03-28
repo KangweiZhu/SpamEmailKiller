@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e6f6917b316f2a9ecdb4a193c373605199086e1a4f0193235c8d4fa1e8a92d3
-size 344
+Subject: hsr issue re marketing
+an issue has been raised whether masters can be sent out prior to hsr approval . there is not a problem with more general marketing . we need to have a meeting with the marketers and the lawyers later in the week to come to conclusion on this issue . this should not in any way slow down the work on the forms !

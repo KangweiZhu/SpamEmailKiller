@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f95dcfea744179ab5ff775df80d54ee23eda254c0b2916d74083884201109d83
-size 284
+Subject: meter # 9842
+daren ,
+mike in gas control called and said meter # 9842 is flooded and has not
+flowed in a couple of days . the field tech said it will probably be a few
+days before it resumes . do you want the nom adjusted ? it is at 8 , 034 . the
+deal # is 377169 .
+bob

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d80c62d30ec7b640ee79933eb3e7e30109c00123fab64697ed5fac5e3ef1ab43
-size 269
+Subject: interviews for gary hickerson - wednesday , november 1 , 2000
+mike / vince :
+your schedule to interview nancy beaty for gary hickerson ' s position is
+below :
+wednesday , november 1
+mike roberts 4 : 30 pm ebl 938
+vince kaminski 5 : 00 pm ebl 938
+shirley

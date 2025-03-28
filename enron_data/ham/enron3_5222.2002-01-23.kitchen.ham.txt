@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c76aee196d125958c450e1a8b34dcfeb733ff642a6eb6ba37356e3ffc62435b1
-size 459
+Subject: content
+louise ,
+although our actual content contracts are under conrol , it looks like we may need to spend $ 250 , 000 for infrastructure ( portalbuilder license ) .
+i will investigate further this afternoon to see if there are any alternatives .
+do you want us to spend the money if the alternative is no content ?
+dave
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+sent from my blackberry wireless handheld ( www . blackberry . net )

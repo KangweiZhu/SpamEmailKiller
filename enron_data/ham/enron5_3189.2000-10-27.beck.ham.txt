@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ddd6f32bf0080b75f68eb37437fcb4955d53893b472beb4223734e65d8c07b3c
-size 360
+Subject: approval for reviewer
+scribner , james has suggested reviewers and submitted them for your
+approval . your may review / modify this list of reviewers by logging on to pep
+at http : / / pep . corp . enron . com and going to supervisor services . please
+remember , no feedback can be completed on scribner , james until you have
+approved the list .

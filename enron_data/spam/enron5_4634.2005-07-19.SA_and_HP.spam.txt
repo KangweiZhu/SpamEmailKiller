@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:817131beeb901d5e2e5551fa3e47ad46af0f92c9e68a091bd315139f5739b919
-size 320
+Subject: delivery failure : user lena . gunnarsson ( lena . gunnarsson @ falck . com ) not
+listed in domino directory
+your message
+subject : just to her . . .
+was not delivered to :
+lena . gunnarsson @ falck . com
+because :
+user lena . gunnarsson ( lena . gunnarsson @ falck . com ) not listed in domino directory

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96007cb004a37ab01c4bf9e4fbfa973ab377ae4d30433186716e863d2f70a386
-size 379
+Subject: funds flow
+greg adams in corp is preparing a 9 / 30 look at funds flow / operating cash flow at the corporate and business unit levels for delivery monday . i ' d prefer to distribute that to you than cobble together figures from 9 / 24 ( latest data dump ) given the large amount of activity ( wimpy , inventory , mahonia ) that took place the last week of september .

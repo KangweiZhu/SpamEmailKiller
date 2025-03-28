@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca26a62a9321f30e3907dd6244ebcb95f2c8894524c5bf36616bd46b9fce062d
-size 127
+Subject: tw transport
+please increase the mdq of tw # 27792 by 10000 to 20000 / d for january 1 - 2 , 2002 at the same rates .

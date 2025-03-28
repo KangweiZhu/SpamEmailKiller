@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:65c8638fb41cee97898f31117be55d4eda3d0f37f7d8090d3a1816d5c18a286b
-size 84
+Subject: climate prediction center - forecasts & outlook maps , graphs and
+tables

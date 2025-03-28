@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b95e2c5a65679f4c6ce393f936a4be36302ff7e79c6e9fbef82b6bb27ad57dcf
-size 428
+Subject: hpl meter # 981525 texoma d / p - gsu hpl
+daren :
+on 1 / 5 / 99 , the above meter recorded flow 1 , 703 mmbtus . currently , this
+volume is booked to the hpl strangers gas contract . logistics needs approval
+to writeoff this volume to unaccounted for gas loss .
+_ _ _ _ _ _ _ _ _ _ _
+approval to writeoff the volumes to unaccounted for gas loss
+please print , approve , and return original to me .
+thanks , clem

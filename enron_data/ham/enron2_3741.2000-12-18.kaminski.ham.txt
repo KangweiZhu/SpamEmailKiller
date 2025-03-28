@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ade04e244d334738deac239d1838bcff920d99f388f5ab0c30d9b35a7fb18ad
-size 293
+Subject: ebs
+stinson ,
+the spreadsheet below shows the allocations i made for ebs .
+the numbers in magenta show percentage allocations ,
+of course , samir and samer are gone , ad so is roman .
+the problem is that once i give the percentages to accounting they become
+fixed for one year .

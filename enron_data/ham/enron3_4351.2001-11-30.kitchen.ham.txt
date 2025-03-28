@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96bd333b9a0f05f9b54dda6b103a9cca0de0692a430e10dd9172e2bdad6e516b
-size 212
+Subject: fw : lavo request
+as requested .
+- - - - - original message - - - - -
+from : killen , faith
+sent : friday , november 30 , 2001 8 : 53 am
+to : colwell , wes
+subject : lavo request
+importance : high

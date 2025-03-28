@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47f780660574e5c2b46aa07c298e5f479ca28e35741f2a594401c265c58e8825
-size 244
+Subject: duke exchange deal , march 2000
+purchase
+deal # 157288
+it appears that the price on pgev should be index less $ . 06 not index less
+$ . 05 for the redelivery .
+let me know which is correct per the exchange agreement .
+thanks -
+k

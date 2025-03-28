@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78415a9b8da0ccfabb836a9c26827f6d99e1d343cf82680fe77e9e9421736c2f
-size 348
+Subject: pserc iab meeting
+dear dennis ,
+vince kaminski forwarded your invitation to attend the pserc iab meeting . i
+look forward to meeting you and attending the meeting . i am a manager in
+vince ' s research group and my background is in economics of power systems .
+sincerely ,
+lance b . cunningham , p . e .
+manager
+enron north america

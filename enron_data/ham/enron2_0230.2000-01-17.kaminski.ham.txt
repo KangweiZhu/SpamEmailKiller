@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:037a413ffd81645021a29367a8851f9504d81d2df6334cc5c2d07e60282c5f7e
-size 762
+Subject: enroncredit . com - credit pricing methodology
+dear all ,
+attached is a paper describing the proposed methodology for pricing the
+" bankruptcy swaps " the credit markets group is launching next week . the
+methodology is intentionally simplistic - the emphasis has been on providing
+transparent models to give prices in a quick , easy - to - understand manner ,
+rather than create any new " rocket science " . could one or all of you please
+review the paper , and give feedback on the approach and advice on the areas
+still under development . this will give us peace - of - mind before the big
+launch .
+bryan - could you reread this and outline the sections that need omitting or
+expanding for publication on the website .
+many thanks ,
+ben

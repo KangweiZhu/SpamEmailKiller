@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8ec55e3f77170f452aa33a33f2039c7ae77f11776815e3fd993af8a3c5900f8
-size 638
+Subject: umbrella request
+louise ,
+john donnelly said his deal guys would like to see a slightly more detailed org chart which addressed what the org structure and main functions were under each of the technical and support areas . he gave me impression he wanted to understand for example what accounting / cfo team did exactly . i think the chart we sent them previously was fairly detailed on the main commercial , senior management and eol areas , but was silent below webb ( dev ' lp ) , hall , rub , colwell , myself , headicke / taylor , bradford , buy ? , etc . ,
+should i send a request around or would you prefer to send it ?

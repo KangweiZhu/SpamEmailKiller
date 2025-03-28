@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6fe065cf84eb3f0a4f99a2495015ed085e40a569b6b05e0bff710e9c5ed13b0
-size 233
+Subject: confirms and pa / eta
+couple more :
+1 ) i heard a rumour that we will not be sending confirms when we relaunch . is this correct ? ( i hope not )
+2 ) have you thought more about the pa ' s without buyer name issue ?
+dave

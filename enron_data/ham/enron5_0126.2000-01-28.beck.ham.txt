@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a74eed4bc47e99823d186bbc1836763da1301bf2c0cd8cca5a16cbd9bbd38c2
-size 289
+Subject: dpr delivery time graph
+sally ,
+we would like to send you this graph periodically . please let me know how
+often you would like it . it will track our dpr delivery times and provide
+explanations for any delays we experience . we have made some progress this
+last week .
+mike

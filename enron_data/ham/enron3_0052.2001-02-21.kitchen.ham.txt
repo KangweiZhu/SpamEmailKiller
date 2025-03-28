@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fabc65ea3a05f2c76d2df96e7079ae300bcd28dbbe9dc4469f7b85ef21724430
-size 229
+Subject: igcc comparison
+louise -
+the attached is a very rough summary of the technology comparison . we should be able to provide more information depending on your desired level of detail .
+regards ,
+mitch robinson
+x 33957

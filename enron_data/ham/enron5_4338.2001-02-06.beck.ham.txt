@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1182fe222b666ad982ac8d48dbe9449b35cabd0bee1d1e1fa633f5ba47bc61d7
-size 313
+Subject: invitation - ase studio workshop agenda review in sally ' s office
+eb 3389 ( 6 feb 05 : 00 pm cst )
+we will walkthrough the draft agenda of the event .
+brent / david - conference call info is as follows :
+dial - in : 888 - 227 - 5568
+passcode : 3788
+moderator : lisa petruszka
+reservation : 823788

@@ -1,7 +1,5 @@
 import re
 import nltk
-from bs4 import BeautifulSoup, MarkupResemblesLocatorWarning
-import warnings
 
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
@@ -9,9 +7,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import os
 nltk.download('punkt')
 nltk.download('stopwords')
-
-# Just ignore the warnign of buildful soup.
-warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
 
 class EmailPreprocessor:    
     def __init__(self):

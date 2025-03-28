@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9bb0f4d75e5a5dfda6cc9961bbf4b5cb4e3a7f8bb206654ccccf0472375e78f7
-size 533
+Subject: team meeting
+eb - 4102 has been reserved for this meeting .
+adr
+- - - - - - - - - - - - - - - - - - - - - - forwarded by audrey robertson / et & s / enron on 07 / 17 / 2000
+01 : 55 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+kevin hyatt
+07 / 17 / 2000 01 : 53 pm
+to : market team
+cc : audrey robertson / et & s / enron @ enron
+subject : team meeting
+we will have a brief 1 hour team meeting on thurs at 10 : 00 am , ( 7 / 20 ) .
+audrey , will you pls locate a room and let us know where .
+thanks
+kh

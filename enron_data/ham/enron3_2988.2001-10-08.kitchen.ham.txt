@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3edd2cc5322d0c7b6ea741222341ebb8cf125d8a80b99b79729f52ba5793f551
-size 511
+Subject: fw : darwin 50 article
+fyi . good article that vance meyer worked on for net works .
+kal
+- - - - - original message - - - - -
+from : meyer , vance
+sent : friday , october 05 , 2001 6 : 39 pm
+to : denne , karen ; gagliardi , larry ; haux , katrin ; ambler , john ; palmer , mark a . ( pr ) ; philipp , meredith ; piper , greg ; richter , brad ; shah , kal ; beck , sally ; noland , john ; pickering , mark
+subject : darwin 50 article
+pls see article in darwin .
+eol still has the juice !
+vance

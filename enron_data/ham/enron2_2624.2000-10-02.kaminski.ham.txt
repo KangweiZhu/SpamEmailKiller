@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:02b7bf6079ed8e8e44934365c5a34ade1ed3da0a8b2b1c67dba618d4ca8d08ca
-size 525
+Subject: re : joint probabilities
+bob -
+i ' ve edited our numbers a bit on the azurix analysis and would like you to
+re - run the joint probabilities tables .
+please note that i ' ve got 2 cases in the model now - an optimistic case and a
+pessimistic case . i hope you can run both cases . ( you will need to toggle
+for case 1 or 2 - real complicated stuff ! ! )
+please keep everything else the same ( ie , the currency probabilities , rab
+probabilities , etc . )
+thanks for your help .
+michael anderson
+646 - 9666

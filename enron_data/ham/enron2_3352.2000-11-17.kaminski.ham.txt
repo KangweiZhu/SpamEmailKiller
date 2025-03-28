@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a01e9fe39e4210980e50f7af80365edd5a6f04cf31cb40624cf34254724b8495
-size 561
+Subject: eol wti maket maker simulation model
+stinson ,
+i add the total p / l due to contract rollover . when the number of trades is
+large
+and the spread is not too small , the model prints a lot of money , dominated by
+those trade earning the half of bo spread .
+i also wrote an explaination about the model on the front page . i think we
+are
+ready to deliever the model v . 1 .
+the next step is to incorporate the intra - day market movement by using high
+and low
+prices into the pricing . i will call you on monday .
+happy thanksgivings !
+zimin

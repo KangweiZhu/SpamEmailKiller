@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:431352c2856baf55753c692b12575841149cf133876f1dc6c03c8360c0d95983
-size 304
+Subject: breakfast
+please join us for breakfast this friday , october 27 , ( by steve weller ' s
+desk ) around 8 : 30 a . m . to celebrate the following birthdays :
+october
+julie armstrong 15 th
+theresa branney 16 th
+don powell 20 th
+morgan gottsponer 22 nd
+t . k . lohman 29 th
+dana jones 31 st

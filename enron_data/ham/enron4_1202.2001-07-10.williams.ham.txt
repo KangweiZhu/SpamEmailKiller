@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c824d225b20b06a90e1e5451dab1570fb4e3f94d2e7849c7b37b3f461d6994c
-size 311
+Subject: hourly sheet
+bill , i had some problems with the hourly sheet when i tried to update it this morning . it froze up and actually froze up my entire computer and i had to shut down . could you please take a look at it this morning . i was scared to reopen the sheet with what happened initially . thanks

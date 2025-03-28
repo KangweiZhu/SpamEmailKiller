@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0785bec031bb31853ff9e84e8853a732697ad8aca580264124e8339cbb3fb5d
-size 163
+Subject: schedule crawler : hourahead failure
+start date : 1 / 24 / 02 ; hourahead hour : 19 ; hourahead schedule download failed . manual intervention required .

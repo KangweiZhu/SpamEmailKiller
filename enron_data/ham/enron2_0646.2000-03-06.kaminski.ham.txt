@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b9169c3bea0bd53860437c7d61c5684404ddd6b8c5808293b47a1654895f86c3
-size 353
+Subject: interview candidate allen humbolt
+dear elizabeth :
+we interviewed allen last week for my group . the consensus is that there is
+not a sufficiently good match between his skills and our requirements , so we
+will not extend an offer to him . i would appreciate if you can send him a
+thank you note conveying our decision .
+thanks ,
+krishna

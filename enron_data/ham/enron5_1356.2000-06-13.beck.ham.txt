@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55f8f411e870edf4cb43821273ed17f9b4ce6a4e74d0162b153f43a498f27a8a
-size 195
+Subject: information on analysts
+sally ,
+attached is the detail of the analysts we had in energy operations as of
+5 / 15 / 00 . please let me know if you need anything else .
+lisa
+x 3 - 6343

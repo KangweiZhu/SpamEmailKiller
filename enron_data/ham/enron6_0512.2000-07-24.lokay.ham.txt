@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5b2b5a0b33467c4b345371e025ee6f4bfcf4aad0d2667fed89fc19b959c08b7d
-size 231
+Subject: el paso outage
+el paso was to begin meter maintenance sunday at its itwwinrk interconnect
+( apache county , az ) that will last through tuesday . the point will be shut in
+during
+this time with zero volumes scheduled .

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:38622cc5d01fd12aeec4c0f2495223b2ed3ff27d48154d0ea38af8a073cf1620
-size 260
+Subject: gas management agreement
+attached is the red lined draft of the gas management agreement with the
+changes we discussed . please review and give me your comments . if you can
+supply any of the needed notice info in section 8 please let me know - - -

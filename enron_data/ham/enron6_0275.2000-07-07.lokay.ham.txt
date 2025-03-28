@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e87e6e2e5048e6ba7d5b7c772ed5f3c2102f5aab225414500644633c7222e815
-size 194
+Subject: mid - year accomplishments
+per steve ' s request , please find attached the tw commercial team ' s list of
+mid - year accomplishments forwarded to bill cordes earlier this week .
+adr

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c876a4051047daa1b95836e33c2f92618b210fbb0d79df4e83defbca224c3eb
-size 220
+Subject: turbine position report
+attached is the latest version of the turbine position report to be posted wednesday november 7 , 2001 . please let me know if you have any changes you would like made .
+thanks ,
+becky

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0908e08fd0db99aa726d61e5fc47f38934879a6e7e1a629df220c8c70da3356e
-size 353
+Subject: delivery failure : user antonio _ lambino ( antonio _ lambino @ ksg . harvard . edu ) not
+listed in domino directory
+your message
+subject : [ spam ] just to her . . .
+was not delivered to :
+antonio _ lambino @ ksg . harvard . edu
+because :
+user antonio _ lambino ( antonio _ lambino @ ksg . harvard . edu ) not listed in domino directory

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:01a1848b62993a6bd9b7203db194fe546cc1a74843cac79834e4aec95295abcc
-size 346
+Subject: final isda collateral support annexes
+enclosed are clean and marked final versions of the one way and two way schedules to the isda csa
+carol st . clair
+eb 4539
+713 - 853 - 3989 ( phone )
+713 - 646 - 3393 ( fax )
+281 - 382 - 1943 ( cell phone )
+8774545506 ( pager )
+281 - 890 - 8862 ( home fax )
+carol . st . clair @ enron . com

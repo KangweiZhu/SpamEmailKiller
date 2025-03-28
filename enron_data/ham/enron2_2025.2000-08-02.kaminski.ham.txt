@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:230be898ca0acca6450c2800a113def572c3f1ce60f2c40da7d724c30e1414da
-size 133
+Subject: research memo on mg var
+dear all :
+comments on this document should be directed to vince and / or me .
+regards ,
+grant .

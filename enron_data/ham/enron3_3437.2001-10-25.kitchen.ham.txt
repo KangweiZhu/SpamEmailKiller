@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36f3f03e4141f924d2752d9f696394e4d009d39b05fdfb79039ad2fd871f59ff
-size 481
+Subject: customer positions
+the enclosed spreadsheet shows the net online position by product , by counterparty , for a number of liquid gas products . each column represents the life - to - date position generated on that product , for that customer , through the date in the heading of the column .
+i don ' t see an immediate indication of these customer closing out of positions .
+if i can put this into a more convenient form , let me know what would help .
+thanks !
+- jay

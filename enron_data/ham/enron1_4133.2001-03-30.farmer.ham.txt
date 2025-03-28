@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf9c27e9e3788e06c6f569f9167f993bef1fcdd71953669030987c097c6726a1
-size 484
+Subject: ehronline web address change
+this message is intended for ehronline users only .
+due to a recent change to ehronline , the url ( aka " web address " ) for
+accessing ehronline needs to be changed on your computer . the change
+involves adding the letter " s " to the " http " reference in the url . the url
+for accessing ehronline should be : https : / / ehronline . enron . com .
+this change should be made by those who have added the url as a favorite on
+the browser .

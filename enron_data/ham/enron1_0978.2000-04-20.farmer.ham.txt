@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dbfc069a994b80673e6f3ecbef9db217f549a8742daeb8198189417ece36a2b6
-size 148
+Subject: calpine may
+total nom apr 81
+mar 79
+feb 85
+average of 3 : 82
+does this average represent a good estimate of the calpine may nom ?
+ami

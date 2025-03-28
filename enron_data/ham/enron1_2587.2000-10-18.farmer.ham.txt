@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07b5c90156f451e24f201fce5d3be2c1b1e80bd6fa2e1f1a214877d3fba97869
-size 375
+Subject: fyi
+just wanted to let you know that any entex information that i have put
+together is in the following directory .
+o / logistics / entex . . . ( mostly in the reference tab )
+also , most all of the historical volumes can be found in the risk folder :
+o / erms / 1 intra / texas / entex / databases
+let me know if you think of anything else that you need .
+ac

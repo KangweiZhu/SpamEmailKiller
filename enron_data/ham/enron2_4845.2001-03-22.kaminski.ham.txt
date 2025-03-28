@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e213aa3930cf096cef055d81419d9ca0ea6523d3dbc0a5cb5d9d867605545b49
-size 793
+Subject: new retail electricity provider survey
+as a result of recent deregulation in states such as pennsylvania and
+california , many new companies are entering the retail energy market . today ,
+consumers in several states are able to choose their energy provider in much
+the same way they choose their long - distance phone company . a survey has
+been commissioned by the research group to better understand which factors
+are most important to consumers considering switching energy providers .
+the survey consists of 28 question , and can be found on the following website :
+if you , your spouse , or someone else in your family has time to take this
+survey , we would appreciate your input .
+feel free to forward this email to others . thanks for your time and
+consideration .

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:193f846d301968a86b7e0c0ad3f4631a9550029730d68269088fe11f1b5ecdde
-size 325
+Subject: customer profiling meeting - amendment
+bob shults is scheduled to be in atlanta , ga on the 17 th of march and would
+like to reschedule the " customer profiling meeting " , to tuesday , march 24 st
+at t 1 : 30 p . m . , location to be announced . if you are unable to attend please
+let me know .
+lydia
+3 - 9975

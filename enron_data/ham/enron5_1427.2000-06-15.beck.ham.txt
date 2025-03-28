@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52d867d44c4471b3283e1e99929a0958e3cf7152c5035367ea796bf9a9e78776
-size 556
+Subject: new format - mg weekly reports
+dear all
+please find attached the new format for collecting information for the weekly
+report .
+please click into the document and write your information using the current
+format :
+text = times new roman
+font size = 12
+all information should be bulleted using a simple circular bullet
+point .
+please complete the report for 12 th - 16 th june 2000 and return the document to
+me by 18 : 00 on friday 16 th june .
+the report will be circulated on monday 19 th june .
+regards
+tracy ralston for fiona grant

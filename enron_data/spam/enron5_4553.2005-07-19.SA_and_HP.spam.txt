@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b1b4c5d736d6685a2e42c485bbdab8f413cd15f177b6deb1340c226d795bb30
-size 431
+Subject: returned mail : can ' t create output
+the original message was received at tue , 19 jul 2005 05 : 57 : 18 - 0500
+from mail @ localhost
+- - - - - the following addresses had permanent fatal errors - - - - -
+petzoldt @ petzoldt . com
+- - - - - transcript of session follows - - - - -
+procmail : quota exceeded while writing " / var / spool / mail / petzoldt "
+550 petzoldt @ petzoldt . com . . . can ' t create output

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9fcb9a54ea1a51b52ded79d9a48b3a2caaf646a2e8f6467e44727ce9a9613381
-size 396
+Subject: follow up on india
+as a follow up to my message yesterday , i have talked to george mcclellan who
+assured me that he is taking things in india slowly and that no coal
+transactions will be taking place in the near term .
+i also talked to bill bradford who has been in discussions with the office
+regarding counterparty credit . however , nothing has been formalized .
+regards
+shona

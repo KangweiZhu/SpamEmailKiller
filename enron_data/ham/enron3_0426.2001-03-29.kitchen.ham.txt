@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61398a97fdd8e8e8e67a6e57f80e7d1c904e2200d64de101f7127d4438983021
-size 441
+Subject: internal ownership of enron americas assets
+i have suggested a slightly edited version of the draft policy . i think classifying assets qualifying for transfer as " problem " and / or " orphan " may clarify the criteria . also , i am assuming that the intent is to except energy capital resources assets from the policy and have so indicated . on the other hand , as written , the policy would apply to principal investing assets .

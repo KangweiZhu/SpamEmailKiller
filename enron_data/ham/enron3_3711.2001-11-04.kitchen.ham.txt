@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:991b9c06d7c7db2c1361c08d39a89056a45c5e6aba791f68f8ada90909d10473
-size 335
+Subject: fw : goldman sachs due diligence
+there is a lot of confidential information here ( in items land 2 )
+detailed monthly p & l covering all trading activity for the last three years
+potential exposure by sector ( eg gas and electricity utility )
+detailed monthly p & l covering all trading activity for the last three years .

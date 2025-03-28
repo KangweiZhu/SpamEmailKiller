@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a36c29da0b8d3ef988543dabb6b0e449857952fd3d80619691df69300c37432
-size 294
+Subject: uk power april 2000 curve validation and profit report
+attached is the april 2000 curve validation and profit report for uk power .
+if there are any questions or queries please let me know . appologies for
+this being late this month as i have been out of the office .
+regards james

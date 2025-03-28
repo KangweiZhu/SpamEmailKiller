@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:040aea7090fb97abcd329e4fe0f4016c9deed168b0f585c721d6329e851eaa61
-size 162
+Subject: message from bogdan
+hi vince ,
+i am enclosing my resume , as per our most recent conversation .
+best regards ,
+bogdan m . szopa
+- bogdan res . . doc

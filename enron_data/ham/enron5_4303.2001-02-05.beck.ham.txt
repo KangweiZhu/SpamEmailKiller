@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07196bcb2ed465e4e2e28aaad69bfd8db9fb5f901b615989f3760a95742fe297
-size 413
+Subject: upcoming risk management policy changes
+attached is a memo summarizing policy changes and revised trading limits that
+will be recommended to the bod for approval on the 13 th , next week . we can
+discuss at the risk forum luncheon tomorrow ( chris , you ' re invited also ) -
+some dpr reporting practices may need modification to aggregate commodity
+risk across the company .
+regards ,
+cassandra .

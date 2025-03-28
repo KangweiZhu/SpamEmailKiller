@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1ce2466f3716f3b98775ad9d0fbc0b8bf14a917a29fb1bed85d0ed778a78c30
-size 128
+Subject: manual wire & same day payment authorization schedule
+attached is the new list of authorized signers as of 9 / 15 / 00

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ab0969fa7ade8971250365cce21f7174477bf556f9763ec099a889e026384ab
-size 221
+Subject: update : bloomberg story
+fyi : attached is the link to the updated version of the bloomberg article on the eott trader . we were successful in getting eott in the headline , however they did not remove enron .

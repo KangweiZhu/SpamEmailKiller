@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23b3a0b7f677b5174a282ce86b9da7fba711aa204c814e3e21a157243b4fee69
-size 259
+Subject: revised ios notice
+please post the attached notice immediately .
+( marketers : in paragraph 8 , i ' ve eliminated the min / max language since we ' re
+willing to do a rate over the max .
+in paragraph 10 , i ' ve changed the tiebreak procedure . )

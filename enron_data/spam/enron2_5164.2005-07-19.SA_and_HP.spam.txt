@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7be504066e1ba368c2d56f6c067fd94b264cb7c773a5200af83eeb53ce84ef9f
-size 470
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 03 : 57 : 51 - 0700
+from [ 222 . 217 . 202 . 51 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : 550 - mailbox unknown . either there is no mailbox associated with this )
+- - - - - transcript of session follows - - - - -
+. . . while talking to localhost :
+> > > data
+. . . user unknown
+< < < 503 5 . 5 . 1 no recipients

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:40585e2039ba6d79c9106e9b4b85fba7f58e4eb07060a33003efd372fb1b1b2d
-size 556
+Subject: reminder
+hello everyone :
+vince has asked me to send the following as a reminder :
+* * * * * * * * * * * * * * * *
+this is another reminder about the responsibility we have as a group for
+cleaning the conference rooms after meetings . for many visitors to enron
+a conference room maybe the first and the last exposure to the company .
+last thursday , some members of the group left , leaving behind their lunch
+boxes
+on the table . please , don ' t embarrass me by having to point out to you that
+your mothers
+don ' t work here .
+vince

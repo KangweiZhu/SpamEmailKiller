@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1918c277ab8649daf222758f87e9463d27940a335fd637ad4db96f054b32bf98
-size 306
+Subject: offer status update
+please see attached for color - coded offer update . i made a few changes from the file kari sent last night . will print out for binder as well .
+colors mean the following :
+red - no offer , reserve
+yellow - declined
+blue - signed
+green - open
+white - verbal acceptance

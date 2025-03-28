@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5cfb815afe9cd3a7fe50006c097ae426d8e70c5b24cdf572c3278a861aa5303
-size 237
+Subject: volume changes - december , 2000
+please note the following volume changes for december , 2000 :
+deal # meter # counterparty trade zone from to
+126281 6296 eog res 1 5 , 412 4 , 000
+125822 9658 kcs res 16 9 , 379 7 , 500
+bob

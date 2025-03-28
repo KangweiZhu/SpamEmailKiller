@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46c7e571b5b1dc894ad1c2c257fe76f8b7cef90458d5caec09f831322e4c4c48
-size 279
+Subject: comments on socal gir proposed decision
+attached for your review are transwestern ' s comments to be filed tomorrow on the cpuc ' s proposed decision in the socal gir proceeding . please review and comment to either greg porter or myself by the end of today . thanks gh

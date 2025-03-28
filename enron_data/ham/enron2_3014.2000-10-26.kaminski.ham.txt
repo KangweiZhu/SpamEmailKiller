@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:356401746731e32cb47ca888ee1bee5519e4c23dc4b09a2ebf2f2fe9ff66f367
-size 427
+Subject: research meeting
+all
+john sherriff has suggested we all get together in the near future to discuss
+the demands being placed on the research group . i will be making a request
+for additional resources , and the aim of the meeting is to determine the most
+appropriate size for the team .
+assistants : can we aim for week commencing 6 th november ?
+vince : would you like to teleconference in ?
+many thanks
+steve

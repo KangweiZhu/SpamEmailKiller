@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b68c6196fcb76ecb12cc47d3ffd9bd3407768ffc325307b6d14491afff7d86aa
-size 378
+Subject: nov 00
+daren - i have flow at one meter with no nom in november and overflow on dec .
+1 .
+meter last deal # last month of activity counterparty
+1351 274772 oct 00 williams terminals holdings
+1603 380664 nov 00 hilcorp energy ( overflow from nov )
+please let me know if you create a deal for meter 1351 and if you extend the
+deal for meter 1603 .
+thanks .
+aimee

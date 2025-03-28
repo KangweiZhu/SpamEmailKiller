@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:395826032873065397fcf48054f3e0ab661effc0a261091c22b2b9a49519a2e8
-size 198
+Subject: lng meeting
+bjorn :
+the lng meeting will be held tomorrow the 17 th of may at 11 : 00 pm
+houston time . the phone number for the conference room is :
+713 / 853 - 3135
+thanks !
+shirley

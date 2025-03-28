@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:264aab1c3d11e429341789f27c741ba8c61bfff824911518d10138d78ab47f6b
-size 385
+Subject: re : joint probabilities
+michael
+a table ( table 2 ) has been added with probabilities for rab > x , fx > y . at
+the current currency level , approx 1 . 5 , all the numbers are multiplied by 1 / 2
+because the currency is equally likely to rise or fall . this may give a
+pessimetic view of achieving a given stock price .
+let me know when you want to get togetrher .
+bob

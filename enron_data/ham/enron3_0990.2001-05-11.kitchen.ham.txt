@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2464e66e88b7ba1ab4801d9c7266853e7d23c6ecd9d3502c48aa1208bb786a91
-size 324
+Subject: 5 - 10 gas var violation
+attached is the enron americas gas trading var violation for may 10 , 2001 . the office of the chairman for enron americas is responsible for printing out a hard copy of this memo , signing it and returning the hard copy to chris abel who will forward it to rac to obtain their signature .

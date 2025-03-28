@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71f96a2f9a4a3e13d1529001e3915f79630456ef723a746f4708c0f2c6900530
-size 413
+Subject: ken ,
+attached is a correction to pages 10 , 11 , and 12 that were presented by the
+iso staff at a recent qse training session . i have attached pages 10 , 11 ,
+and 12 for ease of reference .
+this is the example that i told you about at out at the last csc meeting .
+best regards ,
+lance
+- enron correction for congestion management example . pdf
+- pagel 2 . pdf
+- pagel 1 . pdf
+- pagel 0 . pdf

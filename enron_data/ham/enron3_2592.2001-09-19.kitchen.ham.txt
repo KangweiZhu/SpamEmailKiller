@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3638203f9a43a120696035440c1998769041a24554fc50c85f6fc53523cba85c
-size 211
+Subject: enron corp . board of directors meeting - october 9 , 2001
+kelly m . johnson
+executive assistant
+enron corp .
+tel : 713 - 853 - 6485
+fax : 713 - 853 - 2534
+e - mail : kelly . johnson @ enron . com

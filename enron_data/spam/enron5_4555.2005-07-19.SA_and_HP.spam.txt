@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1bfa8113f82609c04a37455389e3cef1ef4b6b3cf83604d9f7d4621bee394794
-size 511
+Subject: your email
+thank you for your email .
+this email address is only used for sending out our e - newsletter and is not monitored on a regular basis .
+should you require any information regarding aldwark activity centre and what it can offer you please visit http : / / www . aldwark . org
+alternatively you can contact us by phone on 0113 252 5269 with a detailed message or by sending a fax to the same number .
+kind regards
+aldwark e - newsletter editor
+t : 0113 252 5269
+w : www . aldwark . org

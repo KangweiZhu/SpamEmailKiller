@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:773961ba3d4ab17dacc3c729976a83fefabe05dbc60ede238f0eb0f995852b4a
-size 157
+Subject: tw park and ride billing - january 2001
+attached is the detail for park n ride billing for january , 2001 . the summary
+of charges is as follows :

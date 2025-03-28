@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42839aceb9bead2a6ceb399f705931e254c65f7e6193faf9f22a83ca8ac22539
-size 194
+Subject: new meter number
+tetco enerfin is going to be assigned meter # 0439 . activity will be
+scheduled under this meter for october lst .
+jackie young is assigned this meter . thanks , pat

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd0801d66808bd00c81122059324f44cb3b4ed9b06dd00c905c8e673c646771c
-size 293
+Subject: january setup - - mops
+specifically , meter 1373 has several deals set up and 6 of them are ranked
+10 . these will not allocate properly as you know . suggest you double check
+all the industrials to ensure they are ranked correctly . january will then
+need to be re - nomed .
+ken

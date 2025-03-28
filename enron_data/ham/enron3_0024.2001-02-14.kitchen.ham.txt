@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28ffdadc1e4fa4d6a410ac3e9623b3e3087cc125fbd6c5c1c1f1d23473d650bb
-size 188
+Subject: hr status update
+the attached memo provides an update on the hpl hr transition issues we discussed last week . fran has also added some support to her hr team .
+regards ,
+brian

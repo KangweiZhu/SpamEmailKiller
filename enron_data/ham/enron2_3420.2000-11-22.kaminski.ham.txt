@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99c2067483b6d6dca4657e708080a4dfd891c08e1ff94c888ef93e8cc3c87932
-size 453
+Subject: backwardation hedge strategy
+i have completed an evaluation of a " backwardation " hedge strategy requested
+by wendy king . the stratregy is intended to hedge oil inventories and is
+based of trading nymex futures and options .
+wendy has suggested she wants to review this with jeff shankman . i would
+like to review my conclusions with you before i send it to wendy and will ask
+shirley to set up a meeting .
+a writeup is attached .
+bob

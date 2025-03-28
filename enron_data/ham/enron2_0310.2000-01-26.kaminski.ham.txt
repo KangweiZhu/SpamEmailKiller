@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8a33021d6c353023f48700edf22d8c53a50cba0d0df06e07a0d75a698562ac4
-size 612
+Subject: potential new analyst
+hi guys
+a number of us interviewed a guy named matthew williams last week for an
+analyst position . he has a phd in particle physics and experience with monte
+carlo simulation ( albeit in fortran 77 ) from his academic work . he ' s also a
+good communicator , having completed a postgrad course in acting , and has been
+active in the theatre as performer and director .
+if he accepts our job offer then ( after discussion with dale and bryan ) we ' ve
+decided to give him his first rotation in research here in london . i hope he
+accepts .
+i ' ll keep you posted .
+steve

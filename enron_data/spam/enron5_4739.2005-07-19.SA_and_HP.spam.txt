@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a32caf66b1e6f475be4623f27ad6ee11698bd9254c10f0d9b65a0036865dcf5b
-size 477
+Subject: undelivered mail returned to sender
+this is the postfix program at host cenesp . santistatextil . com . br .
+i ' m sorry to have to inform you that your message could not be
+be delivered to one or more recipients . it ' s attached below .
+for further assistance , please send mail to
+if you do so , please include this problem report . you can
+delete your own text from the attached returned message .
+the postfix program
+: unknown user : " antonio _ sanches "

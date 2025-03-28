@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc4b84d0dde9851cc8727bfcf4c5cf741ff4daeb5f9001d9018628f1750919d7
-size 584
+Subject: fw : revised : gas logistics netco restart
+louise , we made one minor modification to the spreadsheet , please use this revised version . i believe that should be it .
+tks - bob superty
+- - - - - original message - - - - -
+from : superty , robert
+sent : tuesday , january 08 , 2002 10 : 39 am
+to : kitchen , louise
+cc : calcagno , suzanne
+subject : revised : gas logistics netco restart
+louise , as requested , attached is the gas logistics pipeline contract spreadsheet with responsibilities added .
+please let me know if you have any questions , tks - bob superty

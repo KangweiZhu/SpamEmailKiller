@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae8cca52775f4a0d261fdd45428f6fa37fc1e847f4e71c3994a2541deed634ed
-size 268
+Subject: proposed employee letter on retention payments
+louise ,
+attached is the draft letter that mark palmer discussed with you . your review and comments , particularly related to the second paragraph on the dynegy bonuses , would be appreciated .
+thanks ,
+john

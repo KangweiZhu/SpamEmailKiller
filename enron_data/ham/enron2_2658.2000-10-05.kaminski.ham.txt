@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1845ac24c28e5cf547a8be8632bd70bb7f8fbf1ec49c1071710cb304196ed97b
-size 1444
+Subject: re : current var issues
+here are the current issues related to var and credit models :
+1 . factor loadings ( fl ) for all " primary " commodities :
+- the code is tested ;
+- factors loadings have been calculated for every primary curve and examined
+closely by research ;
+- using different number of maturities for fl calculations ( it ) ;
+- selecting " good " curves , setting mappings for the others ( rac ) ;
+2 . reviewing power var model :
+- implementing term structure of correlations ( preliminary research is in
+progress by research , to be implemented by it ) ;
+- implementing caps in var model ( it ) ;
+- jumps for intramonth prices ( re - examine prices behavior , research ) ;
+3 . historical ff vols ( research , rac ) ;
+4 . interest rate and fx :
+- preliminary research is completed ( research ) ;
+- implementation in risktrack ( it ) ;
+5 . credit model :
+- resolving the problem of identical runs giving different results ( it with
+research ' s help ) ;
+6 . mg metals var model :
+- merging with risktrack ( rac , it , research ) ;
+- refining the model ( research ) ;
+7 . var calculations for uk curves :
+- merging with risktrack , elimination spreadsheets ( rac , it , research ) ;
+- looking closely at var calculations for each commodity ;
+8 . merchant portfolio var :
+- unification with equity var model ;
+9 . fat tails modeling ( research ) ;
+let me know what i missed .
+thank you ,
+tanya .

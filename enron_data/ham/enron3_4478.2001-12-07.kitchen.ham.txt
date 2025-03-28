@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9a57d57ffc78cea95a71a55b82ceb6a4cbe2b1f94182b3aa692c7a021362b1d
-size 156
+Subject: fw :
+- - - - - original message - - - - -
+from : fitzpatrick , amy
+sent : friday , december 07 , 2001 11 : 04 am
+to : clyatt , julie
+subject :

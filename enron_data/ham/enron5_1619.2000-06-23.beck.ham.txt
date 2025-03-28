@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:197d4073706f3c4e1ea1afc67dabde4b1de6112c952c0b2e60dbc2567613f37a
-size 205
+Subject: equity adjustments
+sally ,
+i reviewed the salaries of my team with hector . based on this discussion , i
+recommend the following :
+please let me know if you have any questions .
+thanks
+sheri

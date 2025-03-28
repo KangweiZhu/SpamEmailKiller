@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95c1a57a42aa92be3d36d145167c8c7c043c69b4b9f1c65430a9b63b7e78e4b8
-size 229
+Subject: bad estimates on 28 th
+we are getting bad numbers in pops for sat . oct . 28 th . they are the same as
+oct . 27 th ( 27 th is correct ) . please watch imbalances very closely . double
+check
+all numbers . thanks , pat

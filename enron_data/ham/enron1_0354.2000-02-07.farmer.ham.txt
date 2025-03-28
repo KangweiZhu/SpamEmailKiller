@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf27986cc89f1827960b9f2aefe2b89e5e30a5c047627aa61964ed68d5c09ff6
-size 293
+Subject: february issues
+i am currently going over the february setup in unify to locate current and
+potential problems for the month . if you like , i would be glad to get
+together tomorrow afternoon and review the problems just to give you an
+overview on what i see .
+let me know .
+ken

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:281c8f77b1d518e3eed56edc6902527a9e1b5b4e0f49d2a94fb00c80127f6c36
-size 404
+Subject: updated : interactive open season ready for testing
+we have moved another change into production where any bid equal to over the
+max rate will be valued using a 0 % throughput commitment . this way , any one
+part and two part bid over max rate will be evaluated in the same manner .
+this also means that when a user checks the max rate button , a 0 % throughput
+commitment will be assumed .

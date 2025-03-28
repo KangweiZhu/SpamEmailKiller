@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b05dd7d8d34aec3a8b194262bad1c51c01b50d95e58c0e0d80e774744469d6e
-size 488
+Subject: total transfer capabilities
+attached are the total transfer capabilities ( ttc ' s ) for july 7 , 2001
+>
+the attached outage information is reliable at time of posting . the
+attached outage information is subject to change without notice .
+myrna neeley
+administrative assistant
+outage coordination & transmission maintenance
+california independent system operator
+voice : 916 - 351 - 2171
+fax : 916 - 351 - 2367
+e - mail mneeley @ caiso . com
+- ttc 07 - 07 - 01 . pdf

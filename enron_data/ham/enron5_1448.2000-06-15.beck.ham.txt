@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96b9a9e916d7b4105c026e6253cd6c4f45859f847ca1733ce4fa1f4f88af4206
-size 327
+Subject: new version of the eol view database
+this new version of the database will run 30 % to 70 % faster ( depending on
+your computer ) .
+please delete any shortcuts to the database that you may have on your desktop
+and then launch this attachment ( it will automatically install the new
+version ) .
+regards ,
+eugenio

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc511105f411d707f10d058493234e9da7c9137db54b37680c5a6f98b933ba41
-size 135
+Subject: meter # 1552
+robert ,
+there is a large variance between noms and flow at this meter . is everyone
+in the loop on this . pat

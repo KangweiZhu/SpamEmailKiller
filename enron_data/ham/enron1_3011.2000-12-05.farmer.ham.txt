@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:726d58a0b27bad602f3fd32a8783bf0c6f3d36fd8cc93f5a51b439d46df5ebe6
-size 745
+Subject: hpl inter - company contracts
+steve :
+attached please find a schedule that shows all the active hpl inter - company
+contracts that are recorded in the global contract system . the dark shaded
+contracts are needed to perform hpl ' s daily / monthly activities . each of
+these have a comment .
+the lightly shaded contracts had activity in year 2000 , but will not be
+needed for future activities .
+the non - shaded contracts did not have any activity in year 2000 , and will
+not be needed for future activities .
+this schedule was compiled by using information provided by cheryl dudley ,
+rita wynne , daren farmer , & clem ' s expertise .
+if you have any questions , please feel free to call any or all of us .
+thanks , clem

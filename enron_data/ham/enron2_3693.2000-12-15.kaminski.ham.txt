@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:891e62e0401b6122b4d919894e483a8cd843dcddb7a3e2ef19523007a524a6a6
-size 348
+Subject: wti trading simulation presentation - combinded
+john ,
+just finished the continous trading case . please see
+the two attached files . let me know if you want to add
+more scenarios .
+happy holidays !
+zimin
+- - - - - - - - - - - - - - - - attachment - - - - - - - - - - - - - - - - - -
+open - close trading :
+close - close trading :

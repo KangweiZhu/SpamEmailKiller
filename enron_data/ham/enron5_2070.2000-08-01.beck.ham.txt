@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1fe6676a125444692f85160d1ff9e2f9498c598c2ba4ba9f1503a3c2768c1faa
-size 330
+Subject: new hires week of 7 / 31
+name supervisor title start date
+michael mousteiko ( lisa peterson ) spec 7 / 31
+julie boehl ( kathy kelly ) spec 7 / 31
+susan elledge ( linda bryan ) spec 7 / 31
+natalie baker ( carrie hollomon ) srspec 8 / 1
+lia hernandez ( edterry ) srspec 8 / 2
+kevin brady ( george smith ) staff 8 / 3

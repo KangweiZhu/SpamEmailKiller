@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b8f09edba44b6e47499248450933fb17328cbe8c8416b87f9ebc07d982a80be
-size 449
+Subject: skunkworks meeting - bi - weekly
+shirley and i have scheduled the skunkworks ' meetings with scott tholan
+beginning wednesday , july 5 from 2 : 00 to 3 : 30 . this meeting will take place
+every other wednesday ( same time and place ) for the next few months . these
+meetings will be held in ebl 938 . please mark your calendar , and if you have
+any serious conflicts , please let either shirley or me know .
+thanks ,
+sharon
+5 - 7212

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f545d86f794fd88d27c98d2ba3f743c12529f5c8c3176c47c40ab7bd310f55f6
-size 340
+Subject: focus group survey results
+to : management committee members
+from : cindy olson , beth tilney and mark palmer
+the attached is the results of the focus groups that we conducted per our action plan from the " lay it on the line survey " . frank luntz will be at the management committee meeting today to discuss this information .

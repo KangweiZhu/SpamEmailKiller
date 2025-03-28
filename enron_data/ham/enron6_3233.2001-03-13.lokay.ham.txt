@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4d44af41e0ee211202fa8ee1a39bd2d56ff9185e937cb9b77680a3947b95019
-size 334
+Subject: links
+this is the place i was talking about
+http : / / www . ivacation . com / p 6615 . htm
+some other links worth checking out
+http : / / www . texasvacation . com /
+http : / / www . turtlecreeklodge . com /
+http : / / www . roddytree . com /
+http : / / www . texashillco . com /
+http : / / www . reaganwells . com /

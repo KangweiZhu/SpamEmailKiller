@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:829cb36169b5503b7b5a15182cefde4dfd579e6c0b92bb9a1cb524a7608ca8fa
-size 553
+Subject: prob of default for e rating 7 as of 2 / 3 / 00
+vincent ,
+i got the e - rating and default probabilities for promigas from the credit
+group .
+could you plug in these numbers to the loan guarantee model ?
+promigas is rated as bb .
+zimin
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 02 / 04 / 2000 08 : 41 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+tanya rohauer
+02 / 04 / 2000 07 : 27 am
+to : zimin lu / hou / ect @ ect
+cc :
+subject : prob of default for e rating 7 as of 2 / 3 / 00

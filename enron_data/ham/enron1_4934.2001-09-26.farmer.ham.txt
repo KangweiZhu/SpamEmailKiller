@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b523417b8e48905ed46e03d7ed690a565967667cbc0e7e062521631deb74176
-size 682
+Subject: fw : hubco
+- - - - - original message - - - - -
+from : redmond , brian
+sent : wednesday , september 26 , 2001 1 : 33 pm
+to : higgins , ned ; hilgert , chris ; mrha , jean
+subject : hubco
+in follow up to our discussion yesterday , here is the information i am using to describe our waha hubco project as it relates to the compression services deal with unocal .
+as you know , we are in discussion with nng about managing their storage agreement and with sid richardson / transco to develop an " intrastate " header system for sid richardson ' s gas that will also be connected to the unocal plant . we need to keep coordinated on these discussions .
+regards ,
+brian

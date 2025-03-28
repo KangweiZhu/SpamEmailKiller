@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d74a4ff4f1d26ecf754f17efad85e8e11f9c6e68b675003be1f395a97cde46aa
-size 324
+Subject: hi amitava ,
+as we discussed this morning , i have created the attached spreadsheet
+for our " to dos " for the the credit guys .
+please take a look at it to make sure it is okay , make any changes , etc .
+in the mean time i will work on the data vendor research , order eviews ,
+etc . . . . . .
+thanks ,
+iris

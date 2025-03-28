@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46b12ca306b8053a06e64691effdc9161be05fd768e83c35744473c6bcffb277
-size 435
+Subject: interviews for a new candidate
+elizabeth :
+we have yet another candidate allen humbolt who we want to interview . his
+skills seem to match our requirements very well . we appreciate your help in
+setting up interviews for him with the following people :
+vince kaminski
+stinson gibner
+grant masson
+vasant shanbhogue
+ronnie chahal
+osman sezgen
+john henderson ( ees )
+anoush farhangi
+and myself .
+thanks ,
+krishna .

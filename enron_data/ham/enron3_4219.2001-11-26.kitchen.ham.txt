@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f66c402bf164ddb36fdbbd660d3e4cf14a57ffa40f54124565ab5e1ddfa1d17e
-size 263
+Subject: margin requirements
+please note that the initial margin changed from last night for fimat & smith barney due to the fact that these items were not covered by the facility . smith barney facility only covers the products traded from the new york office .

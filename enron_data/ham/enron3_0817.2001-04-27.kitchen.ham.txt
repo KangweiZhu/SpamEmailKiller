@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12501f8a54e2e3359659540ed9004e19f9675541ef2ff4ca54f5b81be5e3e2d1
-size 181
+Subject: special assets portfolio 2001 scorecard as of april 27 , 2001
+attached is the bi - weekly status report .
+attachment 1 is narrative :
+attachment 2 is excel spreadsheet :

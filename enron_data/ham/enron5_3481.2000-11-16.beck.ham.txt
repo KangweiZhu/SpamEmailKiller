@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31a3e638c3e08635892db2a9de3771ff4e16460dacad8600a9229b4bfad9641c
-size 409
+Subject: request submitted : access request for shona . wilson @ enron . com
+you have received this email because the requester specified you as their
+manager . please click
+approval to review and act upon this request .
+request id : 000000000007568
+request create date : 11 / 16 / 00 10 : 07 : 41 am
+requested for : shona . wilson @ enron . com
+resource name : ms project
+resource type : applications

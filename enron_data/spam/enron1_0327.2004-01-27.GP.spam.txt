@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ca9723fd1b50d4ac92caab19d0da07fc3eff11f85af2c295732f73a0a7f8b35
-size 337
+Subject: cat
+logo stationery design
+please visit our site http : / / logo - design . by . ru /
+corporate identity , business cards , letterheads , envelops , flyers , brochures
+design
+our professional graphic design studio offers a wide range of graphic design
+services for highly competitive prices
+john miller ,
+sales manager

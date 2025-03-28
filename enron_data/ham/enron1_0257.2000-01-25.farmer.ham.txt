@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:babd231455284daf1176084405633f50e5d44ebfd3370c09bdcbec31cc6023a3
-size 288
+Subject: 02 / 00 natural gas nomination
+enron methanol nominates the following requirements for the methanol plant
+for february 2000 :
+33 , 000 mmbtu per day
+egpfc nominates the following requirements for the mtbe plant at morgan ' s
+point for february 2000 :
+10 , 000 mmbtu per day

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3381e3d89fb8b49e14a19f7094660c656976e8f1b2d4f26c551379b068a19aea
-size 368
+Subject: you may recall that we met at a jp morgan luncheon a few years back .
+because of the unsuccessful attempt by morgan to sell the energy business , i
+find myself looking for employment . i am attaching a copy of my resume for
+your consideration should a position in you organization come available .
+many thanks ,
+tim
+- cover _ enron . doc
+- resume . doc

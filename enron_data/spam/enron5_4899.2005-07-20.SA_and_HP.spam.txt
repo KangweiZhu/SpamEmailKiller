@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8465b43d6831b1cb4c6f2b271a987cd0da731e75ddb9538a136a409f0f2f8d8b
-size 570
+Subject: confirm results of your refina [ n ] ce application
+we tried to contact you last week about refinancing your home at a lower rate .
+i would like to inform you know that you have been pre - approved .
+here are the results :
+* account id : [ 842 - 128 ]
+* negotiable amount : $ 181 , 646 to $ 693 , 908
+* rate : 3 . 61 % - 5 . 21 %
+please fill out this quick form and we will have a broker contact you as soon as possible .
+regards ,
+ana merrill
+senior account manager
+lyell national lenders , llc .
+database deletion :
+www . newxnc . net / r . php

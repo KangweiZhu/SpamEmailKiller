@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7051d31b63a64f23c19489d756ef78bdf53b042e01f63b64c9679ad5bcd46375
-size 740
+Subject: telephone interview with the enron research group
+good morning ms . knirel :
+vince kaminski and several members of the research group would like
+to conduct a telephone interview with you sometime this week at your
+convenience . please let me know the times that you are available and
+they will contact you .
+the telephone interviews usually last approximately 1 hour and will be
+conducted via a speaker phone .
+the interviewers will be :
+vince kaminski managing director and head of research
+stinson gibner vice president , research
+tanya tamarchenko director , research
+zimin lu director , research
+look forward to hearing from you .
+best regards ,
+shirley crenshaw
+administrative coordinator
+enron research group

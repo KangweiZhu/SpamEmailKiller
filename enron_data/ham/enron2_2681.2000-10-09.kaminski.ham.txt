@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e16949fd3f90680d2caffd51f3d97faf5ea4a9b276fa18ae696e52b5193204c4
-size 577
+Subject: progress
+fyi
+1 - 2 days is optimistic , but we have core value of optimism !
+- - - mike
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike a roberts / hou / ect on 10 / 09 / 2000
+02 : 26 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+chonawee supatgiat @ enron
+10 / 09 / 2000 12 : 16 pm
+to : mike a roberts / hou / ect @ ect
+cc :
+subject : progress
+mike ,
+doug , an it guy , asked around and he could not find any software that can do
+the job .
+i am still working on the code . the program should be ready in 1 - 2 days .
+- chonawee

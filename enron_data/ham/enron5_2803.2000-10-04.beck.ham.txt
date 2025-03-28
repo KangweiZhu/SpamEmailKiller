@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be17a2cb38c4f74eda77efde779eda82df205d5609073bd4787b493bf5750ccf
-size 354
+Subject: updates to processes
+based on my discussions with sally , and her discussions with ted and rick
+carson , i ' ve updated the process flows for doorstep teams . i ' ve defined the
+roles and responsibilities for each group as well , which were not included in
+the original draft . please call me if you have any questions .
+best regards
+shona

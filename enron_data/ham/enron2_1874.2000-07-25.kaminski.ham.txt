@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7684c897f008802840365ba0b34ffbd4bac0eeddafe2697afbc19ab07bbaff15
-size 371
+Subject: fwd fwd volatility for metals var
+hi tanya ,
+i think using the 60 business day fwd fwd vols based on historical data is
+reasonable , to ensure consistency with the amount of data we use to estimate
+the eigenvalues . i am just finishing the correlations study .
+regards ,
+anjam
+x 35383
+zinc :
+lead :
+aluminum h :
+aluminum s :
+tin :
+copper :
+nickel :

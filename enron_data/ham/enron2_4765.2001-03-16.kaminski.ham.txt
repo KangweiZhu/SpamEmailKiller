@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e50f2e0b86153de1d6d328d72bb414688ef644ba095287cc7428b92204ff6f92
-size 495
+Subject: approval is overdue : access request for tony . hamilton @ enron . com
+this request has been pending approval for 3 days and you are the
+alternate . please click
+approval to review and act upon this request .
+request id : 000000000023619
+approver : stinson . gibner @ enron . com
+request create date : 3 / 14 / 01 11 : 00 : 28 am
+requested for : tony . hamilton @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

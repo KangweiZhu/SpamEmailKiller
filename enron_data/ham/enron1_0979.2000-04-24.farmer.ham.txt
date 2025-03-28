@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc9c49579a81c87e55a2d3011e2333cd55e89cdeaf24ce375ac9ab3a1976c852
-size 201
+Subject: nomination 5 / 1 / 2000
+our nomination for 5 / 1 / 2000 from hpl into eastrans is 45 , 000 mmbtu / d .
+we will nominate 37 , 200 into pg & e and 7 , 800 mmbtu / d from fuels cotton
+valley .

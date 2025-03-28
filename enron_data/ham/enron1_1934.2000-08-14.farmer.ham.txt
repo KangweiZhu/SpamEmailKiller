@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4dd36d4133a05d3aba6db2987a19c4c7aa041ed14e5a0b965b1eed3afa93b807
-size 391
+Subject: re : enron / hpl actuals for august 11 - 13 , 2000
+revision for august 13 , 2000
+august 11 , 2000
+teco tap 108 . 333 / hpl iferc ; 20 . 000 / enron
+ls hpl lsk ic 20 . 000 / enron
+august 12 , 2000
+teco tap 85 . 000 / hpl iferc ; 20 . 000 / enron
+ls hpl lsk ic 20 . 000 / enron
+august 13 , 2000
+teco tap 32 . 500 / hpl iferc ; 20 . 000 / enron
+ls hpl lsk ic 20 . 000 / enron

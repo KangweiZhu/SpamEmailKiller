@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:68f6d030a90898c087eb10f1ce7f4c75bd5b87452a8548737b2237950ccdd3e6
-size 459
+Subject: new building
+the people who need offices in the tower of the new building are :
+scott earnest
+michelle bruce
+todd hall
+kevin sweeney
+sheila glover
+the following people can share an office :
+mark leskowitz
+jeff sorenson
+clare carrington
+laurel adams
+theresa brogan
+we would also like to have 75 spaces in the tower for the settlements and confirmations people .
+please let me know if you have any additional questions .
+thanks ,
+laurel

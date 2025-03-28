@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28eb88f705980edfda33743b79a7c2dadf07824ca0eecfe63755a0929f21ffbd
-size 150
+Subject: base gas roll for april 01
+the texas desk has requested that we run the base gas roll tonight , 3 / 19 for april 2001 production
+thanks
+gg

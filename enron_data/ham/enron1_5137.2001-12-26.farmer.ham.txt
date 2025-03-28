@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0118bae2a395d6ebf3fe1d5e5b22d264d90bc6e1a43b8b871f82d5f760ff8455
-size 281
+Subject: tenaska iv
+darren :
+if you ' re in the office today , i need some changes to tenaska iv .
+deal 384258 aug 2001 - change demand fee from 4 , 117 , 198 . 00 to 4 , 110 , 035 . 82
+sep 2001 - change demand fee from 2 , 846 , 818 . 24 to 2 , 833 , 539 . 74
+thanks ,
+megan

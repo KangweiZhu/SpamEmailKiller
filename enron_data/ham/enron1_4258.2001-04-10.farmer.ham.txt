@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:985ba36b3b9fda1f6395949dffb3b787da09bbe162bb75dae0518df40f564af5
-size 247
+Subject: deal 83389
+fyi
+i added meter 987195 to the above deal for august 1999 to clean up a strangers gas issue for clem . no deal volume was put in , i just needed the point to show up in unify for volume managment to assign a track id .
+mike

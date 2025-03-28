@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c20aeb03398c801c6f64b9a825ffdae4df65926ac6e212abfc590989c5a5ae1f
-size 212
+Subject: fw : picture
+>
+>
+> the following is an aerial photo of the wtc area . it kinda brings on
+> vertigo , but is a phenomenal shot .
+>
+> http : / / userwww . service . emory . edu / ~ rdgarr / wtc . htm

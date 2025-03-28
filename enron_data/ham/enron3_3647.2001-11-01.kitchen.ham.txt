@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2a4d915c5022d4bb7302956628995db812467056d3c7cddb6305207250316b8
-size 286
+Subject: fw : 4 th quarter - 2000 vs 2001 - eol & otc comparison as of
+10 / 31 / 01
+hi louise ,
+attached is the bi - weekly eol vs . otc quarterly comparison . just let myself or adam johnson know if you have any questions or would like to go over any of the data .
+thanks ,
+torrey

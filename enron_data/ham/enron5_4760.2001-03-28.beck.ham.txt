@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8617e70ec33ee683200c477ae55b59dd26ba8853587af52ba7a1857029449c91
-size 443
+Subject: wellhead desk - new headcount
+this week , the wellhead desk has done more than 150 deals . we need to
+discuss adding a headcount ( maybe 2 ) , as originally we were just integrating
+the book with the daily business . at the current pace , this is no longer an
+option . bob , will this require an additional headcount for logistics as
+well ? and , who needs to sign off on this on the commercial side ?
+thanks for your help ,
+jg

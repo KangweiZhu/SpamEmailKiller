@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97ae023ab9a566ffeffa598d1095d4ec05460bb25dff0f3f24bac21a9a6db170
-size 477
+Subject: returned mail : see transcript for details
+the original message was received at tue , 15 feb 2005 10 : 26 : 26 + 0100 ( met )
+from [ 127 . 0 . 0 . 1 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : 550 5 . 0 . 0 . . . bestemmeling onbekend )
+- - - - - transcript of session follows - - - - -
+. . . while talking to mailhost 4 . vlaanderen . be . :
+> > > rcpt to :
+. . . bestemmeling onbekend
+550 5 . 1 . 1 . . . user unknown

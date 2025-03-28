@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7603e097130e63afd93ce38b2389867e4441edad1e054a7abadae2fa9e9319d6
-size 302
+Subject: unify passwords will be reset under sybase 12 . 0
+all ,
+when we convert unify to sybase 12 . 0 , all passwords will get reset to
+" houston " . once you login to unify you will have to change you password .
+this is an unavoidable side affect of migrating to sybase 12 . 0 .
+thanks ,
+chris

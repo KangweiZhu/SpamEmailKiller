@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f41474ded8219f6f8ec3823e690810a92ecb6f5b7e3e8ceff1fb7a7644cb23e2
-size 451
+Subject: sitara availability this evening ( 06 / 29 ) due to emergency repairs
+sitara and cpr will be unavailable after 9 : 00 pm this evening ( 06 / 29 ) so that
+additional repairs can be made in the server room on 34 . this outage will
+impact all systems
+it is anticipated that sitara will be available beginning at 6 : 30 am tomorrow
+( 06 / 30 ) morning .
+any questions or concerns , please contact the sitara hotline ( x 37049 )
+scott mills

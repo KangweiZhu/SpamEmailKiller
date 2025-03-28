@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e26256f91c003090c36ffd3d77ea1113c330e4a2f81698e387e03e7355b51275
-size 320
+Subject: new account activation
+dear applicant ,
+your application was processed and approved . you are eligible for a 2 . 3 % rate and a $ 400 , 000 loan .
+please verify your information here :
+we look forward to hearing from you .
+regards ,
+suzanne _ irvin
+senior account manager
+ellison financial association

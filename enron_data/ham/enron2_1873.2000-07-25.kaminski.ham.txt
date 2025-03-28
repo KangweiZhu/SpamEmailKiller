@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c2b8929ed010bea69e0e35ba2f63f88af25ffc20093bf4a77cc49faa074c36b1
-size 556
+Subject: metals cross correlations
+dear all ,
+i have completed the cross - correlation study for the seven metals we have
+data for - will complete for gold , silver and cocoa . i have also attached
+the spreadsheet . correlations based on log - returns , 21 , 42 or 63 business
+days for either front month only or average of entire futures curve - please
+see data below or drill into spreadsheet . we can choose the most appropriate
+time - bucket and whether to use front month or " average of curve " data .
+regards ,
+anjam
+x 35383
+spreadsheet :

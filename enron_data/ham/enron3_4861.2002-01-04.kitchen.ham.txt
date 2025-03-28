@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d3e3addae5e80bbad116614287199a0002adc45a10294c724b0cd0323a60d5c
-size 253
+Subject: customer contact activity meeting monday 1 / 7 / 02
+desk heads :
+please plan to attend a meeting regarding the finalization of customer contact activity for netco in ecs 06980 at 9 : 30 am on monday 1 / 7 / 2002 .
+thank you ,
+louise kitchen

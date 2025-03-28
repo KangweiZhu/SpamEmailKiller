@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e710ca120414850c99cc5c7659a2022c41691067989c07a5afa4eeb634047f31
-size 224
+Subject: final
+this is absolutely the final rewrite of this letter ( just joking ! ) unless
+there are any further changes needed , i am proceeding with printing the
+letters for all 240 ( or there about ) employees .
+fran

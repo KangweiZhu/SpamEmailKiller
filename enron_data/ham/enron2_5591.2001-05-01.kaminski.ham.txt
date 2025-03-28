@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f6aa624a160debdc0f9b9c71d41d3ada85aa1aa58c687891345ce3f40953840
-size 436
+Subject: installation of new programs
+phillip ,
+how can i install new programs on my laptop , without
+the administrator ' s privileges ?
+one example : when i travel i use aol to get access to my mail
+and to communicate with the office . windows 2000 does not allow
+me to install it .
+also , i have my private statistical software
+i often use when i work at night during business trips .
+i would like to load it as well .
+vince

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13c5fb457910538ca597da5e2f80791fc6ea33fb7b7f009c886f025aec2eb1c5
-size 85
+Subject: allocations
+becky ,
+please , take a look at the allocations sheet .
+vince

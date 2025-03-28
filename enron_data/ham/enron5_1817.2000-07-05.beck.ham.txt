@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e45aeb001799765145ba03176a3e88e1bd673326eb58f71ab16b9206e0c68b36
-size 178
+Subject: staff meeting
+there will not be a friday meeting july 7 , 2000 .
+date : friday july 7 , 2000
+time :
+location :
+topic : no meeting due to prc
+thanks ,
+kay 3 - 0643

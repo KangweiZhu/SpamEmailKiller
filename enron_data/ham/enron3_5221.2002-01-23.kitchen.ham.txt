@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3fd4c12c458f77b2340ae25a18369b81b1aa52c8bb35ef85301e60d53af5f378
-size 303
+Subject: hart scott redina application
+i spoke to carol essig today who confirmed to me that the hart scott redina application is planned to be made later today .
+this means that the 15 day waiting period ( confirmed to be calendar days , not business days ) will expire on friday , february 8 .
+dave

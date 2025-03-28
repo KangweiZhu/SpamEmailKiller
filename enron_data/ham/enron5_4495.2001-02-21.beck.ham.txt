@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ade4744adf14fb32c0aff7ad851f1b9fbfa2d455ca56b147ff7d18e7c58d6ef
-size 618
+Subject: website link of outsourcing offsite
+the info from the outsourcing offsite has been loaded to the development
+environment of the global risk operations home page . take a look . i scanned
+and didn ' t see anything i wouldn ' t want to have in production , but thought
+you might want to check before we move it into production . once you say
+okay , we ' ll move it out and then we need you to send the memo out that
+introduces the website .
+http : / / gro . dev . corp . enron . com /
+click the link and then select " outsourcing ase studio workshop " under the
+global heading in the body of the page .

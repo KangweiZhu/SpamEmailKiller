@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f05cfa45c166300970f89afb0264a80cfcf0a15dee237c1a8ced375b16cd4ea
-size 301
+Subject: mail delivery failure
+* * * * * * message from interscan e - mail viruswall nt * * * * * *
+sent > > > rcpt to :
+received . . . no such user here .
+could not deliver mail to this user .
+antonioc @ onvol . net
+* * * * * * * * * * * * * * * * * end of message * * * * * * * * * * * * * * *

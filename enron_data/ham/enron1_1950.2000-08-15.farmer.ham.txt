@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e49221736480665892f7b1112839b36441bb37804854c6e52503be8c7992238
-size 272
+Subject: organisational meeting
+please plan on attending an organisational meeting today at 2 : 30 in room 46 cl .
+sorry for the short notice .
+if you can not make it , please get with steve jackson , leslie reeves or
+myself so we can
+keep you informed .
+thanks
+bob

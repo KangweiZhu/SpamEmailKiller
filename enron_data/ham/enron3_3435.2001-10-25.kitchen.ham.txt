@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2f6087223f25c77794ea2669335173ab2ff33c0dcb52ab6cad9b3f6f0d3aa88
-size 259
+Subject: fw :
+- - - - - original message - - - - -
+from : arnold , john
+sent : thursday , october 25 , 2001 2 : 36 pm
+to : lavorato , john
+subject :
+spinnaker , one of fred ' s customer ' s , unwound a hedge today because they dont want exposure to us .

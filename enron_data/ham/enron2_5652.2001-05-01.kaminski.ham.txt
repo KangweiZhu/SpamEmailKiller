@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2a7fd153d18813ae8528dbf92844fda44e2893b44a296ae75611f7844efdadd
-size 135
+Subject: jury duty
+shirley ,
+i have been summoned for jury duty and plan to be out tomorrow , wednesday ,
+may 2 .
+thanks ,
+stinson

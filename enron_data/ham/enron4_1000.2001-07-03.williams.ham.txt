@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:856504d8f00dea720650749d9ea3169021ef5d3894666ae260d77ea031b52a02
-size 243
+Subject: announcement
+a few weeks ago i sent out an e - mail announcing sean crandall ' s departure from enron . upon further consideration , sean has decided to stay with us . please join me in welcoming him back from his european vacation .

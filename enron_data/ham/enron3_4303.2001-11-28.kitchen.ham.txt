@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f80cef0aead96afbddf720b91f352b31ef188566c51b5e5444ccdc58ebcf8e62
-size 200
+Subject: current non - payments
+attached are nonpayments for power , gas , and financial settlements . these are as of 9 : 10 a . m . today . we will update these throughout the day . thanks , leslie

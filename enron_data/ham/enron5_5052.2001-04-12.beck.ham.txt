@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:318ae6119721037e8879855c56835a97532360022b20a8d6b3717eede1ee939c
-size 122
+Subject: new building
+here is the egm headcount report . please let me know if you have any questions .
+thanks ,
+laurel

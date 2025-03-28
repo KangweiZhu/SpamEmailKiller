@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:adf9b181a8e723e5ec00b9cc323e35a60837fbaad73e046682fad9181c05c694
-size 276
+Subject: nom chnage - 7 / 7 / 2000 - eastrans
+this is to increase our noms for 7 / 7 from hpl into eastrans to 57 , 800 mmbtu / d .
+redeliveries will be :
+25 , 000 into pg & e
+7 , 800 into hpl from fuels cotton valley
+25 , 000 to hpl ' s cartwheel agreement at carthage .

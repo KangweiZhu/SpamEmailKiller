@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0cfae76a38ff2cc5573a404ed04820f4cd9a23233a4e7f878d389e7964a18b8a
-size 231
+Subject: ljm pricing
+vince :
+here are the files for pricing the deal without and with credit risk :
+1 ) without credit risk :
+2 ) with credit risk : ( two factor model )
+talk to you tomorrow 1 : 00 pm .
+thanks .
+paulo issler

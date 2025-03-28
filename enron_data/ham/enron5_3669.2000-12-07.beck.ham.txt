@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3085b36ae3ae8f4be14c0ca670edf1be515a95f5d158115929afa247ab0d8685
-size 393
+Subject: o : erms
+all -
+o : erms is virtually out of diskspace . if you have any large files that can be
+zipped or deleted please do so . we had to delete files last night just so we
+could save our p & l ' s . we have a program which will show all files over a
+certain meg . and which haven ' t been used prior to any date of your
+choosing . if you need this please let me know .
+thanks

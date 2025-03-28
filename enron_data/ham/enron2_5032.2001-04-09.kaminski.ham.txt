@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4976ba0d621e3b0e4eb85d73725a31ca6925820db076cdd23aa5896e81d7c12
-size 683
+Subject: faculty contact and schedule persentation
+dear mr . kaminski ,
+the following are the faculty details :
+ms . deborah j . barrett
+instructor & dir . , mba communications
+phone 713 - 348 - 5394
+barrett @ rice . edu
+mr . wil uecker
+associate dean for executive education
+phone 713 - 348 - 5869
+uecker @ rice . edu
+mr . dennis wayne loughridge
+adjunct professor - management
+phone 713 - 348 - 4869
+lounghrid @ rice . edu
+i will also speak with the faculty and inform them about the details
+concerning the presentation on may 7 at enron office ( time to be determine )
+and the dinner following it .
+sincerely ,
+luigi calabrese
+rice mba candidate
+class of 2002

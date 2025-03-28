@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ca568444223c26e3abf2a68c819062781e5c7a98b7545a2039165209f678591
-size 460
+Subject: my portfolio
+hi
+my name is ernie , i may not have the right email address , if not
+please excuse my intrusion . if you are interested
+in some web design work for your company .
+please click the link below to see my portfolio :
+http : / / www . mywebdesignportfo
+lio . com /
+thanks ,
+ernie
+if you would like to be removed from my address book permanently ,
+please click this link and type remove in the subject line :
+click
+here : remove

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0faee90aa3e6813eaa0f80e0da756d898f0ae5e285fe57da09ae07bf8d64c6d3
-size 386
+Subject: epc negotiation team
+louise :
+congrats ! parenthood makes you realize what a luxury sleep is .
+as mentioned in your last email i confirmed with brian that he is ok with sending out the epc negotiation team memo . this group has already been meeting for several weeks and is helping in integrate turbopark and rac requirements into our development process .
+regards ,
+brian

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d3e8d113bf30c83a48fe9ffccf82816359943d8d3a31133c14b7564c4e76330f
-size 321
+Subject: special assets may 11 , 2001 report
+attached is the may 11 report and scorecard .
+as requested the report includes a reconciliation of margin to the second quarter management summary and a 4 months actual vs . plan for pre - tax net income .
+this is the narrative report :
+this is the scorecard spreadsheet :

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe71186dfe1ca0af6b9e3d92697a5cb66cd93112f6583f1daf0abf865ecc7c8a
-size 187
+Subject: multi trigger
+vince ,
+jere asked that i forward you a copy of the draft presentation on the multi
+trigger transactions .
+please call if you have any questions .
+54426
+joana

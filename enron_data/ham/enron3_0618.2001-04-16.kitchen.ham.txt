@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f20192efb1632fed50487ad64dff7d5028e578b60f203f5fc0779a145deef38
-size 265
+Subject: crescendo and megs descriptions
+louise ,
+attached are the balance sheet descriptions for megs and crescendo . i do not have the aggregate book value numbers associated with crescendo since ena upstream products only has a 35 % interest .
+regards ,
+jean

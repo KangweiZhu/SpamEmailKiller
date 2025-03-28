@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:805c1709debde6c96dfcc6f08e5223af9e9b7b67e796dc5fff41fc42de26ce0c
-size 319
+Subject: storage model back - testing
+brad ,
+with your success in automation of the testing , we can go ahead to test
+storage cycles as follows
+april 95 - march 96
+april 96 - march 97
+april 97 - march 98
+april 98 - march 99
+april 99 - march 00
+this way we can collect 5 years data for further analysis .
+zimin

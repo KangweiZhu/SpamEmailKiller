@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5fcf186f73c537c4e5fb1b4ad358af18fc1e8aed07ff64144c6dfc008ea2b114
-size 662
+Subject: telephone interview with the enron corp . research group
+good afternoon mr . xu
+your resume has been forwarded to the research group with enron corp .
+they would like to conduct a telephone interview with you at your convenience .
+please let me know your available dates and times along with the telephone
+number you may be reached at and they will call you .
+the interviewers would be :
+vince kaminski managing director
+stinson gibner vice president
+zimin lu director
+look forward to hearing from you .
+regards ,
+shirley crenshaw
+administrative coordinator
+enron corp . research
+713 / 853 - 5290
+email : shirley . crenshaw @ enron . com

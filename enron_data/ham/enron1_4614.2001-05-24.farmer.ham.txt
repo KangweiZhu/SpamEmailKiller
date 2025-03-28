@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:262bb84f4776b51f14c8c4df71d3d5d346c157596e9cc8cf20b637be8f8bd4f5
-size 272
+Subject: eastrans nomination for 6 / 01 / 01
+first of the month nomination for june 2001 :
+deliveries into eastrans from hpl will be 20 , 000 mmbtu / dy .
+the redeliveries will be 17 , 000 mmbtu / dy from fuels cotton valley and 3 , 000
+mmbtu / dy into the cartwheel .

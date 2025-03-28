@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05c4d9917bbdecaf22c02cbcee75a944173bd71d124f45ab4813ed71e197e548
-size 295
+Subject: continental power curve validation april 2000
+attached is the april 2000 curve validation and profit report for continental
+power .
+if there are any questions or queries please let me know . appologies for
+this being late this month as i have been out of the office .
+regards james

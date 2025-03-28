@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:957b97c351460451e93157cc47863910957610f10f4592da29b0ec7873831278
-size 202
+Subject: eastrans september first of the month nominations
+effective 9 / 1 / 00 deliveries to eastrans is 30 , 000 mmbtu / dy
+the redeliveries will be :
+8500 from fuels cotton valley
+21500 to pg & e

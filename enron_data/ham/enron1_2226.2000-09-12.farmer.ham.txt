@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dbda4d8e682ce1ca58498b5711f267e766160835ceb3f6b4812c7d01db3c9ee7
-size 281
+Subject: global octanes
+we have two firm deals at hpl meter # 1528 , global octanes for sepo 0 and octo 0
+i need to make sure that deal # 315049 is first through the meter , and 276461
+is second through the meter .
+please check and correct if necessary
+thanks
+lee
+x 3 . 5923

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c82c9c546578926ebd845af22d0df6f66248c87da124c45a207f738ae12ea1e3
-size 144
+Subject: customer list
+please review again and forward back to me with correct names , addresses and
+phone numbers .
+thanks in advance ,
+adr

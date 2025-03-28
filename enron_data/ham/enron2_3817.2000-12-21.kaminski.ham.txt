@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00834981660e83ba533ea940cb4e1c728d9d22fc85f958457f88a8ddf54bb40b
-size 401
+Subject: request submitted : access request for amitava . dhar @ enron . com
+you have received this email because the requester specified you as their
+manager . please click
+approval to review and act upon this request .
+request id : 000000000011185
+request create date : 12 / 21 / 00 4 : 20 : 10 pm
+requested for : amitava . dhar @ enron . com
+resource name : vpn
+resource type : applications

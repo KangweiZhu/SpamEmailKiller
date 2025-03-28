@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9bfcda1486b0bf5234342ec7c29ea6f607804602eed2636f60a036077d744d77
-size 335
+Subject: nom change - 7 / 11 / 2000
+please increase deliveries to eastrans from hpl to 70 , 000 mmbtu / d eff
+7 / 11 / 2000 .
+redeliveries will occur as follows :
+7 , 800 from fcv
+25 , 000 into pg & e
+25 , 000 into hpl ' s cartwheel agreement at carthage
+12 , 200 at mobil beaumont .
+detm will have 9 . 000 additional to sell .

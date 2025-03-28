@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:606dff2f981107d87413e2bc42b3217b59e9789ad171e1ee49e8a55ef86d2722
-size 466
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 04 : 59 : 07 - 0600
+from pc - 202 - 169 - 136 - 140 . cable . kumin . ne . jp [ 202 . 169 . 136 . 140 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : 550 unknown user )
+- - - - - transcript of session follows - - - - -
+. . . while talking to mail . auracom . com . :
+> > > rcpt to :
+550 5 . 1 . 1 . . . user unknown

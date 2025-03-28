@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:445cb52eef9879260d7ae85ec52e2ac8ef2342d4dd9fa8817a2b896cd96f5ac4
-size 303
+Subject: delivery failure : ? ? ? ? t 620 ao 24679 coa 81 e 6517 c 4 ( t 620 ao 24679 coa 81 e 6517 c 4 @ marinfonet . com ) ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?
+your message
+subject : re : your text
+was not delivered to :
+t 620 ao 24679 coa 81 e 6517 c 4 @ marinfonet . com
+because :
+ $ b % f !

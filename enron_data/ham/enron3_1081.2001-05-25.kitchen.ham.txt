@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff42077ce1a60ad5f517286756a1ade306c13e4ab3d65ec60b3dff9b9ed8f995
-size 150
+Subject: hpl - 1 june close
+please find the attached status / action items for the hpl transactions . we are currently on target for a 1 june close .

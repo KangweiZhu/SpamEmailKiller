@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:767970c1e0c467f60bdd2a7600755eedb7684baad8fe7c149fcc314538413db1
-size 307
+Subject: enron / mg spain meeting
+details of a meeting between anthony key , enron financial operations remote
+offices , and cristopher cancho , mg spain , to review mg ' s spanish operations ,
+can be found on s : \ mg \ administration \ meeting reports \ enron - mgspain meeting -
+14 th june 2000 . doc

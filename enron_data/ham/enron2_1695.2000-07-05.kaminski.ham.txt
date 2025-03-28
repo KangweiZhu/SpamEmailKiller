@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b24dece9023a80321abcaa0eff6c5c36c9696966c6813c8afd3ca38b49029671
-size 144
+Subject: vacation
+goodmorning ,
+i will be out of the office on
+vacation for the next few days .
+thanks
+kevin moore
+see you when i return .

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:03477e5371b6200ac3308194a71d0ae568f6cacdc965b001b74c54f4910b6b65
-size 470
+Subject: resid fx option
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 08 / 17 / 2000 09 : 57 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+zimin lu
+08 / 17 / 2000 09 : 59 am
+to : stinson gibner / hou / ect @ ect , paulo issler / hou / ect @ ect
+cc :
+subject : resid fx option
+i have created a directory residfx in
+where i put my monte - carlo model ( c project ) and calling spreadsheet for
+the valuation .
+zimin

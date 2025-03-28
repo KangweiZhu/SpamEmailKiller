@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e164b839ae25a5ff07389d4208f2704688d56a47d913b9d5aedf6d0cc9bc8ac1
-size 196
+Subject: tw deal analysis - basis differential
+michelle ,
+the changes for tw deal analysis to use latest basis differential based on
+receipt point
+area is in production .
+thanks ,
+mei - ling

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9eb4a9f9a4761ac1a81f651bb93857a357b4d6cd1a5145ec8b291ed3fc4f5050
-size 424
+Subject: request submitted : access request for chris . sanchez @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000010212
+request create date : 12 / 13 / 00 11 : 43 : 22 am
+requested for : chris . sanchez @ enron . com
+resource name : eol us backoffice data manager
+resource type : applications

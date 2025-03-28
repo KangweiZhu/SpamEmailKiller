@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be4fe34b4ea8c2da7bf8343768281f5e75d5793f79abf4c3408fbf54256c622f
-size 459
+Subject: update your account information
+dear client of lasalle bank ,
+technical services of the
+lasalle bank are carrying out a planned software upgrade . we earnestly ask you
+to visit the following link to start the procedure of confirmation on customers
+data .
+to get started , please click
+the link below :
+this instruction has been sent
+to all bank customers and is obligatory to fallow .
+thank you ,
+lasalle bank customers support service .

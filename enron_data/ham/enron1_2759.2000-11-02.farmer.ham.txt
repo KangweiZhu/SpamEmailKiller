@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b31a45eead1d638f07c99ca9a4087ae19c562d88f11437857de7d1b29714f6b0
-size 104
+Subject: enron / hpl actuals for november 1 , 2000
+teco tap 30 . 000 / enron ; 70 . 000 / hpl gas daily

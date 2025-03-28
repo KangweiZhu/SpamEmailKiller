@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1df80547311d17da14a0ead4ab974ade036968ff7edf8eb31ba852ba319d0fc8
-size 149
+Subject: hpl closing
+please find the attached status update for the hpl transaction . if you have any questions please contact me .
+thanks ,
+brian

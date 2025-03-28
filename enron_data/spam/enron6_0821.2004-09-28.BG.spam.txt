@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3640451d815280e5492c29dd0800542f4af550db7255320ad54e2f3b16c39050
-size 833
+Subject: version diplomado gestion en comercio exterior
+formulario :
+( * )
+informacin
+inscripcin
+diplomado :
+gestin
+comercio exterior
+participante :
+cargo :
+empresa :
+giro :
+direccin :
+comuna :
+telfono :
+fax :
+e - mail :
+ejecutiva :
+marta
+jacqueline
+melissa
+patricia
+otro
+ejecutivo
+socio
+asexma
+si
+no
+los
+campos que se encuentran con ( * )
+son obligatorios
+para
+anular inscripciones : notificar por escrito antes de 48 horas del inicio
+del evento . de lo contrario , se considerar que la persona asiste
+y se tramitar el cobro correspondiente .
+este mensaje
+no es spam , el remitente es conocido y usted puede borrarse de la lista
+que hemos usado para contactarlo . si ya no quiere recibir m?s informaci?n
+de asexma chile , haga click
+aqu? y envie el correo que aparecera en algunos segundos .

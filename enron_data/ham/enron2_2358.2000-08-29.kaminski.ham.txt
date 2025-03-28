@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea39879168c790229382b9b44d31986e644fae90fc322a2aac740d90c7b2fdfa
-size 199
+Subject: joint probabilities
+michael
+tables of joint probabilities for scenario 3 ( 8 % improvement rate during the
+regulatory cycle ) are attached .
+call if you have any questions .
+bob x 35163

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca16c990b9cc9582b2a35397b53a725eff9112e5c20d1a7e3665768f97588d14
-size 130
+Subject: enron / hpl actuals for september 25 , 2000
+monday , september 25 , 2000
+teco tap no flow
+hpl ls katy 15 . 000 / enron

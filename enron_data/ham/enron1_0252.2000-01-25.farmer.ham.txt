@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88d7db4b1c83cc84a2fe637c8677778984160c3948e51cd10c03b235f209870b
-size 60
+Subject: day 26 - txu lonestar called on 20000 at carthage

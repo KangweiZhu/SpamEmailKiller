@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:528c410ca40f0fd0293aa1f234ac20ffc308686f2fb0b945e19820020fcb9562
-size 416
+Subject: request submitted : access request for mraymon @ enron . com
+you have received this email because the requester specified you as their
+manager . please click
+approval to review and act upon this request .
+request id : 000000000007494
+request create date : 11 / 15 / 00 12 : 57 : 59 pm
+requested for : mraymon @ enron . com
+resource name : unlisted application / software
+resource type : applications

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ae2ad15fe7c5e4dff52c9729549596d1ce454410f77315134385f57006b9d44
-size 197
+Subject: extend deal
+during the month of june there is flow at meter 6347 , but there is no deal .
+there is a deal in may ( deal 290472 ) , " could you extend that deal for the
+month of june ? "

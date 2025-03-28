@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f135c1dd63ac4521b9db25cd17f6158bef534e2999a0186c5866f035a021553c
-size 148
+Subject: hpl nom . revisions
+( see attached file : hplnol 12 . xls )
+( see attached file : hplnol 13 . xls )
+- hplnol 12 . xls
+- hplnol 13 . xls

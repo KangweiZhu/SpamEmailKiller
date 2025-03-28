@@ -6,6 +6,11 @@ import pickle
 from sklearn.metrics import confusion_matrix, accuracy_score
 from visualizer import SpamVisualizer
 import argparse
+from multiprocessing import Pool
+import numpy as np
+from tqdm import tqdm
+import time
+
 
 # http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/index.html
 def parse_email_content(raw_email):
@@ -20,45 +25,45 @@ def parse_email_content(raw_email):
     body = '\n'.join(lines[start:])
     return body.lower().strip()
 
+
 def load_data(data_dir):
     print(f"Loading data from  {data_dir}")
     emails = []
     labels = []
-    
+
     for label in ['spam', 'ham']:
         label_dir = os.path.join(data_dir, label)
         file_count = 0
         for filename in os.listdir(label_dir):
             file_path = os.path.join(label_dir, filename)
-           
+
             with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                 content = f.read()
                 if len(content.strip()) > 0:
                     if 'email_data' in data_dir:
                         content = parse_email_content(content)
-                emails.append(content)
-                    if label == 'spam':
+                    emails.append(content)
+            if label == 'spam':
                 labels.append(1)
-                    else:
-                        labels.append(0)
-                    file_count += 1
-                    # print(f"{label} filenumL: {file_count}:")
-                    # print(content[:100])
-            
-        
-        print(f"Loaded {file_count} emails from {label}")
+            else:
+                labels.append(0)
+            file_count += 1
+        # print(f"{label} filenumL: {file_count}:")
+        # print(content[:100])
+    print(f"Loaded {file_count} emails from {label}")
 
     print(f"total emails: {len(emails)}")
     print(f"spam emails: {sum(labels)}")
     print(f"ham emails: {len(labels) - sum(labels)}")
-    print(f"spam email percentage: {sum(labels)/len(labels):.2%}") # Because we label each spam email as 1, thus we can use sum
+    print(f"spam email percentage: {sum(labels) / len(labels):.2%}")  # Because we label each spam email as 1, thus we can use sum
 
     # lengths = [len(email.split()) for email in emails]
     # print(f"邮件最少单词含量: {min(lengths)}")
     # print(f"最大: {max(lengths)}")
     # print(f"avg: {sum(lengths)/len(lengths):.2f}")
-    
+
     return emails, labels
+
 
 def generate_report(train_stats, test_results, output_dir='reports', is_drytest=False):
     visualizer = SpamVisualizer(output_dir)
@@ -68,7 +73,10 @@ def generate_report(train_stats, test_results, output_dir='reports', is_drytest=
     visualizer.plot_accuracy_table(test_results)
     visualizer.generate_text_report(train_stats, test_results, is_drytest)
 
+
 def train_and_test():
+    start_time = time.time()
+    
     print("Loading Enron dataset")
     enron_emails, enron_labels = load_data("enron_data")
     print("Loading SpamAssassin dataset")
@@ -82,8 +90,8 @@ def train_and_test():
     all_sources = enron_sources + assasin_sources
 
     x_train, x_test, y_train, y_test, src_train, src_test = train_test_split(
-        all_emails, all_labels, all_sources, 
-        test_size=0.2, 
+        all_emails, all_labels, all_sources,
+        test_size=0.2,
         random_state=40,
         stratify=all_sources
     )
@@ -92,24 +100,25 @@ def train_and_test():
     print(f"testet size size: {len(x_test)}")
     print(f"testsset data from Enron: {src_test.count('enron')}")
     print(f"testset data from assasin: {src_test.count('spamassassin')}")
-    
+
     print('pre-process email train datas')
+    preprocessor = EmailPreprocessor()
+
     train_data = []
-        preprocessor = EmailPreprocessor()
-    for i, email in enumerate(x_train, 1):
+    for i, email in enumerate(tqdm(x_train), 1):
         processed = preprocessor.preprocess_email(email)
         train_data.append(processed)
-        if i % 100 == 0:
-            print(f"Processed {i}/{len(x_train)} train email")
-    X_train_features = preprocessor.extract_features(train_data)
+        if i % 1000 == 0:
+            print(f"Processed {i}/{len(x_train)} train emails")
+    X_train_features = preprocessor.extract_features(train_data, batch_size=1000)
 
     print("pre-process email test datas")
     test_data = []
-    for i, email in enumerate(x_test, 1):
-            processed = preprocessor.preprocess_email(email)
+    for i, email in enumerate(tqdm(x_test), 1):
+        processed = preprocessor.preprocess_email(email)
         test_data.append(processed)
-        if i % 100 == 0:
-            print(f"processed {i}/{len(x_test)} test email")
+        if i % 1000 == 0:
+            print(f"Processed {i}/{len(x_test)} test emails")
     X_test_features = preprocessor.tfidf_vectorizer.transform(test_data)
 
     train_stats = {
@@ -126,12 +135,12 @@ def train_and_test():
     test_results = {}
 
     print("Training all models")
-        models = {
+    models = {
         'baseline': BaselineSpamClassifier(),
-            'nb': MLSpamClassifier(classifier_type='nb'),
-            'svm': MLSpamClassifier(classifier_type='svm')
-        }
-        
+        'nb': MLSpamClassifier(classifier_type='nb'),
+        'svm': MLSpamClassifier(classifier_type='svm')
+    }
+
     for name, model in models.items():
         print(f"evaluating {name}")
         if name != 'baseline':
@@ -140,7 +149,7 @@ def train_and_test():
         else:
             # just use keyword matching
             y_pred = [model.predict(email) for email in x_test]
-        
+
         test_results[name] = {
             'overall': {
                 'accuracy': accuracy_score(y_test, y_pred),
@@ -180,6 +189,12 @@ def train_and_test():
     with open("preprocessor.pkl", 'wb') as f:
         pickle.dump(preprocessor, f)
 
+    print(f"Data loading took {time.time() - start_time:.2f} seconds")
+    preprocess_start = time.time()
+    print(f"Preprocessing took {time.time() - preprocess_start:.2f} seconds")
+    training_start = time.time()
+    print(f"Training took {time.time() - training_start:.2f} seconds")
+
 def drytest():
     print("Loading models")
     with open("preprocessor.pkl", 'rb') as f:
@@ -204,8 +219,8 @@ def drytest():
     all_sources = enron_sources + assasin_sources
 
     _, x_test, _, y_test, _, src_test = train_test_split(
-        all_emails, all_labels, all_sources, 
-        test_size=0.2, 
+        all_emails, all_labels, all_sources,
+        test_size=0.2,
         random_state=40,
         stratify=all_sources
     )
@@ -215,12 +230,12 @@ def drytest():
     print(f"From SpamAssassin: {src_test.count('spamassassin')}")
 
     test_data = []
-    for i, email in enumerate(x_test, 1):
+    for i, email in enumerate(tqdm(x_test), 1):
         processed = preprocessor.preprocess_email(email)
         test_data.append(processed)
-        if i % 100 == 0:
+        if i % 1000 == 0:
             print(f"Processed {i}/{len(x_test)} test emails")
-    
+
     X_test_features = preprocessor.tfidf_vectorizer.transform(test_data)
 
     train_stats = {
@@ -236,14 +251,14 @@ def drytest():
 
     test_results = {}
     print("Evaluating models")
-    
+
     for name, model in models.items():
         print(f"Testing {name} model")
         if name != 'baseline':
             y_pred = model.predict(X_test_features)
         else:
             y_pred = [model.predict(email) for email in x_test]
-        
+
         test_results[name] = {
             'overall': {
                 'accuracy': accuracy_score(y_test, y_pred),
@@ -278,16 +293,18 @@ def drytest():
     print("Generating test report")
     generate_report(train_stats, test_results, output_dir='drytest_reports', is_drytest=True)
 
+
 def interactive_predict(model_path, email_content):
-        with open("preprocessor.pkl", 'rb') as f:
-            preprocessor = pickle.load(f)
+    with open("preprocessor.pkl", 'rb') as f:
+        preprocessor = pickle.load(f)
+
 
     with open(model_path, 'rb') as f:
         model = pickle.load(f)
-    
+
     processed_content = preprocessor.preprocess_email(email_content)
     X = preprocessor.tfidf_vectorizer.transform([processed_content])
-    
+
     if isinstance(model, BaselineSpamClassifier):
         prediction = model.predict(email_content)
         probability = [0.0, 1.0] if prediction == 1 else [1.0, 0.0]
@@ -297,8 +314,9 @@ def interactive_predict(model_path, email_content):
             probability = model.classifier.predict_proba(X)[0]
         else:
             probability = [0.0, 1.0] if prediction == 1 else [1.0, 0.0]
-    
+
     return prediction, probability
+
 
 def main():
     parser = argparse.ArgumentParser(description='Spam Email Detection System')
@@ -312,14 +330,14 @@ def main():
             parser.error("--email is required for predict command")
 
         model_path = f"{args.model}_model.pkl"
-       
+
         email_content = None
         email_input = ' '.join(args.email)
-        
+
         if os.path.exists(email_input):
             with open(email_input, 'r', encoding='utf-8', errors='ignore') as f:
                 email_content = f.read()
-    else:
+        else:
             email_content = email_input
 
         prediction, probability = interactive_predict(model_path, email_content)
@@ -327,11 +345,11 @@ def main():
         spam_prob = probability[1]
         print(f"Classification: {result}")
         print(f"Spam Probability: {spam_prob:.2%}")
-        print(f"Ham Probability: {(1-spam_prob):.2%}")
+        print(f"Ham Probability: {(1 - spam_prob):.2%}")
 
     elif args.command == 'train':
         train_and_test()
-    
+
     elif args.command == 'drytest':
         drytest()
 

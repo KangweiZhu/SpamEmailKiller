@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98aba32f3e48af674835f6b32d747fbb5d12d29313ed5b896b70a4fc4c3dcb1a
-size 549
+Subject: organisational announcement
+we are pleased to announce that we have appointed michael brown as chief
+operating officer of enron europe .
+michael joined enron  , s london legal department in 1995 and has played a key
+role in the success of many of our large commercial ventures since then . in
+july 1999 , he was made enron europe  , s general counsel . replacing michael in
+the general counsel role will be mark evans who joined our legal department
+in 1995 .
+please join us in congratulating michael and mark in their new roles .

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:94bdb984dc9e4f797f0c047e205dd5cab043d632dfe30d9f32870e56c9cf4198
-size 188
+Subject: cal prices
+here ' s the path to the california prices sheet :
+p : trading / california / cascheduling / cash / position / ca / 2001 / feb 2001 / cal prices
+have fun with that .

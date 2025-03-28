@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aec952d17233ace03a1caa05fb3bc3f6f463daacf8ce9a8402f6cb1b030faf47
-size 205
+Subject: mail delivery ( failure paliourg @ iit . demokritos . gr )
+if the message will not displayed automatically ,
+follow the link to read the delivered message .
+received message is available at :

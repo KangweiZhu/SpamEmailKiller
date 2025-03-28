@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec4022e081d0fbbcfe3f7e2d02eec9cf077748645d145dac9a2538663014bb8c
-size 185
+Subject: gas master
+david :
+pursuant to our discussion , attached is the revised gas master which includes the collateral annex as exhibit d . sorry for the previous confusion .
+jeff

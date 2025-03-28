@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d5d6dc710f83854ab4e66265304a6d943904afaec3553a8b58dc2003ca65c47c
-size 386
+Subject: a few comments
+john ,
+happy new year . i hope the first few weeks of this year will see the
+completed paper .
+i am sending you the last version of the paper i have received with a few
+comments ( in red ) . i think it makes sense to discuss the paper over the
+phone . i have a number of more detailed comments .
+vince
+- enron transformation paperl 2 _ 17 _ 00 _ vk . doc

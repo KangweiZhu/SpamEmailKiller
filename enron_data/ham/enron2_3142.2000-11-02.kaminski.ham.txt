@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc706e9286613dc3417c4d39a5c209df94f1c84e1b6bc9d6a9b865f6eb4f369d
-size 1357
+Subject: fw : notes for var course
+> - - - - - original message - - - - -
+> from : mccarthy , jane j
+> sent : wednesday , 25 october 2000 16 : 55
+> to : ' vkaminski @ aol . com '
+> subject : notes for var course
+>
+> dr . kaminski ,
+>
+> i attended your var course in sydney in july , but when i went back to look
+at the notes recently i found that i am missing some sections ( e . g . optimal
+techniques for measuring var , using monte carlo techniques to accurately
+calculate var , evaluating the impact of volatility and extreme values on
+var ) . would you be able to send me a copy of your notes , as i am about to
+embark on a var modelling exercise and i am sure they would be very useful .
+>
+> regards ,
+> jane mccarthy
+> manager market risk
+> bhp co . pty ltd .
+> lvl . 45 , 600 bourke street
+> melbourne , vic 3000
+> australia
+>
+> ph : 613 9 609 3860
+> fax : 613 9 609 3861
+> email : mccarthy . jane . j @ bhp . com . au
+>
+>
+>
+eom
+notice - this message contains information intended only for the use of the
+addressee named above . it may also be confidential and / or privileged . if
+you are not the intended recipient of this message you are hereby notified
+that you must not disseminate , copy or take any action in reliance on it . if
+you have received this message in error please notify postmaster @ bhp . com .

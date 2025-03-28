@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11292d247486a1eafc95ec9c38f30e4f48398f72f0bac524f755c52182d2392a
-size 447
+Subject: my departure from enron
+dear all ,
+i have decided to attend carnegie mellon ' s computational finance program for
+the
+2001 - 2002 academic year . the program starts on may 14 th .
+unfortunately due to the quick arrival of the starting date , my last day at
+enron will
+have to be friday , april 13 th 2001 .
+i have really enjoyed my last 10 months here at enron which i ' ve spent with
+the
+research group .
+thank you .
+- hector

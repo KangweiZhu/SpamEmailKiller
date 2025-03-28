@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9631492df4864b9ee5bc67172f051572e50716d563d14c793d2328f1e573420
-size 267
+Subject: bny draft 8 : 30 am
+i am working on this now and will be working more with don and the team this morning . many of the number need to be updated , particularly the credit reserve , which has come down given what we know about our risk mitigation structure .

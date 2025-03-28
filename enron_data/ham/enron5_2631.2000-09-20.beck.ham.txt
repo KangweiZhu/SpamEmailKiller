@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c05f7d79d767ef3c2a8fef787e875a0e1db2b1c12980deef764885208a78c0a4
-size 664
+Subject: growth statistics
+sally ,
+jeff skilling mentioned today that gas volume growth in ena was still about
+97 % year on year .
+i don ' t know how much of this is increased number of trades and how much is
+increased volume per trade .
+we are currently preparing a zero - base estimate of future support costs to
+assess the benefits v costs of all projects .
+assuming that the business in europe will develop in a similar way to
+america , but a few years behind , it would be most useful to have some more
+statistics for several years back .
+who in your team has some more statistics on numbers of trades which could
+help us ?
+many thanks ,
+richard

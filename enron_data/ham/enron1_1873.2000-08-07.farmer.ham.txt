@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee7dd2241f7f73d44fae1abece8bc44ce2b6d3322987b63b835e85a44666bbce
-size 82
+Subject: bridge errors
+keep an eye on the bridge - these are still erroring out .

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43508d2486b847f5399e3a1f55f491c66843ef313aec910782d2425b4845fe75
-size 392
+Subject: revised nomination - june , 2000
+daren ,
+charlotte hawkins is having trouble confirming the volume of 5 , 733 with el
+paso . el paso will not confirm the volume that high . eog revised their
+nomination as follows :
+c / p name meter # orig nom rev nom
+eog res . 6296 5 , 733 2 , 300
+will you approve revising the volume in unify down to 2 , 300 ? please advise .
+thanks .
+bob

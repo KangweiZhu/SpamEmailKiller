@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8d4a3bb08fe4661057245767eabedeea9a086a3906f8452852ab181859dc650
-size 515
+Subject: promotion memo
+i have reviewed the memo distributed in yesterday ' s staff meeting and offer
+the following changes in red :
+brenda herod serves as business controller for ena ' s assets business , working
+with the gas assets group and the texas trading desk . her responsibilities
+include global contracts and facilities , risk management , confirmations , gas
+scheduling , volume management , settlements and regulatory compliance for
+houston pipeline , lrc and enron midstream services .
+thanks .

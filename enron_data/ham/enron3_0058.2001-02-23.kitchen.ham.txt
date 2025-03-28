@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a49050474a74190c4522227e7eeca038e6ae129d8bb8b489984a68bb1dc9e0f3
-size 519
+Subject: revised customer list
+attached is the revised list with changes you requested . i spoke with frank vickers about a few of the entries to ensure they were not duplicates with regards to cities and their departs . he advised that we would consider them two customers .
+example : talahassee , city of
+talahassee electric this would greatly assist with sorting the information . after your review i can send back to the gas teams and ask them to populate some of the missing data if you wish .
+regards ,
+tammy

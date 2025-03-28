@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5cf97343f6afaa34c49d927a7aa8cea9facad70c27152e8a8ebaf74ada0d7f7f
-size 425
+Subject: request submitted : access request for chris . bowling @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000007592
+request create date : 11 / 16 / 00 11 : 21 : 08 am
+requested for : chris . bowling @ enron . com
+resource name : eol us backoffice stack manager
+resource type : applications

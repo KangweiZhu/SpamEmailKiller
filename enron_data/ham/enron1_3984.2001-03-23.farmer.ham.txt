@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95d639c4f64748b9ab77156adfdf3acb122a786ba372b628fb80e09daf4e8fb5
-size 211
+Subject: phillips - 4 / 01
+carlos ,
+i created the following deal for 4 / 01 production :
+deal # : 689508
+meter # : 98 - 6782
+deal volume : 5 , 000
+expected vol . : 4 , 200
+price : ifhsc less $ 0 . 05
+bob
