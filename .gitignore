@@ -1,3 +1,7 @@
+.venv
+.idea
+.DS_Store
+
 version https://git-lfs.github.com/spec/v1
 oid sha256:3c20d7bc4365acc99895eb9050b76e062c3c8a95e613f89826d0a679956ecf52
 size 6
