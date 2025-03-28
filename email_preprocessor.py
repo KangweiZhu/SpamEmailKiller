@@ -16,15 +16,15 @@ class EmailPreprocessor:
             feature number: 10000
                 max_features: 
             docuement frequency:
-                min_df: 3
-                max_df: 0.9
+                min_df: 2
+                max_df: 0.95
             stop_words: use English 
             ngram_range: {1,2}
         """
         self.tfidf_vectorizer = TfidfVectorizer(
             max_features=10000,    
-            min_df=3,             
-            max_df=0.9,           
+            min_df=2,
+            max_df=0.95,
             stop_words='english', 
             ngram_range=(1, 2)    
         )
@@ -60,5 +60,5 @@ class EmailPreprocessor:
         words = [w for w in words if len(w) > 1]
         return ' '.join(words)
     
-    def extract_features(self, processed_emails):
-        return self.tfidf_vectorizer.fit_transform(processed_emails)
+    def extract_features(self, emails):
+        return self.tfidf_vectorizer.fit_transform(emails)

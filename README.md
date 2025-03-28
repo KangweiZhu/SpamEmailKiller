@@ -11,6 +11,7 @@ pip install -r requirements.txt
 ## 1. How to train and test
 ```bash
 python main.py train
+python main.py test
 ```
 
 ## 2. Predict a single email

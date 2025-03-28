@@ -19,21 +19,10 @@ class MLSpamClassifier:
         if classifier_type == 'nb':
             self.classifier = MultinomialNB(alpha=0.1)
         elif classifier_type == 'svm':
-            self.classifier = LinearSVC(random_state=42)
+            self.classifier = LinearSVC(random_state=40, class_weight='balanced')
         self.classifier_type = classifier_type
     
     def train(self, X, y):
-        if self.classifier_type == 'svm':
-            # 处理类别不平衡问题
-            n_samples = len(y)
-            n_spam = sum(y)
-            n_ham = n_samples - n_spam
-            # 计算每个类别的权重
-            weight_spam = n_samples / (2 * n_spam)
-            weight_ham = n_samples / (2 * n_ham)
-            self.classifier.class_weight = {0: weight_ham, 1: weight_spam}
-        
-        # 训练模型
         self.classifier.fit(X, y)
     
     def predict(self, X):
