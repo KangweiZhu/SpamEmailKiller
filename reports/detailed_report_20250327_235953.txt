@@ -24,11 +24,11 @@ Enron Accuracy: 0.5813
 SpamAssassin Accuracy: 0.8950
 
 NB:
-Overall Accuracy: 0.9778
-Enron Accuracy: 0.9818
-SpamAssassin Accuracy: 0.9333
+Overall Accuracy: 0.9786
+Enron Accuracy: 0.9821
+SpamAssassin Accuracy: 0.9400
 
 SVM:
-Overall Accuracy: 0.9892
-Enron Accuracy: 0.9901
-SpamAssassin Accuracy: 0.9800
+Overall Accuracy: 0.9873
+Enron Accuracy: 0.9881
+SpamAssassin Accuracy: 0.9783

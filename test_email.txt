@@ -1,7 +1,15 @@
-Subject: Win a FREE iPhone today!
-From: lucky_winner@example.com
-To: you@example.com
+Subject: Suspicious Activity Detected – Immediate Action Required
 
-Congratulations! You've been selected to win a FREE iPhone 13 Pro!
-Click here to claim your prize: http://suspicious-link.com
-Limited time offer! Act now!!! 
+Dear User,
+
+We have detected suspicious login activity on your account. As a precautionary measure, we have temporarily restricted access to your account.
+
+To restore full access and verify your identity, please click the link below and follow the instructions:
+
+👉 Click here to verify your account
+
+Please note that if you do not complete the verification within 24 hours, your account will be permanently locked.
+
+Thank you for your prompt attention to this matter.
+Sincerely,
+Account Security Team

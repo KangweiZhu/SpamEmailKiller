@@ -9,7 +9,7 @@ python main.py train
 - nb
 - svm
 
-* Email Text
+* Email Text using nb
 ```bash
 python main.py predict --model nb --email "Get rich quick! Special offer!"
 ```

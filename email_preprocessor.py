@@ -37,18 +37,18 @@ class EmailPreprocessor:
         text = body_text.strip().lower()
 
         # HardCode: Just replace the url in text to url
-        text = re.sub(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(),]|%[0-9a-fA-F][0-9a-fA-F])+', 'url', text)
+        text = re.sub(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(),]|%[0-9a-fA-F][0-9a-fA-F])+', 'UuRrLl', text)
 
         # Same rule apply to email
-        text = re.sub(r'[a-zA-Z0-9._%+-]+@([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})', r'email', text)
+        text = re.sub(r'[a-zA-Z0-9._%+-]+@([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})', r'EeMmAaIiLl', text)
 
         # Replace the price related, pertenage  symbol
-        text = re.sub(r'[$€£¥]', 'money', text)
-        text = re.sub(r'\d+%', 'percentage', text)
+        text = re.sub(r'[$€£¥]', 'MmOoNn', text)
+        text = re.sub(r'\d+%', 'PeRrEeSsEeNnTtAaGgEe', text)
 
         # Replace the symbol with its semantic meaning.
-        text = re.sub(r'[!]{2,}', ' EXCLAMATION '.lower(), text)
-        text = re.sub(r'[?]{2,}', ' question ', text)
+        text = re.sub(r'[!]{2,}', ' EeXxCcLlAaMmAaTtIiOoN ', text)
+        text = re.sub(r'[?]{2,}', ' QqUuEeSsTtIiOoNn ', text)
         # other symbol just go whitespaces
         text = re.sub(r'[^\w\s]', ' ', text)
         

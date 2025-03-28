@@ -9,7 +9,6 @@ import argparse
 from multiprocessing import Pool
 import numpy as np
 from tqdm import tqdm
-import time
 
 
 # http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/index.html
@@ -75,7 +74,6 @@ def generate_report(train_stats, test_results, output_dir='reports', is_drytest=
 
 
 def train_and_test():
-    start_time = time.time()
     
     print("Loading Enron dataset")
     enron_emails, enron_labels = load_data("enron_data")
@@ -110,7 +108,7 @@ def train_and_test():
         train_data.append(processed)
         if i % 1000 == 0:
             print(f"Processed {i}/{len(x_train)} train emails")
-    X_train_features = preprocessor.extract_features(train_data, batch_size=1000)
+    X_train_features = preprocessor.extract_features(train_data)
 
     print("pre-process email test datas")
     test_data = []
@@ -188,12 +186,6 @@ def train_and_test():
 
     with open("preprocessor.pkl", 'wb') as f:
         pickle.dump(preprocessor, f)
-
-    print(f"Data loading took {time.time() - start_time:.2f} seconds")
-    preprocess_start = time.time()
-    print(f"Preprocessing took {time.time() - preprocess_start:.2f} seconds")
-    training_start = time.time()
-    print(f"Training took {time.time() - training_start:.2f} seconds")
 
 def drytest():
     print("Loading models")
