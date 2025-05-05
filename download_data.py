@@ -3,10 +3,10 @@ import urllib.request
 import tarfile
 import shutil
 
-if not os.path.exists('email_data'):
-    os.makedirs('email_data')
-    os.makedirs('email_data/spam')
-    os.makedirs('email_data/ham')
+if not os.path.exists('spamassassin_data'):
+    os.makedirs('spamassassin_data')
+    os.makedirs('spamassassin_data/spam')
+    os.makedirs('spamassassin_data/ham')
 print("Start downloading dataset...")
 
 # 下载常规邮件（ham）和 spam
@@ -31,14 +31,14 @@ for filename in os.listdir(ham_source):
     if filename.startswith("cmds"):
         continue
     src = os.path.join(ham_source, filename)
-    dst = os.path.join("email_data/ham", filename)
+    dst = os.path.join("spamassassin_data/ham", filename)
     shutil.copy2(src, dst)
 spam_source = "spam"
 for filename in os.listdir(spam_source):
     if filename.startswith("cmds"):
         continue
     src = os.path.join(spam_source, filename)
-    dst = os.path.join("email_data/spam", filename)
+    dst = os.path.join("spamassassin_data/spam", filename)
     shutil.copy2(src, dst)
 print("cleaning dates...")
 shutil.rmtree(ham_source)

@@ -45,7 +45,7 @@ def load_data(data_dir):
             with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                 content = f.read()
                 if len(content.strip()) > 0:
-                    if 'email_data' in data_dir:
+                    if 'spamassassin_data' in data_dir:
                         content = parse_email_content(content)
                     emails.append(content)
             if label == 'spam':
@@ -76,7 +76,7 @@ def train_and_test():
     print("Loading Enron dataset")
     enron_emails, enron_labels = load_data("enron_data")
     print("Loading SpamAssassin dataset")
-    assain_emails, assasin_labels = load_data("email_data")
+    assain_emails, assasin_labels = load_data("spamassassin_data")
     all_emails = enron_emails + assain_emails
     all_labels = enron_labels + assasin_labels
     enron_sources = ['enron'] * len(enron_emails)

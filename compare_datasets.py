@@ -21,8 +21,8 @@ backup_dir = "test_data_backup"
 if not os.path.exists(backup_dir):
     shutil.copytree("test_data", backup_dir)
     print(f"Created backup at {backup_dir}")
-print("Loading email_data dataset")
-email_data = load_emails('email_data', 'ham')
+print("Loading spamassassin_data dataset")
+email_data = load_emails('spamassassin_data', 'ham')
 print("Loading test_data dataset")
 test_data = load_emails('test_data', 'easy_ham')
 
