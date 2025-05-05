@@ -72,7 +72,7 @@ def generate_report(train_stats, test_results, output_dir='reports', is_drytest=
     visualizer.generate_text_report(train_stats, test_results, is_drytest)
 
 
-def train_and_validate():
+def train_and_test():
     print("Loading Enron dataset")
     enron_emails, enron_labels = load_data("enron_data")
     print("Loading SpamAssassin dataset")
@@ -239,7 +239,7 @@ def interactive_predict(model_path, email_content):
 
 def main():
     parser = argparse.ArgumentParser(description='Spam Email Detection System')
-    parser.add_argument('command', choices=['train', 'validate', 'test'])
+    parser.add_argument('command', choices=['train', 'test', 'predict'])
     parser.add_argument('--email', type=str, nargs='+')
     parser.add_argument('--model', type=str, default='nb', choices=['baseline', 'nb', 'svm'])
     args = parser.parse_args()
@@ -262,7 +262,7 @@ def main():
         print(f"Spam Probability: {spam_prob:.2%}")
         print(f"Ham Probability: {(1 - spam_prob):.2%}")
     elif args.command == 'train':
-        train_and_validate()
+        train_and_test()
     elif args.command == 'test':
         final_test()
 
