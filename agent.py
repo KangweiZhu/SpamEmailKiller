@@ -1,7 +1,4 @@
-import logging
-import os
-from asyncio import as_completed
-from concurrent.futures.thread import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import logging
 import os
 from datetime import datetime
@@ -70,7 +67,7 @@ def load_emails(base_dir):
             file_path = os.path.join(data_dir, filename)
             if os.path.isfile(file_path):
                 try:
-                    with open(file_path, 'r') as f:
+                    with open(file_path, 'r', encoding='latin-1') as f:
                         file_content = f.read()
                         data.append(
                             Email(
@@ -81,22 +78,18 @@ def load_emails(base_dir):
                             )
                         )
                 except Exception as e:
-                    print(f'Failed to read from {file_path}.')
+                    print(f'Failed to read from {file_path}')
     return data
 
-"""
-    Feed LLM with raw email data in each dataset
-
-    :param email_data:
-    :param max_threads: Control concurrent request
-    :param max_samples: Limit the number of emails that ollama could handle
-    :return: None
-    """
-import logging
-from concurrent.futures import ThreadPoolExecutor, as_completed
-
-
 def run_classification(email_data, max_threads=4, max_samples=30):
+    """
+        Feed LLM with raw email data in each dataset
+
+        :param email_data:
+        :param max_threads: Control concurrent request
+        :param max_samples: Limit the number of emails that ollama could handle
+        :return: None
+    """
     email_data = email_data[:max_samples]
     success_count = 0
     error_count = 0
@@ -165,4 +158,4 @@ setup_logger()
 enron_data = load_emails('enron_data')
 spamassassin_data = load_emails('spamassassin_data')
 all_data = enron_data + spamassassin_data
-run_classification(all_data, max_threads=6, max_samples=100)
+run_classification(all_data, max_threads=5, max_samples=len(all_data))
