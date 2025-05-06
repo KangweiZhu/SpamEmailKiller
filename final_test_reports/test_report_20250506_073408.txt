@@ -1,0 +1,41 @@
+Final Test Set Evaluation Report
+==================================================
+
+Test Set Distribution:
+------------------------------
+Total Test Emails: 2902
+Ham Emails: 2411 (83.1%)
+Spam Emails: 491 (16.9%)
+
+Model Performance on Test Set:
+------------------------------
+
+BASELINE:
+Accuracy: 0.8983
+Precision: 0.8712
+Recall: 0.4684
+F1-Score: 0.6093
+True Negatives: 2377
+False Positives: 34
+False Negatives: 261
+True Positives: 230
+
+NB:
+Accuracy: 0.9407
+Precision: 0.9733
+Recall: 0.6680
+F1-Score: 0.7923
+True Negatives: 2402
+False Positives: 9
+False Negatives: 163
+True Positives: 328
+
+SVM:
+Accuracy: 0.9170
+Precision: 0.9960
+Recall: 0.5112
+F1-Score: 0.6756
+True Negatives: 2410
+False Positives: 1
+False Negatives: 240
+True Positives: 251
