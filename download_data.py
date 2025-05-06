@@ -9,7 +9,7 @@ if not os.path.exists('spamassassin_data'):
     os.makedirs('spamassassin_data/ham')
 print("Start downloading dataset...")
 
-# 下载常规邮件（ham）和 spam
+# Download regular mail (ham) and spam
 """
     https://spamassassin.apache.org/old/publiccorpus/
 """
@@ -19,7 +19,7 @@ spam_url = "https://spamassassin.apache.org/old/publiccorpus/20030228_spam.tar.b
 spam_file = "20050311_spam_2.tar.bz2"
 urllib.request.urlretrieve(ham_url, ham_file)
 urllib.request.urlretrieve(spam_url, spam_file)
-# 解压文件
+# Unzip files
 print("unzipping files...")
 with tarfile.open(ham_file, "r:bz2") as tar:
     tar.extractall()

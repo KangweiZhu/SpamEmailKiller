@@ -31,7 +31,7 @@ def load_data(data_dir):
     total_file_count = 0
 
     if 'test_data' in data_dir:
-        # 测试数据使用 hard_ham
+        # Test data using hard_ham
         label_types = ['spam', 'easy_ham']
     else:
         label_types = ['spam', 'ham']
@@ -51,7 +51,7 @@ def load_data(data_dir):
             if label == 'spam':
                 labels.append(1)
             else:
-                # 无论是 ham 还是 hard_ham 都是正常邮件
+                # Both ham and hard_ham are normal emails
                 labels.append(0)
             file_count += 1
         total_file_count += file_count

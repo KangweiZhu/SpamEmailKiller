@@ -1,0 +1,26 @@
+From: noreply@uillinois.edu
+To: yunzhe2@illinois.edu
+Subject: University of Illinois - Your University of Illinois Password Change
+Date: Sat, 03 May 2025 13:34:04 -0500
+
+--- Body ---
+
+Dear Yunzhe Wei,
+
+Your Password was changed for the NetID: yunzhe2.  If you did not change your password, please contact your campus help desk.
+
+If you have any questions about the legitimacy of this email, please refer to: https://identity.uillinois.edu/iamFrontEnd/iam/start  or contact your campus help desk below.
+
+
+University of Illinois Service Desks
+
+
+System Offices: (217) 333-3102 servicedeskaits@uillinois.edu
+University of Illinois Chicago: (312) 413-0003 consult@uic.edu
+University of Illinois Springfield: (217) 206-6000 techsupport@uis.edu
+University of Illinois Urbana-Champaign: (217) 244-7000 consult@illinois.edu
+UI Hospital: (312) 413-7717  ishelp@uic.edu
+
+--- Links ---
+https://identity.uillinois.edu/iamFrontEnd/iam/start
+

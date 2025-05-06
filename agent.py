@@ -146,7 +146,7 @@ def setup_logger():
     logger = logging.getLogger()
     logger.setLevel(logging.INFO)
 
-    # 清除已有 handler（防止重复写）
+    # Clear existing handlers (to prevent rewriting)
     if logger.hasHandlers():
         logger.handlers.clear()
 

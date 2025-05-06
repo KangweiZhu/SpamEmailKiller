@@ -9,7 +9,7 @@ class BaselineSpamClassifier:
             self.spam_keywords = set(line.strip().lower() for line in f) 
     
     def predict(self, email):
-        # 如果包含3个或以上关键词则判定为垃圾邮件
+        # If contains 3 or more keywords, it is considered spam
         email = email.lower()
         spam_score = sum(1 for keyword in self.spam_keywords if keyword in email)
         return 1 if spam_score >= 3 else 0

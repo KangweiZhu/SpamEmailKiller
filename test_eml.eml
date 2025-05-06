@@ -1,0 +1,154 @@
+Received: from CYYPR11MB8360.namprd11.prod.outlook.com (2603:10b6:930:c3::9)
+ by CO1PR11MB5076.namprd11.prod.outlook.com with HTTPS; Sat, 3 May 2025
+ 18:34:13 +0000
+Received: from BN9P223CA0017.NAMP223.PROD.OUTLOOK.COM (2603:10b6:408:10b::22)
+ by CYYPR11MB8360.namprd11.prod.outlook.com (2603:10b6:930:c3::9) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8699.20; Sat, 3 May
+ 2025 18:34:10 +0000
+Received: from BL6PEPF0001AB4E.namprd04.prod.outlook.com
+ (2603:10b6:408:10b:cafe::d0) by BN9P223CA0017.outlook.office365.com
+ (2603:10b6:408:10b::22) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.8655.42 via Frontend Transport; Sat,
+ 3 May 2025 18:34:09 +0000
+Authentication-Results: spf=pass (sender IP is 148.163.139.28)
+ smtp.mailfrom=uillinois.edu; dkim=none (message not signed)
+ header.d=none;dmarc=pass action=none header.from=uillinois.edu;compauth=pass
+ reason=100
+Received-SPF: Pass (protection.outlook.com: domain of uillinois.edu designates
+ 148.163.139.28 as permitted sender) receiver=protection.outlook.com;
+ client-ip=148.163.139.28; helo=mx0b-00007101.pphosted.com; pr=C
+Received: from mx0b-00007101.pphosted.com (148.163.139.28) by
+ BL6PEPF0001AB4E.mail.protection.outlook.com (10.167.242.72) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8699.20 via Frontend Transport; Sat, 3 May 2025 18:34:08 +0000
+Received: from pps.filterd (m0166258.ppops.net [127.0.0.1])
+	by mx0b-00007101.pphosted.com (8.18.1.2/8.18.1.2) with ESMTP id 543FCSwN018833
+	for <yunzhe2@illinois.edu>; Sat, 3 May 2025 18:34:08 GMT
+Received: from pps.reinject (localhost [127.0.0.1])
+	by mx0b-00007101.pphosted.com (PPS) with ESMTPS id 46d9gqk6hk-1
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=OK)
+	for <yunzhe2@illinois.edu>; Sat, 03 May 2025 18:34:08 +0000 (GMT)
+Received: from m0166258.ppops.net (m0166258.ppops.net [127.0.0.1])
+	by pps.reinject (8.18.0.8/8.18.0.8) with ESMTP id 543IWLA2008338
+	for <yunzhe2@illinois.edu>; Sat, 3 May 2025 18:34:07 GMT
+Received: from chiiamprvsnprod2b.admin.uillinois.edu (chiiamprvsnprod2b.admin.uillinois.edu [64.22.182.151])
+	by mx0b-00007101.pphosted.com (PPS) with ESMTP id 46d9gqk6hh-1;
+	Sat, 03 May 2025 18:34:07 +0000 (GMT)
+Date: Sat, 3 May 2025 13:34:04 -0500
+From: noreply@uillinois.edu
+To: <yunzhe2@illinois.edu>
+Message-ID: <1302847317.81278.1746297244840@chiiamprvsnprod2b.admin.uillinois.edu>
+Subject: University of Illinois - Your University of Illinois Password
+ Change
+Content-Type: multipart/mixed;
+	boundary="----=_Part_81277_864317070.1746297244659"
+X-Proofpoint-GUID: BdwKdLsTTwUpgth3_kEh6v5EVlfFv46q
+X-Proofpoint-ORIG-GUID: I-Q4gKVchHsw9sQ7UDkuYcejiBnZ48Hi
+X-CLX-Response: 1TFkXGBwfEQpMehcYEx8RCllEF2trGUV6XG9HQVpPEQpYWBdoZRhoYElpYWB HaxEKeE4XZVNNeExBH09dbWYRCnlMF2J5RxwdX0xaaUwcEQpDSBcHGxsYEQpDWRcHGRgcEQpDSR caBBoaGhEKWU0XZ2ZyEQpZSRcacRoQGncGGB4fcRsTHBIQHHcGGBoGGhEKWV4XaG55EQpJRhdfQ
+ 19JdUJFWV5PThEKSUcXeE9NEQpDThdjB3seTWF8SUJiWV0TWXsdf25BX3NJT0BDaERwHhJiQxEK WFwXHwQaBBkTEgUbGgQbGhoEGxkeBBkZEBseGh8aEQpeWRdMfmtzHREKTVwXGR4YEQpMWhdpa2l NTU0RCkVZF29raxEKTEYXY2traxEKQk8XYWdYRVp+ZGBnTn4RCkNaFxweBBgYBBsSGAQbHxsRCk
+ JeFxsRCkJFF2hlGGhgSWlhYEdrEQpCThdlU014TEEfT11tZhEKQkwXaGUYaGBJaWFgR2sRCkJsF 2hlGGhgSWlhYEdrEQpCQBdrZ2RfbUdNQFNIeREKQlgXZ0lpT3x7a3tERX8RClpYFxgRCnlDF2kF E0RgXERvQU5TEQpZSxcbGh4aGREKcGcXaHlYQQVtWV8SX3IQGxoaEQpwaBdifhhre3p6HGB7cBA
+ eEhEKcGgXaGR+HWRwa35PbUAQHhIRCnBoF2tgEwF8el4ZTEVtEBoRCnBoF28bSUtHaVl9TkUeEB 4SEQpwaBdufx1TS0hiE1BYQBAeEhEKcGgXZxpZW0V7ZU8fTgEQGRoRCnBoF2EbeF1NbFoaellNE BwaEQpwfRdnYEFgHGJYXmsaYRAdGhEKcGcXbHtBUh0cZV4TE0AQEx8RCnBnF2lncExmX2Bcch1j
+ EBMfEQpwZxdoQ1NIQEx/QXhGYRASGxEKcGcXYn1lUkNOG1lYfEsQEx8RCnB/F2JkbkFJR2REZmh ZEBsfGBEKcF8XbUFkeX5QEx15UkEQHRoRCm1+FxoRClhNF0sRIA==
+X-CLX-Shades: MLX
+X-Proofpoint-Spam-Details-Enc: AW1haW4tMjUwNTAzMDE3MSBTYWx0ZWRfX7RBkyiOXh6L5 kEvJyEAcL2k8NMatWThzfyi7zO7XMZt82sArn0ye5yLX2SX88E4mXDTGLdXR6MLn+5bRtDxTtYu 5C/u/vbFYZdt+7MZPr4cLxcVU5s412XY48+RBIi0P52yIQyvPxEQgegxZMaAXJWnYBsy4xoHujm
+ CtZnUJMfD3TCCjUmEVs2XC+D0/mfWbSzuFYAfKOwk8MH0PDskdFa+fnxx8hSXZwQxvuP9KtCFEZ KXq+UL1aTg3mKZEPYllmpm90zYZLQ4+iUq4cGPHbJ2PST2PgdCjsozVKqoCvZym1/OxP0tX3loQ CdWcqbLl+ypRCbu3afrBbI2BuCpxVtz4u32V+IkcLBc+2XEa/fKjhYozT+lLWJjkPMG0c3pxkYj
+ kaduFBPxiP6ZdJ4XReyQ1phy8SYY9ziqVPdQbK8Co7LqHaHa+IM=
+X-Proofpoint-Virus-Version: vendor=baseguard
+ engine=ICAP:2.0.293,Aquarius:18.0.1099,Hydra:6.0.736,FMLib:17.12.80.40
+ definitions=2025-05-03_08,2025-04-30_01,2025-02-21_01
+X-Proofpoint-Spam-Details: rule=cautious_plus_nq_notspam policy=cautious_plus_nq score=0 mlxscore=0
+ suspectscore=0 adultscore=0 clxscore=265 bulkscore=0 priorityscore=295
+ lowpriorityscore=0 malwarescore=0 impostorscore=0 phishscore=0
+ mlxlogscore=590 spamscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.19.0-2504070000 definitions=main-2505030171
+ domainage_hfrom=10403
+X-Spam-Score: 0
+X-Spam-OrigSender: noreply@uillinois.edu
+X-Spam-Bar:
+Return-Path: noreply@uillinois.edu
+X-MS-Exchange-Organization-ExpirationStartTime: 03 May 2025 18:34:08.7619
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: a53cefc2-7468-413e-557c-08dd8a71178e
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 44467e6f-462c-4ea2-823f-7800de5434e3:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: BL6PEPF0001AB4E:EE_|CYYPR11MB8360:EE_|CO1PR11MB5076:EE_
+X-MS-Exchange-Organization-AuthSource: BL6PEPF0001AB4E.namprd04.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: a53cefc2-7468-413e-557c-08dd8a71178e
+X-MS-Exchange-AtpMessageProperties: SA
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|82310400026|13003099007;
+X-Forefront-Antispam-Report: CIP:148.163.139.28;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mx0b-00007101.pphosted.com;PTR:mx0b-00007101.pphosted.com;CAT:NONE;SFS:(13230040)(82310400026)(13003099007);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 03 May 2025 18:34:08.6711
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: a53cefc2-7468-413e-557c-08dd8a71178e
+X-MS-Exchange-CrossTenant-Id: 44467e6f-462c-4ea2-823f-7800de5434e3
+X-MS-Exchange-CrossTenant-AuthSource: BL6PEPF0001AB4E.namprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CYYPR11MB8360
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.5252185
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.8699.024
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?T1BKRStwTE9nOUJLalRITFg2WTBMS2o0S2hNeW9MVVBtZlhmR01DN1BpNlJJ?=
+ =?utf-8?B?S3BISHU3MjRjTEpDS0hXTmMycDh6SllMZEhmZk8zMUNseGlFUk02QXBsQlBz?=
+ =?utf-8?B?Rk1VUWl3N2hQNVl5cFM0ZkJXSmFIZlZCNUs0RmEyQS9ianYvNE5yb0FrTUVs?=
+ =?utf-8?B?Zk85SmhYQk42TnpaaEh0eFE1ejYyRzg4LzlNc2hMczBDS0Q3dEV1dS96ZFpZ?=
+ =?utf-8?B?MERTdHBTWXFha2h0MGhKT0U1Uks3WTU0RXlPakxSVVV0RmlvbEhGV2lMK2tB?=
+ =?utf-8?B?MThLTXBTcUliQ1hObVFLenJvM3ViNmRoV2JieHpxbkJaUjFFTjVhYk1MOVQ0?=
+ =?utf-8?B?OEtac0gyRm1kQ2ZNcHdMa1BHMTVXZG04RHFQL1cxVnVjUXFMd1lxaTYwRk5Z?=
+ =?utf-8?B?YWRvdEkwaUZYMkh2MnNTbGx6SFBjQWdTV2F6RGFZTk1BU1U0Zm1YbVNPMEU5?=
+ =?utf-8?B?eThKU1RuMFBqY1pkZjMzcytzdi9nT3ZGcEJ5Z3p2QVErY3JFVzNwQW5oMjNk?=
+ =?utf-8?B?V0doRWROdW9FQWRSVzlDQktyRytxMEVvdk9OejY3WmxUT2w0anZUT0txbmF5?=
+ =?utf-8?B?dUFudWg1Z05Tdk1mbkNLeFVOeUFEaFdMMHVneGlSYmp1NFdRNXpwQVI3bkgz?=
+ =?utf-8?B?ODVzRm5DODVQclAzY1Fia3VXTFJmUDl2NSthQW9kSGFXMmE5Z0ZadEtya3py?=
+ =?utf-8?B?NmpkWTNwL3RObW55RzF5SUVFVURWZ3AvdGZPblMyaHExam9PblZYYVhMbkZ6?=
+ =?utf-8?B?TTM0RFdwdWY0aGFTMmMwUkhMbUUwVmR0aGhvSlk3SVMyUUd0a1FzeVMyZFpI?=
+ =?utf-8?B?alpKS05FT2hTOWYwd3pVdUQ2cFlDZzVtTm02bEtJS2VQcnQ2RW1wOHFweG5H?=
+ =?utf-8?B?TnU1OFFCWnZuYUM1SE9DdnpGWWZkUU8wa3BiY1lxbkVSQUMxYU9vd08rMWh0?=
+ =?utf-8?B?ZHNVQ3RWWWNMbWtwZGVMTGpTejJiYVgzRFVZbzRhTDloM3VJZU85MnpodlZH?=
+ =?utf-8?B?ZEVSamcxWUR0bG9IRGhYT2puOEp6b1IzajZIODFjWDZhT1VXekJRUmorejFW?=
+ =?utf-8?B?OW9wWE9IQXRxbEx2czBaVXBSR2V0TEZMcWlCUHgvU3htaWQxbFZFbExnaTN1?=
+ =?utf-8?B?L1VHbWNMemNSbDZQbUgxMEpsZ1NPTzg2RDRORkRiTGE4bk4ybTdmOXBEMWtz?=
+ =?utf-8?B?R3JyMlRsRXJrc05aelI4TnhqRHo2cFZ4UVhGYVVoVXNvbTJuN1ZMMmduZVV3?=
+ =?utf-8?B?di8yWDdwS1h0aWZxYUFEREVZSDdmOWozeWFSVW5QcnpDMHpZajJmZ0ZSTFhJ?=
+ =?utf-8?B?bXN2Rk1rbE5LWEF3Mjdwa0tPSkc2bzNoUUJrbklJUkRZQUNUR3ZkNW84Nzl0?=
+ =?utf-8?B?SzhGWTg3S0NYdzNyVldsMVhXbnI4QndhTXNJcG54Q0VMSVBWb1ZEcG01dk00?=
+ =?utf-8?B?dkdwdTQ5RzJJNlhhbjRXRXdXMS9Hek9uTlk3WnhMNlo2NEhzUStydzF4a01O?=
+ =?utf-8?B?dnVCVnArVTRDcWkvVGlNcTJtMEp6dXFScVZtckJSMkJjKy9zS2VjVzZ0aE5j?=
+ =?utf-8?Q?cciGBZP85q1Gh36x5aEAsPuVaoW/xz/RbhhMq/qrXg5wpY?=
+MIME-Version: 1.0
+
+------=_Part_81277_864317070.1746297244659
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Yunzhe Wei,
+
+Your Password was changed for the NetID: yunzhe2.  If you did not change yo=
+ur password, please contact your campus help desk.
+
+If you have any questions about the legitimacy of this email, please refer =
+to: https://identity.uillinois.edu/iamFrontEnd/iam/start  or contact your c=
+ampus help desk below.
+
+
+University of Illinois Service Desks
+
+
+System Offices: (217) 333-3102 servicedeskaits@uillinois.edu
+University of Illinois Chicago: (312) 413-0003 consult@uic.edu
+University of Illinois Springfield: (217) 206-6000 techsupport@uis.edu
+University of Illinois Urbana-Champaign: (217) 244-7000 consult@illinois.ed=
+u
+UI Hospital: (312) 413-7717  ishelp@uic.edu
+
+------=_Part_81277_864317070.1746297244659--
