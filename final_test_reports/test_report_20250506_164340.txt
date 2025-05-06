@@ -1,0 +1,22 @@
+Final Qwen2.5:0.5b spam/ham Evaluation Report
+==================================================
+
+Dataset Distribution:
+------------------------------
+Total Test Emails: 36557
+Ham Emails: 18992 (52.0%)
+Spam Emails: 17565 (48.0%)
+Error Emails(Failed to parse): 158
+
+Qwen2.5:0.5b Performance on all emails in all datasets:
+------------------------------
+
+QWEN2.5:0.5B:
+Accuracy: 0.9703
+Precision: 0.9990
+Recall: 0.9393
+F1-Score: 0.9682
+True Negatives: 18975
+False Positives: 17
+False Negatives: 1067
+True Positives: 16498

@@ -4,7 +4,7 @@ import numpy as np
 from visualizer import SpamVisualizer
 
 
-def parse_log_to_results(log_path: str, model_name='llm'):
+def parse_log_to_results(log_path: str, model_name='Qwen2.5:0.5b'):
     results = {
         model_name: {
             'overall': {'confusion_matrix': np.zeros((2, 2), dtype=int)},

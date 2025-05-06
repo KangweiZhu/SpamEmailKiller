@@ -150,7 +150,7 @@ class SpamVisualizer:
 
     def generate_text_report(self, stats, results, is_drytest=False):
         with open(f'{self.output_dir}/detailed_report_{self.timestamp}.txt', 'w') as f:
-            f.write("Spam Detection Model Evaluation Report\n")
+            f.write("Qwen2.5:0.5b Spam Filter: Evaluation Report\n")
             f.write("=" * 50 + "\n\n")
             f.write("Dataset Distribution:\n")
             f.write("-" * 30 + "\n")
@@ -199,7 +199,7 @@ class SpamVisualizer:
                 linewidth=1)
 
         plt.ylabel('Accuracy')
-        plt.title('Model Performance on Test Set')
+        plt.title('Qwen2.5:0.5b Performance: All emails in all datasets')
         plt.xticks(range(len(models)), [model.upper() for model in models])
         plt.grid(True, linestyle='--', alpha=0.7)
         for i, acc in enumerate(accuracies):
@@ -228,15 +228,15 @@ class SpamVisualizer:
 
     def generate_test_report(self, stats, results):
         with open(f'{self.output_dir}/test_report_{self.timestamp}.txt', 'w') as f:
-            f.write("Final Test Set Evaluation Report\n")
+            f.write("Final Qwen2.5:0.5b spam/ham Evaluation Report\n")
             f.write("=" * 50 + "\n\n")
-            f.write("Test Set Distribution:\n")
+            f.write("Dataset Distribution:\n")
             f.write("-" * 30 + "\n")
             total_test = stats['test_ham'] + stats['test_spam']
-            f.write(f"Total Test Emails: {total_test}\n")
+            f.write(f"Total Tested Emails: {total_test}\n")
             f.write(f"Ham Emails: {stats['test_ham']} ({stats['test_ham'] / total_test:.1%})\n")
             f.write(f"Spam Emails: {stats['test_spam']} ({stats['test_spam'] / total_test:.1%})\n\n")
-            f.write("Model Performance on Test Set:\n")
+            f.write("Qwen2.5:0.5b Performance on all emails in all datasets:\n")
             f.write("-" * 30 + "\n")
             for model in results.keys():
                 f.write(f"\n{model.upper()}:\n")
