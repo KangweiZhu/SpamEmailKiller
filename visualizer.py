@@ -4,6 +4,9 @@ import numpy as np
 import os
 from datetime import datetime
 
+import matplotlib
+matplotlib.use('Agg')  
+import matplotlib.pyplot as plt
 
 class SpamVisualizer:
     def __init__(self, output_dir='reports'):
